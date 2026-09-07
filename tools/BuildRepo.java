@@ -92,6 +92,10 @@ public class BuildRepo {
         entries.put("metadata.json", metadata.getBytes(StandardCharsets.UTF_8));
         entries.put("layout.json", layout.getBytes(StandardCharsets.UTF_8));
         entries.put("symbols.json", symbols.getBytes(StandardCharsets.UTF_8));
+        File dictFile = new File(dir, "dictionary.txt");
+        if (dictFile.exists()) {
+            entries.put("dictionary.txt", Files.readAllBytes(dictFile.toPath()));
+        }
         writeZip(zip, entries);
 
         PkgResult r = new PkgResult();
@@ -119,6 +123,10 @@ public class BuildRepo {
         for (String name : new String[]{"layout.json", "symbols.json"}) {
             File f = new File(dir, name);
             if (f.exists()) entries.put(name, readUtf8(f).getBytes(StandardCharsets.UTF_8));
+        }
+        File dictFile = new File(dir, "dictionary.txt");
+        if (dictFile.exists()) {
+            entries.put("dictionary.txt", Files.readAllBytes(dictFile.toPath()));
         }
 
         File zip = new File(dir, "language.zip");

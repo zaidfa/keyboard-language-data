@@ -30,7 +30,9 @@ import zipfile
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Files that make up a language package, in order. metadata.json is required.
-PACKAGE_FILES = ["metadata.json", "layout.json", "symbols.json"]
+# dictionary.txt is optional (enables autocomplete): one word per line, most
+# frequent first.
+PACKAGE_FILES = ["metadata.json", "layout.json", "symbols.json", "dictionary.txt"]
 
 
 def sha256_of(path):

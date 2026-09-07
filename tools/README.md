@@ -56,6 +56,29 @@ Python 3.8+ (standard library only — no pip installs). `BuildRepo.java` needs 
   `shift`, `delete`, `space`, `enter`, `symbols`, `mode`, `language`, `emoji`,
   `settings`, `theme`, `function`.
 
+## Dictionary (autocomplete) — optional
+
+Add a `dictionary.txt` next to `layout.json` to enable autocomplete for that
+language:
+
+- **Format:** plain UTF-8, **one word per line, most-frequent first** (the app
+  ranks shorter completions first and preserves your leading capitalisation).
+- The packager automatically includes it in `language.zip`; the app loads it into
+  a trie when the language is active and shows completions in the suggestion strip.
+- If a language has no `dictionary.txt`, it simply types without autocomplete —
+  never a crash.
+
+**Where to get real word lists** (do NOT fabricate): frequency lists such as
+Hermit Dave's *FrequencyWords* (per-language, MIT), the Leipzig Corpora
+Collection, or Aspell/Hunspell word lists. Strip to one word per line and order
+by frequency. Then:
+
+```bash
+# put your real dictionary.txt in languages/<id>/, then:
+python tools/package_language.py <id>
+python tools/generate_catalog.py
+```
+
 ## Calculating SHA-256 manually (sanity check)
 
 ```bash
