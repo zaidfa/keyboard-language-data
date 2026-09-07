@@ -1,0 +1,10 @@
+{
+  "id": "en-US",
+  "name": "English (United States)",
+  "nativeName": "English (US)",
+  "locale": "en-US",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1073,
+  "sha256": "bc043ebc1072a899cc5f60bbd43728cab61c1df5acbc1435402b7e34b3e095be"
+}

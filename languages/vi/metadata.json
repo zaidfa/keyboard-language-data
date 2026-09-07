@@ -1,0 +1,9 @@
+{
+  "id": "vi",
+  "name": "Vietnamese",
+  "nativeName": "Tiếng Việt",
+  "locale": "vi",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

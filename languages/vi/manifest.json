@@ -1,0 +1,10 @@
+{
+  "id": "vi",
+  "name": "Vietnamese",
+  "nativeName": "Tiếng Việt",
+  "locale": "vi",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1168,
+  "sha256": "63ea898aaabcda0c6be569fba1c729a769f5b8c28349140a578a368139ce27ee"
+}

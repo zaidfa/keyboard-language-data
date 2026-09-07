@@ -1,0 +1,10 @@
+{
+  "id": "fr",
+  "name": "French",
+  "nativeName": "Français",
+  "locale": "fr",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1007,
+  "sha256": "3fd20182116521fa54d7c3e5fc195b66679a03ddc3d2f971aa3c153dfaf826bd"
+}

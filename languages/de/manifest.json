@@ -1,0 +1,10 @@
+{
+  "id": "de",
+  "name": "German",
+  "nativeName": "Deutsch",
+  "locale": "de",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1031,
+  "sha256": "8e5b7b996ca466d263f2a9a584be6a59b137834d1cc439e06bb47d75f6af0d33"
+}
