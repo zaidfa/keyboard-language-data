@@ -1,0 +1,10 @@
+{
+  "id": "et",
+  "name": "Estonian",
+  "nativeName": "Eesti",
+  "locale": "et",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1033,
+  "sha256": "ee95ac9c857137c7574c3e5792c08ccf2092992e1ae93fe80317a15073865b7c"
+}

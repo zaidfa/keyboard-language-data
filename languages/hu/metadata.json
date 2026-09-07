@@ -1,0 +1,9 @@
+{
+  "id": "hu",
+  "name": "Hungarian",
+  "nativeName": "Magyar",
+  "locale": "hu",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

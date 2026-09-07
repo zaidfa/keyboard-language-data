@@ -1,0 +1,10 @@
+{
+  "id": "cs",
+  "name": "Czech",
+  "nativeName": "Čeština",
+  "locale": "cs",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1015,
+  "sha256": "c6d5c2dcef3c4642a398c0d851a921813cbb9d0da84f77d11df471c5ea09caf3"
+}

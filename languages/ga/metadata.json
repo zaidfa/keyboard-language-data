@@ -1,0 +1,9 @@
+{
+  "id": "ga",
+  "name": "Irish",
+  "nativeName": "Gaeilge",
+  "locale": "ga",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

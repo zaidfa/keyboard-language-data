@@ -1,0 +1,10 @@
+{
+  "id": "eu",
+  "name": "Basque",
+  "nativeName": "Euskara",
+  "locale": "eu",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1024,
+  "sha256": "68983bc4b3a259f37087efade6c8744424f04e860949269b81cd7bd92bc81e32"
+}

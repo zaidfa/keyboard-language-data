@@ -1,0 +1,9 @@
+{
+  "id": "ro",
+  "name": "Romanian",
+  "nativeName": "Română",
+  "locale": "ro",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

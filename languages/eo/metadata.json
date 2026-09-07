@@ -1,0 +1,9 @@
+{
+  "id": "eo",
+  "name": "Esperanto",
+  "nativeName": "Esperanto",
+  "locale": "eo",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

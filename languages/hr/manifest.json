@@ -1,0 +1,10 @@
+{
+  "id": "hr",
+  "name": "Croatian",
+  "nativeName": "Hrvatski",
+  "locale": "hr",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1059,
+  "sha256": "871026f8c94fef130ba07b3b952010499b2b4c029cf29594b3b31c36966925c9"
+}

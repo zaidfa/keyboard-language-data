@@ -1,0 +1,10 @@
+{
+  "id": "lv",
+  "name": "Latvian",
+  "nativeName": "Latviešu",
+  "locale": "lv",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1009,
+  "sha256": "32c5391e39764efce7b6e80f513abe70bbccfa0843d69f9c879859a0df4175f1"
+}

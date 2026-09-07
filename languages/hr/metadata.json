@@ -1,0 +1,9 @@
+{
+  "id": "hr",
+  "name": "Croatian",
+  "nativeName": "Hrvatski",
+  "locale": "hr",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

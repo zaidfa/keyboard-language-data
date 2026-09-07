@@ -1,0 +1,10 @@
+{
+  "id": "gl",
+  "name": "Galician",
+  "nativeName": "Galego",
+  "locale": "gl",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1020,
+  "sha256": "ac0e8e0e556109ddec7bca87f9c1d8ca083fe83084f2bd24e62677c307a6efa3"
+}

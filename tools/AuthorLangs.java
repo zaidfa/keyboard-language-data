@@ -70,6 +70,50 @@ public class AuthorLangs {
         int[] r3tr = {SHIFT, 122, 120, 99, 118, 98, 110, 109, 246, 231, DEL};
         layouts.put("tr", new int[][]{r1tr, r2tr, r3tr, R4});
 
+        // ---- QWERTZ base (z<->y swapped) for Central-European languages ----
+        int[] R1QZ = {113, 119, 101, 114, 116, 122, 117, 105, 111, 112}; // q w e r t z u i o p
+        int[] R3QZ = {SHIFT, 121, 120, 99, 118, 98, 110, 109, DEL};      // y x c v b n m
+        for (String id : new String[]{"cs", "sk", "lb"}) {
+            layouts.put(id, new int[][]{R1QZ, R2, R3QZ, R4});
+        }
+        // Slovenian: QWERTZ + c-caron(269) s-caron(353) z-caron(382)
+        layouts.put("sl", new int[][]{R1QZ, append(append(append(R2, 269), 353), 382), R3QZ, R4});
+        // Croatian: q..p s-caron(353) d-stroke(273) / a..l c-caron(269) c-acute(263) z-caron(382) / y..m
+        layouts.put("hr", new int[][]{
+                append(append(R1QZ, 353), 273),
+                append(append(append(R2, 269), 263), 382),
+                R3QZ, R4});
+        // Hungarian: QWERTZ / a..l e-acute(233) a-acute(225) / y..m o-diaeresis(246) u-diaeresis(252)
+        layouts.put("hu", new int[][]{
+                R1QZ,
+                append(append(R2, 233), 225),
+                new int[]{SHIFT, 121, 120, 99, 118, 98, 110, 109, 246, 252, DEL},
+                R4});
+        // Romanian: QWERTY / a..l a-breve(259) i-circ(238) / z..m s-comma(537) t-comma(539) a-circ(226)
+        layouts.put("ro", new int[][]{
+                R1,
+                append(append(R2, 259), 238),
+                new int[]{SHIFT, 122, 120, 99, 118, 98, 110, 109, 537, 539, 226, DEL},
+                R4});
+        // Catalan: QWERTY + c-cedilla(231)
+        layouts.put("ca", new int[][]{R1, append(R2, 231), R3, R4});
+        // Basque / Galician: QWERTY + n-tilde(241)
+        for (String id : new String[]{"eu", "gl"}) {
+            layouts.put(id, new int[][]{R1, append(R2, 241), R3, R4});
+        }
+        // Estonian: QWERTY + o-tilde(245) row1, a-diaeresis(228) o-diaeresis(246) row2
+        layouts.put("et", new int[][]{append(R1, 245), append(append(R2, 228), 246), R3, R4});
+        // Icelandic: q..p eth(240) / a..l ae(230) o-diaeresis(246) / z..m thorn(254)
+        layouts.put("is", new int[][]{
+                append(R1, 240),
+                append(append(R2, 230), 246),
+                new int[]{SHIFT, 122, 120, 99, 118, 98, 110, 109, 254, DEL},
+                R4});
+        // Plain QWERTY (accents via future long-press): Lithuanian, Latvian, Irish, Maltese, Esperanto
+        for (String id : new String[]{"lt", "lv", "ga", "mt", "eo"}) {
+            layouts.put(id, new int[][]{R1, R2, R3, R4});
+        }
+
         int count = 0;
         for (Map.Entry<String, int[][]> e : layouts.entrySet()) {
             Lang meta = find(seed, e.getKey());

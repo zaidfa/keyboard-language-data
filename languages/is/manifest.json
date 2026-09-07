@@ -1,0 +1,10 @@
+{
+  "id": "is",
+  "name": "Icelandic",
+  "nativeName": "Íslenska",
+  "locale": "is",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1053,
+  "sha256": "809c869000c14de1ed1a2983799f9c49e6e5175fb2eadce4c23fb05377c63ba4"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "ga",
+  "name": "Irish",
+  "nativeName": "Gaeilge",
+  "locale": "ga",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1013,
+  "sha256": "66e6e769432cb4a68905e962b7a9166afc88754702af2637b02203300ca1a391"
+}

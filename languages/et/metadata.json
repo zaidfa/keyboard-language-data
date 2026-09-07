@@ -1,0 +1,9 @@
+{
+  "id": "et",
+  "name": "Estonian",
+  "nativeName": "Eesti",
+  "locale": "et",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

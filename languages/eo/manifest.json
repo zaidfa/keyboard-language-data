@@ -1,0 +1,10 @@
+{
+  "id": "eo",
+  "name": "Esperanto",
+  "nativeName": "Esperanto",
+  "locale": "eo",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1005,
+  "sha256": "5c2f289bde89d7e06fe22b858eef0cb33b7c691026c87700dc4941842a03bc26"
+}

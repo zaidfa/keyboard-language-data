@@ -1,0 +1,10 @@
+{
+  "id": "lt",
+  "name": "Lithuanian",
+  "nativeName": "Lietuvių",
+  "locale": "lt",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1015,
+  "sha256": "bd23c930e9ab0d6bd9503a930d7f62e5ef99ec3b88778448f97a585730bc52af"
+}

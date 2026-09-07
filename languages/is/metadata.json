@@ -1,0 +1,9 @@
+{
+  "id": "is",
+  "name": "Icelandic",
+  "nativeName": "Íslenska",
+  "locale": "is",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

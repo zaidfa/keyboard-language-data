@@ -1,0 +1,9 @@
+{
+  "id": "lt",
+  "name": "Lithuanian",
+  "nativeName": "Lietuvių",
+  "locale": "lt",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

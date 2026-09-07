@@ -1,0 +1,10 @@
+{
+  "id": "lb",
+  "name": "Luxembourgish",
+  "nativeName": "Lëtzebuergesch",
+  "locale": "lb",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1025,
+  "sha256": "ec994eb8b08f77ce930cf201e1c068306fe2d235c008e0631159b78c8ac8aaee"
+}

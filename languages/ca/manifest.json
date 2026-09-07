@@ -1,0 +1,10 @@
+{
+  "id": "ca",
+  "name": "Catalan",
+  "nativeName": "Català",
+  "locale": "ca",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1021,
+  "sha256": "5fba959279a70989ba09b6fb1cc9e6542c40936e5fdf40591cae70c56b23d722"
+}

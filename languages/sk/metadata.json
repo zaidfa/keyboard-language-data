@@ -1,0 +1,9 @@
+{
+  "id": "sk",
+  "name": "Slovak",
+  "nativeName": "Slovenčina",
+  "locale": "sk",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

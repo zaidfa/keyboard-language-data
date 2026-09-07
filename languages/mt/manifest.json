@@ -1,0 +1,10 @@
+{
+  "id": "mt",
+  "name": "Maltese",
+  "nativeName": "Malti",
+  "locale": "mt",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1005,
+  "sha256": "4a61d7d36cac733286ecab9d7dd874339dcde47a34ea7b8e34c6291c6a064517"
+}

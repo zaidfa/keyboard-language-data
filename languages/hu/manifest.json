@@ -1,0 +1,10 @@
+{
+  "id": "hu",
+  "name": "Hungarian",
+  "nativeName": "Magyar",
+  "locale": "hu",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1049,
+  "sha256": "8920875e085ffa412ba980a2259fbbe854b388c0e002fd90faa2fb59ebca8b05"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mt",
+  "name": "Maltese",
+  "nativeName": "Malti",
+  "locale": "mt",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

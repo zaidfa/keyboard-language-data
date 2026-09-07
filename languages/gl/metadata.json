@@ -1,0 +1,9 @@
+{
+  "id": "gl",
+  "name": "Galician",
+  "nativeName": "Galego",
+  "locale": "gl",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "cs",
+  "name": "Czech",
+  "nativeName": "Čeština",
+  "locale": "cs",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

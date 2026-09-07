@@ -1,0 +1,10 @@
+{
+  "id": "sl",
+  "name": "Slovenian",
+  "nativeName": "Slovenščina",
+  "locale": "sl",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1042,
+  "sha256": "281fbb6dbff9a9d7cb2e6ee522462000c3f7f6445ee047bc5d411d3d12401302"
+}

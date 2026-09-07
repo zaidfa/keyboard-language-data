@@ -1,0 +1,10 @@
+{
+  "id": "ro",
+  "name": "Romanian",
+  "nativeName": "Română",
+  "locale": "ro",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1053,
+  "sha256": "59d13a0c93643a9be189c9b28f52007a94468c7fe53cbbebf7e008834fbf72af"
+}
