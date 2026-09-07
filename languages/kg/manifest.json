@@ -1,0 +1,10 @@
+{
+  "id": "kg",
+  "name": "Kongo",
+  "nativeName": "Kikongo",
+  "locale": "kg",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1007,
+  "sha256": "51f0db90f1d6b8ef701a11c3aec1f9e10335387f1ec1723e32b0f027fc24aebf"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "bn-IN",
+  "name": "Bengali (India)",
+  "nativeName": "বাংলা (ভারত)",
+  "locale": "bn-IN",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1310,
+  "sha256": "aa3b5b0fabf20b05bb7c9462da5c66657b868886f3dbad78dbac57764c665531"
+}

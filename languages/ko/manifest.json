@@ -1,0 +1,10 @@
+{
+  "id": "ko",
+  "name": "Korean",
+  "nativeName": "한국어",
+  "locale": "ko",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1147,
+  "sha256": "9d4f9c412688b3a2911d166370cdbec890eaa626c12622e670e8fbe5d0b2d33b"
+}

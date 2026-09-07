@@ -1,0 +1,10 @@
+{
+  "id": "kn",
+  "name": "Kannada",
+  "nativeName": "ಕನ್ನಡ",
+  "locale": "kn",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1269,
+  "sha256": "c8bfc9036c02407e1e51f76eed9e650356a64488a00c67dea38a5b20475fc1cb"
+}

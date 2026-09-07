@@ -1,0 +1,10 @@
+{
+  "id": "ig",
+  "name": "Igbo",
+  "nativeName": "Igbo",
+  "locale": "ig",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1003,
+  "sha256": "9ffd2924f2f96814defec4767edaeb536772ca8c968a931bbeb629a11349604f"
+}

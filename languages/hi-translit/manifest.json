@@ -1,0 +1,10 @@
+{
+  "id": "hi-translit",
+  "name": "Hindi (Transliteration)",
+  "nativeName": "Hindi (Transliteration)",
+  "locale": "hi",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1039,
+  "sha256": "4ee36bdf7967f68d4f6996a0554cfae537f48e0cc9b289d29cfc27543823f294"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "gn",
+  "name": "Guarani",
+  "nativeName": "Avañe'ẽ",
+  "locale": "gn",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1016,
+  "sha256": "d022536a297abe36673896ca0efc35423b75afebdd3c4d3081ab4b5be3b28b0e"
+}

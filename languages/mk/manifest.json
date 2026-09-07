@@ -1,0 +1,10 @@
+{
+  "id": "mk",
+  "name": "Macedonian",
+  "nativeName": "Македонски",
+  "locale": "mk",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1201,
+  "sha256": "dd7fa3bf70e9e2ff84de6deb9d59fc2ff1c3a5f0a9d9c8a5ef6db99154a7d4be"
+}

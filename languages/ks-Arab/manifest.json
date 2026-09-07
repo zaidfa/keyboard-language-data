@@ -1,0 +1,10 @@
+{
+  "id": "ks-Arab",
+  "name": "Kashmiri (Arabic)",
+  "nativeName": "کٲشُر",
+  "locale": "ks-Arab",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1243,
+  "sha256": "679e32b59405aa3348c00fde1e688540c14d2b6ce5bdc88bd00d8e1d8729d2ff"
+}

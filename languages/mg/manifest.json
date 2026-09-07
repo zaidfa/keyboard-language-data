@@ -1,0 +1,10 @@
+{
+  "id": "mg",
+  "name": "Malagasy",
+  "nativeName": "Malagasy",
+  "locale": "mg",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1005,
+  "sha256": "fe36ee03a1305db3a1984e79e7d13599f5a148ea8cf8bc1ad344c6bf77bae1e4"
+}

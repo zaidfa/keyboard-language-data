@@ -1,0 +1,9 @@
+{
+  "id": "he",
+  "name": "Hebrew",
+  "nativeName": "עברית",
+  "locale": "he",
+  "script": "Hebrew",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

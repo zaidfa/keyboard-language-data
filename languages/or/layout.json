@@ -1,0 +1,14 @@
+{
+  "id": "or",
+  "type": "main",
+  "rows": [
+    { "keys": [{"label": "ଅ", "code": 2821}, {"label": "ଆ", "code": 2822}, {"label": "ଇ", "code": 2823}, {"label": "ଈ", "code": 2824}, {"label": "ଉ", "code": 2825}, {"label": "ଊ", "code": 2826}, {"label": "ଋ", "code": 2827}, {"label": "ଌ", "code": 2828}, {"label": "ଏ", "code": 2831}, {"label": "ଐ", "code": 2832}, {"label": "ଓ", "code": 2835}, {"label": "ଔ", "code": 2836}] },
+    { "keys": [{"label": "କ", "code": 2837}, {"label": "ଖ", "code": 2838}, {"label": "ଗ", "code": 2839}, {"label": "ଘ", "code": 2840}, {"label": "ଙ", "code": 2841}, {"label": "ଚ", "code": 2842}, {"label": "ଛ", "code": 2843}, {"label": "ଜ", "code": 2844}, {"label": "ଝ", "code": 2845}, {"label": "ଞ", "code": 2846}, {"label": "ଟ", "code": 2847}, {"label": "ଠ", "code": 2848}] },
+    { "keys": [{"label": "ଡ", "code": 2849}, {"label": "ଢ", "code": 2850}, {"label": "ଣ", "code": 2851}, {"label": "ତ", "code": 2852}, {"label": "ଥ", "code": 2853}, {"label": "ଦ", "code": 2854}, {"label": "ଧ", "code": 2855}, {"label": "ନ", "code": 2856}, {"label": "଩", "code": 2857}, {"label": "ପ", "code": 2858}, {"label": "ଫ", "code": 2859}, {"label": "ବ", "code": 2860}] },
+    { "keys": [{"label": "ଭ", "code": 2861}, {"label": "ମ", "code": 2862}, {"label": "ଯ", "code": 2863}, {"label": "ର", "code": 2864}, {"label": "଱", "code": 2865}, {"label": "ଲ", "code": 2866}, {"label": "ଳ", "code": 2867}, {"label": "଴", "code": 2868}, {"label": "ଵ", "code": 2869}, {"label": "ଶ", "code": 2870}, {"label": "ଷ", "code": 2871}, {"label": "ସ", "code": 2872}] },
+    { "keys": [{"label": "ହ", "code": 2873}, {"label": "ା", "code": 2878}, {"label": "ି", "code": 2879}, {"label": "ୀ", "code": 2880}, {"label": "ୁ", "code": 2881}, {"label": "ୂ", "code": 2882}, {"label": "ୃ", "code": 2883}, {"label": "ୄ", "code": 2884}, {"label": "୅", "code": 2885}, {"label": "୆", "code": 2886}, {"label": "େ", "code": 2887}, {"label": "ୈ", "code": 2888}] },
+    { "keys": [{"label": "୉", "code": 2889}, {"label": "୊", "code": 2890}, {"label": "ୋ", "code": 2891}, {"label": "ୌ", "code": 2892}, {"label": "୦", "code": 2918}, {"label": "୧", "code": 2919}, {"label": "୨", "code": 2920}, {"label": "୩", "code": 2921}, {"label": "୪", "code": 2922}, {"label": "୫", "code": 2923}, {"label": "୬", "code": 2924}, {"label": "୭", "code": 2925}] },
+    { "keys": [{"label": "୮", "code": 2926}, {"label": "୯", "code": 2927}, {"type": "delete"}] },
+    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+  ]
+}

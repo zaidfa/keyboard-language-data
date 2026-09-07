@@ -1,0 +1,9 @@
+{
+  "id": "ta",
+  "name": "Tamil",
+  "nativeName": "தமிழ்",
+  "locale": "ta",
+  "script": "Tamil",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

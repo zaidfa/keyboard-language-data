@@ -1,0 +1,10 @@
+{
+  "id": "ba",
+  "name": "Bashkir",
+  "nativeName": "Башҡортса",
+  "locale": "ba",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1200,
+  "sha256": "306545b1ee9c0b0b731aa1eb4c4867443f81c541eb809d9c1169c5afdedfe453"
+}

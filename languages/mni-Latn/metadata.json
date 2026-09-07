@@ -1,0 +1,9 @@
+{
+  "id": "mni-Latn",
+  "name": "Manipuri (Latin)",
+  "nativeName": "Manipuri",
+  "locale": "mni-Latn",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

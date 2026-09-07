@@ -1,0 +1,9 @@
+{
+  "id": "ur-IN",
+  "name": "Urdu (India)",
+  "nativeName": "اردو",
+  "locale": "ur-IN",
+  "script": "Arabic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

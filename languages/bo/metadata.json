@@ -1,0 +1,9 @@
+{
+  "id": "bo",
+  "name": "Tibetan",
+  "nativeName": "བོད་ཡིག",
+  "locale": "bo",
+  "script": "Tibetan",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

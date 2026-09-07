@@ -1,0 +1,10 @@
+{
+  "id": "kk",
+  "name": "Kazakh",
+  "nativeName": "Қазақша",
+  "locale": "kk",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1193,
+  "sha256": "10c6afd09384026186332eaae3e2ef8442f03511210607997dfe1cd65b28b945"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "km",
+  "type": "main",
+  "rows": [
+    { "keys": [{"label": "ក", "code": 6016}, {"label": "ខ", "code": 6017}, {"label": "គ", "code": 6018}, {"label": "ឃ", "code": 6019}, {"label": "ង", "code": 6020}, {"label": "ច", "code": 6021}, {"label": "ឆ", "code": 6022}, {"label": "ជ", "code": 6023}, {"label": "ឈ", "code": 6024}, {"label": "ញ", "code": 6025}, {"label": "ដ", "code": 6026}, {"label": "ឋ", "code": 6027}] },
+    { "keys": [{"label": "ឌ", "code": 6028}, {"label": "ឍ", "code": 6029}, {"label": "ណ", "code": 6030}, {"label": "ត", "code": 6031}, {"label": "ថ", "code": 6032}, {"label": "ទ", "code": 6033}, {"label": "ធ", "code": 6034}, {"label": "ន", "code": 6035}, {"label": "ប", "code": 6036}, {"label": "ផ", "code": 6037}, {"label": "ព", "code": 6038}, {"label": "ភ", "code": 6039}] },
+    { "keys": [{"label": "ម", "code": 6040}, {"label": "យ", "code": 6041}, {"label": "រ", "code": 6042}, {"label": "ល", "code": 6043}, {"label": "វ", "code": 6044}, {"label": "ឝ", "code": 6045}, {"label": "ឞ", "code": 6046}, {"label": "ស", "code": 6047}, {"label": "ហ", "code": 6048}, {"label": "ឡ", "code": 6049}, {"label": "អ", "code": 6050}, {"label": "ឥ", "code": 6053}] },
+    { "keys": [{"label": "ឦ", "code": 6054}, {"label": "ឧ", "code": 6055}, {"label": "ឨ", "code": 6056}, {"label": "ឩ", "code": 6057}, {"label": "ឪ", "code": 6058}, {"label": "ឫ", "code": 6059}, {"label": "ឬ", "code": 6060}, {"label": "ឭ", "code": 6061}, {"label": "ឮ", "code": 6062}, {"label": "ឯ", "code": 6063}, {"label": "ឰ", "code": 6064}, {"label": "ឱ", "code": 6065}] },
+    { "keys": [{"label": "ឲ", "code": 6066}, {"label": "ឳ", "code": 6067}, {"label": "ា", "code": 6070}, {"label": "ិ", "code": 6071}, {"label": "ី", "code": 6072}, {"label": "ឹ", "code": 6073}, {"label": "ឺ", "code": 6074}, {"label": "ុ", "code": 6075}, {"label": "ូ", "code": 6076}, {"label": "ួ", "code": 6077}, {"label": "ើ", "code": 6078}, {"label": "ឿ", "code": 6079}] },
+    { "keys": [{"label": "ៀ", "code": 6080}, {"label": "េ", "code": 6081}, {"label": "ែ", "code": 6082}, {"label": "ៃ", "code": 6083}, {"label": "ោ", "code": 6084}, {"label": "ៅ", "code": 6085}, {"label": "០", "code": 6112}, {"label": "១", "code": 6113}, {"label": "២", "code": 6114}, {"label": "៣", "code": 6115}, {"label": "៤", "code": 6116}, {"label": "៥", "code": 6117}] },
+    { "keys": [{"label": "៦", "code": 6118}, {"label": "៧", "code": 6119}, {"label": "៨", "code": 6120}, {"label": "៩", "code": 6121}, {"type": "delete"}] },
+    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+  ]
+}

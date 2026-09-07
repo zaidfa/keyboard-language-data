@@ -1,0 +1,10 @@
+{
+  "id": "qu",
+  "name": "Quechua",
+  "nativeName": "Runa Simi",
+  "locale": "qu",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1016,
+  "sha256": "79e2379a767f055956552cef436daa944f72dd04a3f4033af12ccb048b955c1e"
+}

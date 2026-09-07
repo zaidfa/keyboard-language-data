@@ -1,0 +1,9 @@
+{
+  "id": "br",
+  "name": "Breton",
+  "nativeName": "Brezhoneg",
+  "locale": "br",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

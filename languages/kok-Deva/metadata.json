@@ -1,0 +1,9 @@
+{
+  "id": "kok-Deva",
+  "name": "Konkani Devanagari",
+  "nativeName": "कोंकणी",
+  "locale": "kok-Deva",
+  "script": "Devanagari",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

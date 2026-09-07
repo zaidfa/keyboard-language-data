@@ -1,0 +1,10 @@
+{
+  "id": "hy",
+  "name": "Armenian",
+  "nativeName": "Հայերեն",
+  "locale": "hy",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1086,
+  "sha256": "6c4e1eabe0c061094b702a8a599a32a43e1c7a6199c7769b390603fe5ff9a54b"
+}

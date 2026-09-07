@@ -1,0 +1,10 @@
+{
+  "id": "bs",
+  "name": "Bosnian",
+  "nativeName": "Bosanski",
+  "locale": "bs",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1010,
+  "sha256": "b07f3def90150f803f74d87e4f073b5fb55bba237cc4666f3051c5ed9c520a85"
+}

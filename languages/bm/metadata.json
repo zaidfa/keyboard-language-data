@@ -1,0 +1,9 @@
+{
+  "id": "bm",
+  "name": "Bambara",
+  "nativeName": "Bamanankan",
+  "locale": "bm",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

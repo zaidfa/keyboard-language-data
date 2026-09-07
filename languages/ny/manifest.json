@@ -1,0 +1,10 @@
+{
+  "id": "ny",
+  "name": "Chichewa (Nyanja)",
+  "nativeName": "Chichewa",
+  "locale": "ny",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1017,
+  "sha256": "8d8299986c62a0c4df23a3e16931f9d2b29a6fc6aa84293047bea4c034add021"
+}

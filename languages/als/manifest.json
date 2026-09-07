@@ -1,0 +1,10 @@
+{
+  "id": "als",
+  "name": "Tosk Albanian",
+  "nativeName": "Toskë",
+  "locale": "als",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1017,
+  "sha256": "b82d556b843db4613024d5f5eea4deacf91d2bc13bf126d348e583a82fce01a2"
+}

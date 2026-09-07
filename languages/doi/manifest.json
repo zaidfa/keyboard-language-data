@@ -1,0 +1,10 @@
+{
+  "id": "doi",
+  "name": "Dogri",
+  "nativeName": "डोगरी",
+  "locale": "doi",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1353,
+  "sha256": "fd9e9f89cf1cf5c84c82addf2b91cf50f883faa59c3122738b4b67f8c1798b98"
+}

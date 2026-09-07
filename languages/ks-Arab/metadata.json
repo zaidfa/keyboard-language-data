@@ -1,0 +1,9 @@
+{
+  "id": "ks-Arab",
+  "name": "Kashmiri (Arabic)",
+  "nativeName": "کٲشُر",
+  "locale": "ks-Arab",
+  "script": "Arabic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

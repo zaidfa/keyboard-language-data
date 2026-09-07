@@ -1,0 +1,10 @@
+{
+  "id": "xh",
+  "name": "Xhosa",
+  "nativeName": "isiXhosa",
+  "locale": "xh",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1008,
+  "sha256": "b4f79caefb9bdb5621bb26fe35a336417fc399330192e8cf276fa82329ed9a8f"
+}

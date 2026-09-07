@@ -1,0 +1,9 @@
+{
+  "id": "pa",
+  "name": "Punjabi",
+  "nativeName": "ਪੰਜਾਬੀ",
+  "locale": "pa",
+  "script": "Gurmukhi",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

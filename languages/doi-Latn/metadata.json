@@ -1,0 +1,9 @@
+{
+  "id": "doi-Latn",
+  "name": "Dogri (Latin)",
+  "nativeName": "Dogri",
+  "locale": "doi-Latn",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

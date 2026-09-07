@@ -1,0 +1,10 @@
+{
+  "id": "yi",
+  "name": "Yiddish",
+  "nativeName": "ייִדיש",
+  "locale": "yi",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1029,
+  "sha256": "e11470102b4abc1518d8df1b6f1ed4567f38c87245e5a3598683234a727a7c69"
+}

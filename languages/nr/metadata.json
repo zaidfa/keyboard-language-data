@@ -1,0 +1,9 @@
+{
+  "id": "nr",
+  "name": "South Ndebele",
+  "nativeName": "isiNdebele",
+  "locale": "nr",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

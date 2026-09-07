@@ -1,0 +1,9 @@
+{
+  "id": "zu",
+  "name": "Zulu",
+  "nativeName": "isiZulu",
+  "locale": "zu",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

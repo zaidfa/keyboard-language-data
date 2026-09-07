@@ -1,0 +1,9 @@
+{
+  "id": "mn-MN",
+  "name": "Mongolian (Mongolia)",
+  "nativeName": "Монгол",
+  "locale": "mn-MN",
+  "script": "Cyrillic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

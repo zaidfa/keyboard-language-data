@@ -1,0 +1,13 @@
+{
+  "id": "my-Qaag",
+  "type": "main",
+  "rows": [
+    { "keys": [{"label": "က", "code": 4096}, {"label": "ခ", "code": 4097}, {"label": "ဂ", "code": 4098}, {"label": "ဃ", "code": 4099}, {"label": "င", "code": 4100}, {"label": "စ", "code": 4101}, {"label": "ဆ", "code": 4102}, {"label": "ဇ", "code": 4103}, {"label": "ဈ", "code": 4104}, {"label": "ဉ", "code": 4105}, {"label": "ည", "code": 4106}, {"label": "ဋ", "code": 4107}] },
+    { "keys": [{"label": "ဌ", "code": 4108}, {"label": "ဍ", "code": 4109}, {"label": "ဎ", "code": 4110}, {"label": "ဏ", "code": 4111}, {"label": "တ", "code": 4112}, {"label": "ထ", "code": 4113}, {"label": "ဒ", "code": 4114}, {"label": "ဓ", "code": 4115}, {"label": "န", "code": 4116}, {"label": "ပ", "code": 4117}, {"label": "ဖ", "code": 4118}, {"label": "ဗ", "code": 4119}] },
+    { "keys": [{"label": "ဘ", "code": 4120}, {"label": "မ", "code": 4121}, {"label": "ယ", "code": 4122}, {"label": "ရ", "code": 4123}, {"label": "လ", "code": 4124}, {"label": "ဝ", "code": 4125}, {"label": "သ", "code": 4126}, {"label": "ဟ", "code": 4127}, {"label": "ဠ", "code": 4128}, {"label": "အ", "code": 4129}, {"label": "ါ", "code": 4139}, {"label": "ာ", "code": 4140}] },
+    { "keys": [{"label": "ိ", "code": 4141}, {"label": "ီ", "code": 4142}, {"label": "ု", "code": 4143}, {"label": "ူ", "code": 4144}, {"label": "ေ", "code": 4145}, {"label": "ဲ", "code": 4146}, {"label": "ဳ", "code": 4147}, {"label": "ဴ", "code": 4148}, {"label": "ဵ", "code": 4149}, {"label": "ံ", "code": 4150}, {"label": "့", "code": 4151}, {"label": "း", "code": 4152}] },
+    { "keys": [{"label": "ျ", "code": 4155}, {"label": "ြ", "code": 4156}, {"label": "ွ", "code": 4157}, {"label": "ှ", "code": 4158}, {"label": "၀", "code": 4160}, {"label": "၁", "code": 4161}, {"label": "၂", "code": 4162}, {"label": "၃", "code": 4163}, {"label": "၄", "code": 4164}, {"label": "၅", "code": 4165}, {"label": "၆", "code": 4166}, {"label": "၇", "code": 4167}] },
+    { "keys": [{"label": "၈", "code": 4168}, {"label": "၉", "code": 4169}, {"type": "delete"}] },
+    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+  ]
+}

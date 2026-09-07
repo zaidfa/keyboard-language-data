@@ -1,0 +1,9 @@
+{
+  "id": "yi",
+  "name": "Yiddish",
+  "nativeName": "ייִדיש",
+  "locale": "yi",
+  "script": "Hebrew",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

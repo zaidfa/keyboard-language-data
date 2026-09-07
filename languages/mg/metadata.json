@@ -1,0 +1,9 @@
+{
+  "id": "mg",
+  "name": "Malagasy",
+  "nativeName": "Malagasy",
+  "locale": "mg",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

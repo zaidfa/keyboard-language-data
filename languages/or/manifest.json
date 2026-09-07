@@ -1,0 +1,10 @@
+{
+  "id": "or",
+  "name": "Odia",
+  "nativeName": "ଓଡ଼ିଆ",
+  "locale": "or",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1264,
+  "sha256": "808143ce46f45e7522560bef696ffe933bd252747a75cf224d8660edb86b6a86"
+}

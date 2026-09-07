@@ -1,0 +1,9 @@
+{
+  "id": "iu",
+  "name": "Inuktitut",
+  "nativeName": "ᐃᓄᒃᑎᑐᑦ",
+  "locale": "iu",
+  "script": "Canadian Aboriginal",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

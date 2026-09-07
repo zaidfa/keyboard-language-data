@@ -1,0 +1,9 @@
+{
+  "id": "gn",
+  "name": "Guarani",
+  "nativeName": "Avañe'ẽ",
+  "locale": "gn",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

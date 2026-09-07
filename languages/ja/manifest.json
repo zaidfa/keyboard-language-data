@@ -1,0 +1,10 @@
+{
+  "id": "ja",
+  "name": "Japanese",
+  "nativeName": "日本語",
+  "locale": "ja",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1294,
+  "sha256": "b5beda5bb547c66aea7df0be443d6cbee9364c002f4e671ab97e47e4ad8d00c5"
+}

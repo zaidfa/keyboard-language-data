@@ -1,0 +1,10 @@
+{
+  "id": "ml-Latn",
+  "name": "Malayalam (Latin)",
+  "nativeName": "Malayalam",
+  "locale": "ml-Latn",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1029,
+  "sha256": "e3f521fb2465a085cfdf0d8857aadba6faabbacad5f172cc2befc30bccf97608"
+}

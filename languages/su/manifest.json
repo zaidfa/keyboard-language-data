@@ -1,0 +1,10 @@
+{
+  "id": "su",
+  "name": "Sundanese",
+  "nativeName": "Basa Sunda",
+  "locale": "su",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1015,
+  "sha256": "1da719968e26b843f3808ad7b611eedab11183650a0fb63ac53d5219990a9d03"
+}

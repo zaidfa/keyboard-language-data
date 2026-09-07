@@ -1,0 +1,9 @@
+{
+  "id": "es-SA",
+  "name": "Spanish (Saudi Arabia)",
+  "nativeName": "Español (Arabia Saudita)",
+  "locale": "es",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

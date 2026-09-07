@@ -1,0 +1,9 @@
+{
+  "id": "bho",
+  "name": "Bhojpuri",
+  "nativeName": "भोजपुरी",
+  "locale": "bho",
+  "script": "Devanagari",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

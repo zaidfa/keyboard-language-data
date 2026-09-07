@@ -1,0 +1,10 @@
+{
+  "id": "sc",
+  "name": "Sardinian",
+  "nativeName": "Sardu",
+  "locale": "sc",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1009,
+  "sha256": "984d7b2a7b5197bec17d227bb09620516e7b4b41bc66f843aa6f8208c1f799ad"
+}

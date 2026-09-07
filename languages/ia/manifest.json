@@ -1,0 +1,10 @@
+{
+  "id": "ia",
+  "name": "Interlingua",
+  "nativeName": "Interlingua",
+  "locale": "ia",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1007,
+  "sha256": "5bbc7af9d1c21dd7fbebbd8e3a19a73235ec58ef4d11dbfe3a16bb95766759d2"
+}

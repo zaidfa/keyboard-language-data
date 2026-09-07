@@ -1,0 +1,10 @@
+{
+  "id": "fr-CA",
+  "name": "French (Canada)",
+  "nativeName": "Français (Canada)",
+  "locale": "fr-CA",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1037,
+  "sha256": "6b37d5aa0167846d32c4016115e43ccef224ed7e3497c3e6a51a0002beb709a6"
+}

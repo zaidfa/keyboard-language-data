@@ -1,0 +1,10 @@
+{
+  "id": "he",
+  "type": "main",
+  "rows": [
+    { "keys": [{"label": "א", "code": 1488}, {"label": "ב", "code": 1489}, {"label": "ג", "code": 1490}, {"label": "ד", "code": 1491}, {"label": "ה", "code": 1492}, {"label": "ו", "code": 1493}, {"label": "ז", "code": 1494}, {"label": "ח", "code": 1495}, {"label": "ט", "code": 1496}, {"label": "י", "code": 1497}] },
+    { "keys": [{"label": "ך", "code": 1498}, {"label": "כ", "code": 1499}, {"label": "ל", "code": 1500}, {"label": "ם", "code": 1501}, {"label": "מ", "code": 1502}, {"label": "ן", "code": 1503}, {"label": "נ", "code": 1504}, {"label": "ס", "code": 1505}, {"label": "ע", "code": 1506}, {"label": "ף", "code": 1507}] },
+    { "keys": [{"label": "פ", "code": 1508}, {"label": "ץ", "code": 1509}, {"label": "צ", "code": 1510}, {"label": "ק", "code": 1511}, {"label": "ר", "code": 1512}, {"label": "ש", "code": 1513}, {"label": "ת", "code": 1514}, {"type": "delete"}] },
+    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+  ]
+}

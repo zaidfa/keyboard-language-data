@@ -1,0 +1,10 @@
+{
+  "id": "iu",
+  "name": "Inuktitut",
+  "nativeName": "ᐃᓄᒃᑎᑐᑦ",
+  "locale": "iu",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1095,
+  "sha256": "57866942524bfe993ce404e0d5403b544a1f47809853d7ed4d59e6cf29fbae4f"
+}

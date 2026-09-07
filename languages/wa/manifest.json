@@ -1,0 +1,10 @@
+{
+  "id": "wa",
+  "name": "Walloon",
+  "nativeName": "Walon",
+  "locale": "wa",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1005,
+  "sha256": "042b674b73206009130135dd1895d6b49ed3545024cf408be84259f305ed9af2"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "my",
+  "name": "Burmese (Unicode)",
+  "nativeName": "မြန်မာ",
+  "locale": "my",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1214,
+  "sha256": "d93c061109982e0b68ec66a7373e65eb0e9705b4d2fce4df9bba16b930359d32"
+}

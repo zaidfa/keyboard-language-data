@@ -1,0 +1,9 @@
+{
+  "id": "ig",
+  "name": "Igbo",
+  "nativeName": "Igbo",
+  "locale": "ig",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

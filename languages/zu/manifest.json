@@ -1,0 +1,10 @@
+{
+  "id": "zu",
+  "name": "Zulu",
+  "nativeName": "isiZulu",
+  "locale": "zu",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1006,
+  "sha256": "4728a58e0f56f4cbd5840ce9cbcc236edea2a09533a8f98d72be702f06932b4a"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ty",
+  "name": "Tahitian",
+  "nativeName": "Reo Tahiti",
+  "locale": "ty",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

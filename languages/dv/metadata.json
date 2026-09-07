@@ -1,0 +1,9 @@
+{
+  "id": "dv",
+  "name": "Divehi",
+  "nativeName": "ދިވެހި",
+  "locale": "dv",
+  "script": "Thaana",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

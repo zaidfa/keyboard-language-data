@@ -1,0 +1,9 @@
+{
+  "id": "kok-Knda",
+  "name": "Konkani Kannada",
+  "nativeName": "ಕೊಂಕಣಿ",
+  "locale": "kok-Knda",
+  "script": "Kannada",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

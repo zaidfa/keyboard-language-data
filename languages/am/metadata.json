@@ -1,0 +1,9 @@
+{
+  "id": "am",
+  "name": "Amharic",
+  "nativeName": "አማርኛ",
+  "locale": "am",
+  "script": "Ethiopic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

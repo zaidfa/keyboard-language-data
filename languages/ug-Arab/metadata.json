@@ -1,0 +1,9 @@
+{
+  "id": "ug-Arab",
+  "name": "Uyghur (Arabic)",
+  "nativeName": "ئۇيغۇرچە",
+  "locale": "ug-Arab",
+  "script": "Arabic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

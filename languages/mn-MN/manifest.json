@@ -1,0 +1,10 @@
+{
+  "id": "mn-MN",
+  "name": "Mongolian (Mongolia)",
+  "nativeName": "Монгол",
+  "locale": "mn-MN",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1212,
+  "sha256": "517b6d6b6893cd22c8fb32668c8102afeef4d32e07253160591db4afacabe48b"
+}

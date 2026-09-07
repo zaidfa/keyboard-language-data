@@ -1,0 +1,10 @@
+{
+  "id": "yo",
+  "name": "Yoruba",
+  "nativeName": "Yorùbá",
+  "locale": "yo",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1011,
+  "sha256": "7399172e7b5a291ebdda3a7427a3edfcdab2eb172c677d214a22007d7d8a4259"
+}

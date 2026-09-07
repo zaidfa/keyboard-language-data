@@ -1,0 +1,10 @@
+{
+  "id": "ha",
+  "name": "Hausa",
+  "nativeName": "Hausa",
+  "locale": "ha",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1002,
+  "sha256": "2c6de987a54a93d1b9443f48d32305b6732df12041880ffe23ff03cba81100b0"
+}

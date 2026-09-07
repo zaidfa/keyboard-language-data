@@ -1,0 +1,10 @@
+{
+  "id": "sd",
+  "name": "Sindhi",
+  "nativeName": "سنڌي",
+  "locale": "sd",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1218,
+  "sha256": "9439c71bc1479b484f6aa2d4f7faa162a42f00fca138d71ed9e789ef55edcd12"
+}

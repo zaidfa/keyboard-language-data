@@ -1,0 +1,9 @@
+{
+  "id": "ug-Latn",
+  "name": "Uyghur (Latin)",
+  "nativeName": "Uyghurche",
+  "locale": "ug-Latn",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

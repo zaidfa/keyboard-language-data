@@ -1,0 +1,10 @@
+{
+  "id": "ky",
+  "name": "Kyrgyz",
+  "nativeName": "Кыргызча",
+  "locale": "ky",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1197,
+  "sha256": "13988735252dc949baf564ce97d8906aad0874908421f307f5c34a1dd138902f"
+}

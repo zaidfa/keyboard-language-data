@@ -1,0 +1,10 @@
+{
+  "id": "be",
+  "name": "Belarusian",
+  "nativeName": "Беларуская",
+  "locale": "be",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1202,
+  "sha256": "7b472bf69dccf1f050b7655ccff8169fbfa9d759ebaac40a0b23c54f6d2aead6"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "he",
+  "name": "Hebrew",
+  "nativeName": "עברית",
+  "locale": "he",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1020,
+  "sha256": "a8293048ccb36680ef603a5ead4fcaa1341c291c179c5443f59259643a42f362"
+}

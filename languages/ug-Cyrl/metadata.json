@@ -1,0 +1,9 @@
+{
+  "id": "ug-Cyrl",
+  "name": "Uyghur (Cyrillic)",
+  "nativeName": "уйғурчә",
+  "locale": "ug-Cyrl",
+  "script": "Cyrillic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

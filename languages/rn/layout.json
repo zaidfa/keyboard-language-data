@@ -1,0 +1,10 @@
+{
+  "id": "rn",
+  "type": "main",
+  "rows": [
+    { "keys": [{"label": "q", "code": 113}, {"label": "w", "code": 119}, {"label": "e", "code": 101}, {"label": "r", "code": 114}, {"label": "t", "code": 116}, {"label": "y", "code": 121}, {"label": "u", "code": 117}, {"label": "i", "code": 105}, {"label": "o", "code": 111}, {"label": "p", "code": 112}] },
+    { "keys": [{"label": "a", "code": 97}, {"label": "s", "code": 115}, {"label": "d", "code": 100}, {"label": "f", "code": 102}, {"label": "g", "code": 103}, {"label": "h", "code": 104}, {"label": "j", "code": 106}, {"label": "k", "code": 107}, {"label": "l", "code": 108}] },
+    { "keys": [{"type": "shift"}, {"label": "z", "code": 122}, {"label": "x", "code": 120}, {"label": "c", "code": 99}, {"label": "v", "code": 118}, {"label": "b", "code": 98}, {"label": "n", "code": 110}, {"label": "m", "code": 109}, {"type": "delete"}] },
+    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+  ]
+}

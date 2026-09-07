@@ -1,0 +1,9 @@
+{
+  "id": "li",
+  "name": "Limburgish",
+  "nativeName": "Limburgs",
+  "locale": "li",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

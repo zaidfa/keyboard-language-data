@@ -1,0 +1,10 @@
+{
+  "id": "ta",
+  "name": "Tamil",
+  "nativeName": "தமிழ்",
+  "locale": "ta",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1269,
+  "sha256": "6119224c9e71c868f9b218b7c612f289d4eea8618594e561007cc4c8af47e952"
+}

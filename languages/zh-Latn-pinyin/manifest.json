@@ -1,0 +1,10 @@
+{
+  "id": "zh-Latn-pinyin",
+  "name": "Chinese (Pinyin)",
+  "nativeName": "拼音",
+  "locale": "zh-Latn-pinyin",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1051,
+  "sha256": "1215202f4c605563baa19df509b54fd758dcef4aa1e326f5b11d5e941ea61ace"
+}

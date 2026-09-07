@@ -1,0 +1,10 @@
+{
+  "id": "aln",
+  "name": "Gheg Albanian",
+  "nativeName": "Gegë",
+  "locale": "aln",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1018,
+  "sha256": "65dd3e787c2ec15782d2795f379c335b2ce258f78c3a6b34fd21551da73949b4"
+}

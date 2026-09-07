@@ -1,0 +1,9 @@
+{
+  "id": "kn-Latn",
+  "name": "Kannada (Latin)",
+  "nativeName": "Kannada",
+  "locale": "kn-Latn",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

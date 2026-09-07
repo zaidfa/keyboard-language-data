@@ -1,0 +1,10 @@
+{
+  "id": "sa",
+  "name": "Sanskrit",
+  "nativeName": "संस्कृतम्",
+  "locale": "sa",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1365,
+  "sha256": "f754c2b15c1c0723c7b4e03a254e7bd591029f73fdf398cdb4fa3a047fa911e1"
+}

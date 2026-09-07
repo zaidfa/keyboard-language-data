@@ -1,0 +1,9 @@
+{
+  "id": "ti-ET",
+  "name": "Tigrinya (Ethiopia)",
+  "nativeName": "ትግርኛ",
+  "locale": "ti-ET",
+  "script": "Ethiopic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

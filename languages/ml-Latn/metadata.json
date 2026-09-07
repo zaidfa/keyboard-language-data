@@ -1,0 +1,9 @@
+{
+  "id": "ml-Latn",
+  "name": "Malayalam (Latin)",
+  "nativeName": "Malayalam",
+  "locale": "ml-Latn",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

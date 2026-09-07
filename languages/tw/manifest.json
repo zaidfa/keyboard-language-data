@@ -1,0 +1,10 @@
+{
+  "id": "tw",
+  "name": "Twi",
+  "nativeName": "Twi",
+  "locale": "tw",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1000,
+  "sha256": "c917f35f89c5df69a189010feda9bc27d7a760e09171f1f618df28aa506ad8ec"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "doi-Arab",
+  "name": "Dogri (Arabic)",
+  "nativeName": "ڈوگری",
+  "locale": "doi-Arab",
+  "script": "Arabic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

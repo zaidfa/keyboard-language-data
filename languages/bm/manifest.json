@@ -1,0 +1,10 @@
+{
+  "id": "bm",
+  "name": "Bambara",
+  "nativeName": "Bamanankan",
+  "locale": "bm",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1014,
+  "sha256": "0a9e56302fcc349121bfdb6b01eaa29394dddefe8bb09bf1aebbd60d0b6742fa"
+}

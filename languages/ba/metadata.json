@@ -1,0 +1,9 @@
+{
+  "id": "ba",
+  "name": "Bashkir",
+  "nativeName": "Башҡортса",
+  "locale": "ba",
+  "script": "Cyrillic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

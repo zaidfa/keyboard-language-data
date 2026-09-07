@@ -1,0 +1,9 @@
+{
+  "id": "fa",
+  "name": "Persian",
+  "nativeName": "فارسی",
+  "locale": "fa",
+  "script": "Arabic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

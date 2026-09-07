@@ -1,0 +1,10 @@
+{
+  "id": "sg",
+  "name": "Sango",
+  "nativeName": "Sängö",
+  "locale": "sg",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1011,
+  "sha256": "36f4d54cb3c677ee8f5074a19339aebe32eeb0d6641ed0e234bd24d61a3d4741"
+}

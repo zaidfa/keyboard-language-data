@@ -1,0 +1,9 @@
+{
+  "id": "es-US",
+  "name": "Spanish (United States)",
+  "nativeName": "Español (EE. UU.)",
+  "locale": "es-US",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hi",
+  "name": "Hindi",
+  "nativeName": "हिन्दी",
+  "locale": "hi",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1356,
+  "sha256": "771c6c8e48ab86a4d50b211c5ee83055ea1d22789329dc64393536363e554793"
+}

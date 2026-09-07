@@ -1,0 +1,10 @@
+{
+  "id": "om",
+  "name": "Oromo",
+  "nativeName": "Oromoo",
+  "locale": "om",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1004,
+  "sha256": "6122548db08f17f8e8f2c8d94109ef962fd5a3afd229dff6cff3197a8275968f"
+}

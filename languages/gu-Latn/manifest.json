@@ -1,0 +1,10 @@
+{
+  "id": "gu-Latn",
+  "name": "Gujarati (Latin)",
+  "nativeName": "Gujarati",
+  "locale": "gu-Latn",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1031,
+  "sha256": "bd519946c70733897ded195f60aa7b2a74353d51a7814910898d79a14dde1506"
+}

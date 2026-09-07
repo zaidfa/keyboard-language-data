@@ -1,0 +1,9 @@
+{
+  "id": "xh",
+  "name": "Xhosa",
+  "nativeName": "isiXhosa",
+  "locale": "xh",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

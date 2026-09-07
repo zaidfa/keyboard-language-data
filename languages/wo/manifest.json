@@ -1,0 +1,10 @@
+{
+  "id": "wo",
+  "name": "Wolof",
+  "nativeName": "Wolof",
+  "locale": "wo",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1002,
+  "sha256": "61fbd031a99897e322c56f1265d0e0ab4262471cdb1899f78fce00e3f9441d2d"
+}

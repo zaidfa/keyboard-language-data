@@ -1,0 +1,10 @@
+{
+  "id": "ti-ET",
+  "name": "Tigrinya (Ethiopia)",
+  "nativeName": "ትግርኛ",
+  "locale": "ti-ET",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1159,
+  "sha256": "14def2fd9229c537036586e69338d076c1919d0adecc2d3dea79a3413a0da1e4"
+}

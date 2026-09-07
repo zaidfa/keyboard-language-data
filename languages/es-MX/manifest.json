@@ -1,0 +1,10 @@
+{
+  "id": "es-MX",
+  "name": "Spanish (Mexico)",
+  "nativeName": "Español (México)",
+  "locale": "es-MX",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1044,
+  "sha256": "ea73a403c61d68792d769268004d4a9f46188129e3acf1ab1eacb84b714505d7"
+}

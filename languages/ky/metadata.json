@@ -1,0 +1,9 @@
+{
+  "id": "ky",
+  "name": "Kyrgyz",
+  "nativeName": "Кыргызча",
+  "locale": "ky",
+  "script": "Cyrillic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

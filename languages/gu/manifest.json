@@ -1,0 +1,10 @@
+{
+  "id": "gu",
+  "name": "Gujarati",
+  "nativeName": "ગુજરાતી",
+  "locale": "gu",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1293,
+  "sha256": "6fc97628d036fbe635938168b757480da81a2c59813a4635bc2f219ce03e1d08"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ho",
+  "name": "Hiri Motu",
+  "nativeName": "Hiri Motu",
+  "locale": "ho",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

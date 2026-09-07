@@ -1,0 +1,10 @@
+{
+  "id": "ar",
+  "name": "Arabic",
+  "nativeName": "العربية",
+  "locale": "ar",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1219,
+  "sha256": "3a6ecd371bde90cb75f1862c940b15651779a191e3ddc0daca151a66c24ecb67"
+}

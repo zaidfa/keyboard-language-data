@@ -1,0 +1,9 @@
+{
+  "id": "fo",
+  "name": "Faroese",
+  "nativeName": "Føroyskt",
+  "locale": "fo",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

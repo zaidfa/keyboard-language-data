@@ -1,0 +1,10 @@
+{
+  "id": "se",
+  "name": "Northern Sámi",
+  "nativeName": "Davvisámegiella",
+  "locale": "se",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1027,
+  "sha256": "7f7ea7e2bf4d5c6419e78eb5a498ca04e9ad18505f62d49f0e0c4d2e88213a13"
+}

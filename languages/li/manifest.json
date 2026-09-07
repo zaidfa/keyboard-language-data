@@ -1,0 +1,10 @@
+{
+  "id": "li",
+  "name": "Limburgish",
+  "nativeName": "Limburgs",
+  "locale": "li",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1009,
+  "sha256": "b6a71b7e35e9b441c68cdf1b3c70ae40513696f0b29ad2695b4234a5d17c489e"
+}

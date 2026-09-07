@@ -1,0 +1,10 @@
+{
+  "id": "tt",
+  "name": "Tatar",
+  "nativeName": "Татарча",
+  "locale": "tt",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1192,
+  "sha256": "d77a7dbff4f9faeac0bfe9f1f591d51cec25b079821da227f65cb6c298231cb5"
+}

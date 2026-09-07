@@ -1,0 +1,9 @@
+{
+  "id": "ks-Latn",
+  "name": "Kashmiri (Latin)",
+  "nativeName": "Kashmiri",
+  "locale": "ks-Latn",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

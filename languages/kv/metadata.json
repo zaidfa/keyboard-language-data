@@ -1,0 +1,9 @@
+{
+  "id": "kv",
+  "name": "Komi",
+  "nativeName": "Коми",
+  "locale": "kv",
+  "script": "Cyrillic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

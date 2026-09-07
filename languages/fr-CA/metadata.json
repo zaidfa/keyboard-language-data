@@ -1,0 +1,9 @@
+{
+  "id": "fr-CA",
+  "name": "French (Canada)",
+  "nativeName": "Français (Canada)",
+  "locale": "fr-CA",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

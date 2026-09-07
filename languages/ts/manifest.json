@@ -1,0 +1,10 @@
+{
+  "id": "ts",
+  "name": "Tsonga",
+  "nativeName": "Xitsonga",
+  "locale": "ts",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1009,
+  "sha256": "6ce462933a8177f5cb640d2ba3698aaf42aa3466a0e024d674d4205dc23b7cfa"
+}

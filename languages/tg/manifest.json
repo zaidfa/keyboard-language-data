@@ -1,0 +1,10 @@
+{
+  "id": "tg",
+  "name": "Tajik",
+  "nativeName": "Тоҷикӣ",
+  "locale": "tg",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1190,
+  "sha256": "b25da294a34e24ba73deaf42e4abef89b462ab6bcaf6678d24a51eaf4ca4f5d7"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ps",
+  "name": "Pashto",
+  "nativeName": "پښتو",
+  "locale": "ps",
+  "script": "Arabic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

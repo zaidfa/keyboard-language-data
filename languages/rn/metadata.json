@@ -1,0 +1,9 @@
+{
+  "id": "rn",
+  "name": "Rundi",
+  "nativeName": "Ikirundi",
+  "locale": "rn",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

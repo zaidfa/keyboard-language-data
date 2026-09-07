@@ -1,0 +1,10 @@
+{
+  "id": "ml",
+  "name": "Malayalam",
+  "nativeName": "മലയാളം",
+  "locale": "ml",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1267,
+  "sha256": "c3e774a541fe048374341f99040769f8194236768e7a24fae914e61831ed6686"
+}

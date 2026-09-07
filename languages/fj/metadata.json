@@ -1,0 +1,9 @@
+{
+  "id": "fj",
+  "name": "Fijian",
+  "nativeName": "Na Vosa Vakaviti",
+  "locale": "fj",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

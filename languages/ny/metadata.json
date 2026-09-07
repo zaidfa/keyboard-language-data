@@ -1,0 +1,9 @@
+{
+  "id": "ny",
+  "name": "Chichewa (Nyanja)",
+  "nativeName": "Chichewa",
+  "locale": "ny",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

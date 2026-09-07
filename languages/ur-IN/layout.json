@@ -1,0 +1,13 @@
+{
+  "id": "ur-IN",
+  "type": "main",
+  "rows": [
+    { "keys": [{"label": "ء", "code": 1569}, {"label": "آ", "code": 1570}, {"label": "أ", "code": 1571}, {"label": "ؤ", "code": 1572}, {"label": "إ", "code": 1573}, {"label": "ئ", "code": 1574}, {"label": "ا", "code": 1575}, {"label": "ب", "code": 1576}, {"label": "ة", "code": 1577}, {"label": "ت", "code": 1578}, {"label": "ث", "code": 1579}, {"label": "ج", "code": 1580}] },
+    { "keys": [{"label": "ح", "code": 1581}, {"label": "خ", "code": 1582}, {"label": "د", "code": 1583}, {"label": "ذ", "code": 1584}, {"label": "ر", "code": 1585}, {"label": "ز", "code": 1586}, {"label": "س", "code": 1587}, {"label": "ش", "code": 1588}, {"label": "ص", "code": 1589}, {"label": "ض", "code": 1590}, {"label": "ط", "code": 1591}, {"label": "ظ", "code": 1592}] },
+    { "keys": [{"label": "ع", "code": 1593}, {"label": "غ", "code": 1594}, {"label": "ػ", "code": 1595}, {"label": "ؼ", "code": 1596}, {"label": "ؽ", "code": 1597}, {"label": "ؾ", "code": 1598}, {"label": "ؿ", "code": 1599}, {"label": "ـ", "code": 1600}, {"label": "ف", "code": 1601}, {"label": "ق", "code": 1602}, {"label": "ك", "code": 1603}, {"label": "ل", "code": 1604}] },
+    { "keys": [{"label": "م", "code": 1605}, {"label": "ن", "code": 1606}, {"label": "ه", "code": 1607}, {"label": "و", "code": 1608}, {"label": "ى", "code": 1609}, {"label": "ي", "code": 1610}, {"label": "ٱ", "code": 1649}, {"label": "پ", "code": 1662}, {"label": "چ", "code": 1670}, {"label": "ژ", "code": 1688}, {"label": "ک", "code": 1705}, {"label": "گ", "code": 1711}] },
+    { "keys": [{"label": "ھ", "code": 1726}, {"label": "ہ", "code": 1729}, {"label": "ی", "code": 1740}, {"label": "ے", "code": 1746}, {"label": "ٹ", "code": 1657}, {"label": "ڈ", "code": 1672}, {"label": "ڑ", "code": 1681}, {"label": "ں", "code": 1722}, {"label": "ۓ", "code": 1747}, {"label": "ڭ", "code": 1709}, {"label": "ۇ", "code": 1735}, {"label": "ۆ", "code": 1734}] },
+    { "keys": [{"label": "ۈ", "code": 1736}, {"label": "ە", "code": 1749}, {"type": "delete"}] },
+    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+  ]
+}

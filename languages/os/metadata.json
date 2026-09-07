@@ -1,0 +1,9 @@
+{
+  "id": "os",
+  "name": "Ossetian",
+  "nativeName": "Ирон",
+  "locale": "os",
+  "script": "Cyrillic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

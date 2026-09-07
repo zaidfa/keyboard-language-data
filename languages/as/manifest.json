@@ -1,0 +1,10 @@
+{
+  "id": "as",
+  "name": "Assamese",
+  "nativeName": "অসমীয়া",
+  "locale": "as",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1285,
+  "sha256": "2f37d1b8e94d03aa2e14af9f5e610aab4663876cf6cd7bb83c93aa292d9e0f85"
+}

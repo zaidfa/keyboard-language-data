@@ -1,0 +1,9 @@
+{
+  "id": "brx",
+  "name": "Bodo",
+  "nativeName": "बड़ो",
+  "locale": "brx",
+  "script": "Devanagari",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

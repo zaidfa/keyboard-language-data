@@ -1,0 +1,9 @@
+{
+  "id": "hi",
+  "name": "Hindi",
+  "nativeName": "हिन्दी",
+  "locale": "hi",
+  "script": "Devanagari",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

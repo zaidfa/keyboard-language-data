@@ -1,0 +1,9 @@
+{
+  "id": "ja",
+  "name": "Japanese",
+  "nativeName": "日本語",
+  "locale": "ja",
+  "script": "Japanese",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

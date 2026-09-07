@@ -1,0 +1,10 @@
+{
+  "id": "br",
+  "name": "Breton",
+  "nativeName": "Brezhoneg",
+  "locale": "br",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1012,
+  "sha256": "55014b99263cfa73caf7847061d0ae9894c2ecb843422773ca9879c9ad3169cb"
+}

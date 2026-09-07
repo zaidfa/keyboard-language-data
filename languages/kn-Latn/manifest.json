@@ -1,0 +1,10 @@
+{
+  "id": "kn-Latn",
+  "name": "Kannada (Latin)",
+  "nativeName": "Kannada",
+  "locale": "kn-Latn",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1029,
+  "sha256": "3c20d9af5c382202099a3d25fb342406638a97d9a1b4132dc51d352947aa2db2"
+}

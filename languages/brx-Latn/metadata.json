@@ -1,0 +1,9 @@
+{
+  "id": "brx-Latn",
+  "name": "Bodo (Latin)",
+  "nativeName": "Bodo",
+  "locale": "brx-Latn",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

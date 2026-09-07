@@ -1,0 +1,9 @@
+{
+  "id": "sa",
+  "name": "Sanskrit",
+  "nativeName": "संस्कृतम्",
+  "locale": "sa",
+  "script": "Devanagari",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

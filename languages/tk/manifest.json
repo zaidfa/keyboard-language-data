@@ -1,0 +1,10 @@
+{
+  "id": "tk",
+  "name": "Turkmen",
+  "nativeName": "Türkmen",
+  "locale": "tk",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1007,
+  "sha256": "cec302bd38099c6868577b0493445adeec2a5a2575436c6c25b2f25bfbf7b07e"
+}

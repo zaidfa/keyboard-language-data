@@ -1,0 +1,10 @@
+{
+  "id": "bo",
+  "name": "Tibetan",
+  "nativeName": "བོད་ཡིག",
+  "locale": "bo",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1270,
+  "sha256": "c73c288dd1f323ff7e68a13522e9bc5523ed2ab53a9033264c497406f73e8508"
+}

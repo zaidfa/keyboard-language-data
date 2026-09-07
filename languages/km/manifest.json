@@ -1,0 +1,10 @@
+{
+  "id": "km",
+  "name": "Khmer",
+  "nativeName": "ខ្មែរ",
+  "locale": "km",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1267,
+  "sha256": "adc8e33f85181d7f8865dd6da44c0b33d44b3a5c1d2cc369171a39b2852bae80"
+}

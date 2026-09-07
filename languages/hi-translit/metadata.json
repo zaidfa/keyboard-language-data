@@ -1,0 +1,9 @@
+{
+  "id": "hi-translit",
+  "name": "Hindi (Transliteration)",
+  "nativeName": "Hindi (Transliteration)",
+  "locale": "hi",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

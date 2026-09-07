@@ -1,0 +1,14 @@
+{
+  "id": "th",
+  "type": "main",
+  "rows": [
+    { "keys": [{"label": "ก", "code": 3585}, {"label": "ข", "code": 3586}, {"label": "ฃ", "code": 3587}, {"label": "ค", "code": 3588}, {"label": "ฅ", "code": 3589}, {"label": "ฆ", "code": 3590}, {"label": "ง", "code": 3591}, {"label": "จ", "code": 3592}, {"label": "ฉ", "code": 3593}, {"label": "ช", "code": 3594}, {"label": "ซ", "code": 3595}, {"label": "ฌ", "code": 3596}] },
+    { "keys": [{"label": "ญ", "code": 3597}, {"label": "ฎ", "code": 3598}, {"label": "ฏ", "code": 3599}, {"label": "ฐ", "code": 3600}, {"label": "ฑ", "code": 3601}, {"label": "ฒ", "code": 3602}, {"label": "ณ", "code": 3603}, {"label": "ด", "code": 3604}, {"label": "ต", "code": 3605}, {"label": "ถ", "code": 3606}, {"label": "ท", "code": 3607}, {"label": "ธ", "code": 3608}] },
+    { "keys": [{"label": "น", "code": 3609}, {"label": "บ", "code": 3610}, {"label": "ป", "code": 3611}, {"label": "ผ", "code": 3612}, {"label": "ฝ", "code": 3613}, {"label": "พ", "code": 3614}, {"label": "ฟ", "code": 3615}, {"label": "ภ", "code": 3616}, {"label": "ม", "code": 3617}, {"label": "ย", "code": 3618}, {"label": "ร", "code": 3619}, {"label": "ฤ", "code": 3620}] },
+    { "keys": [{"label": "ล", "code": 3621}, {"label": "ฦ", "code": 3622}, {"label": "ว", "code": 3623}, {"label": "ศ", "code": 3624}, {"label": "ษ", "code": 3625}, {"label": "ส", "code": 3626}, {"label": "ห", "code": 3627}, {"label": "ฬ", "code": 3628}, {"label": "อ", "code": 3629}, {"label": "ฮ", "code": 3630}, {"label": "ะ", "code": 3632}, {"label": "ั", "code": 3633}] },
+    { "keys": [{"label": "า", "code": 3634}, {"label": "ำ", "code": 3635}, {"label": "ิ", "code": 3636}, {"label": "ี", "code": 3637}, {"label": "ึ", "code": 3638}, {"label": "ื", "code": 3639}, {"label": "ุ", "code": 3640}, {"label": "ู", "code": 3641}, {"label": "ฺ", "code": 3642}, {"label": "เ", "code": 3648}, {"label": "แ", "code": 3649}, {"label": "โ", "code": 3650}] },
+    { "keys": [{"label": "ใ", "code": 3651}, {"label": "ไ", "code": 3652}, {"label": "ๅ", "code": 3653}, {"label": "ๆ", "code": 3654}, {"label": "็", "code": 3655}, {"label": "่", "code": 3656}, {"label": "้", "code": 3657}, {"label": "๊", "code": 3658}, {"label": "๋", "code": 3659}, {"label": "์", "code": 3660}, {"label": "ํ", "code": 3661}, {"label": "๎", "code": 3662}] },
+    { "keys": [{"label": "๐", "code": 3664}, {"label": "๑", "code": 3665}, {"label": "๒", "code": 3666}, {"label": "๓", "code": 3667}, {"label": "๔", "code": 3668}, {"label": "๕", "code": 3669}, {"label": "๖", "code": 3670}, {"label": "๗", "code": 3671}, {"label": "๘", "code": 3672}, {"label": "๙", "code": 3673}, {"type": "delete"}] },
+    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+  ]
+}

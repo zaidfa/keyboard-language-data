@@ -1,0 +1,10 @@
+{
+  "id": "ln",
+  "name": "Lingala",
+  "nativeName": "Lingála",
+  "locale": "ln",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1006,
+  "sha256": "adcc4e52365afeeb5d2aa8c8d5dae42f6f45e1e2f6497fc75e4d34a00d6f5e7c"
+}

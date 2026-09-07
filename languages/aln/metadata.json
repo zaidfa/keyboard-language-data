@@ -1,0 +1,9 @@
+{
+  "id": "aln",
+  "name": "Gheg Albanian",
+  "nativeName": "Gegë",
+  "locale": "aln",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

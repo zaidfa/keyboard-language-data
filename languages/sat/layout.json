@@ -1,0 +1,11 @@
+{
+  "id": "sat",
+  "type": "main",
+  "rows": [
+    { "keys": [{"label": "᱐", "code": 7248}, {"label": "᱑", "code": 7249}, {"label": "᱒", "code": 7250}, {"label": "᱓", "code": 7251}, {"label": "᱔", "code": 7252}, {"label": "᱕", "code": 7253}, {"label": "᱖", "code": 7254}, {"label": "᱗", "code": 7255}, {"label": "᱘", "code": 7256}, {"label": "᱙", "code": 7257}, {"label": "ᱚ", "code": 7258}] },
+    { "keys": [{"label": "ᱛ", "code": 7259}, {"label": "ᱜ", "code": 7260}, {"label": "ᱝ", "code": 7261}, {"label": "ᱞ", "code": 7262}, {"label": "ᱟ", "code": 7263}, {"label": "ᱠ", "code": 7264}, {"label": "ᱡ", "code": 7265}, {"label": "ᱢ", "code": 7266}, {"label": "ᱣ", "code": 7267}, {"label": "ᱤ", "code": 7268}, {"label": "ᱥ", "code": 7269}] },
+    { "keys": [{"label": "ᱦ", "code": 7270}, {"label": "ᱧ", "code": 7271}, {"label": "ᱨ", "code": 7272}, {"label": "ᱩ", "code": 7273}, {"label": "ᱪ", "code": 7274}, {"label": "ᱫ", "code": 7275}, {"label": "ᱬ", "code": 7276}, {"label": "ᱭ", "code": 7277}, {"label": "ᱮ", "code": 7278}, {"label": "ᱯ", "code": 7279}, {"label": "ᱰ", "code": 7280}] },
+    { "keys": [{"label": "ᱱ", "code": 7281}, {"label": "ᱲ", "code": 7282}, {"label": "ᱳ", "code": 7283}, {"label": "ᱴ", "code": 7284}, {"label": "ᱵ", "code": 7285}, {"label": "ᱶ", "code": 7286}, {"label": "ᱷ", "code": 7287}, {"type": "delete"}] },
+    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+  ]
+}

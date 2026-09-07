@@ -1,0 +1,10 @@
+{
+  "id": "mai",
+  "name": "Maithili",
+  "nativeName": "मैथिली",
+  "locale": "mai",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1360,
+  "sha256": "7f39c15f312a379f18306ad178406e015497fa198b29479a572ad3fe09208e94"
+}

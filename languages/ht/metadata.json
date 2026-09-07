@@ -1,0 +1,9 @@
+{
+  "id": "ht",
+  "name": "Haitian Creole",
+  "nativeName": "Kreyòl ayisyen",
+  "locale": "ht",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

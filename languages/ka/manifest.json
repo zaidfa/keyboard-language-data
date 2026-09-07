@@ -1,0 +1,10 @@
+{
+  "id": "ka",
+  "name": "Georgian",
+  "nativeName": "ქართული",
+  "locale": "ka",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1063,
+  "sha256": "86c12935dde187827eb0a19301f3e7ae8812ef0eb3d47864a5dca43b7940fd35"
+}

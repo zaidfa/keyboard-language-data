@@ -1,0 +1,9 @@
+{
+  "id": "se",
+  "name": "Northern Sámi",
+  "nativeName": "Davvisámegiella",
+  "locale": "se",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sat",
+  "name": "Santali (Ol Chiki)",
+  "nativeName": "ᱥᱟᱱᱛᱟᱲᱤ",
+  "locale": "sat",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1105,
+  "sha256": "a25c3c7246986ba12e232ca483828a4edf57718968a7e87a4018bc2b4edfd266"
+}

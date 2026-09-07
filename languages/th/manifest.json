@@ -1,0 +1,10 @@
+{
+  "id": "th",
+  "name": "Thai",
+  "nativeName": "ไทย",
+  "locale": "th",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1278,
+  "sha256": "19f1117baea549aa8ec015a422e9fcb110b07af8fce1a8e799caaccdde197b19"
+}

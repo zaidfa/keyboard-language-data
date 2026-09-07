@@ -1,0 +1,10 @@
+{
+  "id": "mni-Latn",
+  "name": "Manipuri (Latin)",
+  "nativeName": "Manipuri",
+  "locale": "mni-Latn",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1032,
+  "sha256": "c68a42528a0bc47043dbf64846355dbcd85277dea02640f3ec0139121b1e3096"
+}

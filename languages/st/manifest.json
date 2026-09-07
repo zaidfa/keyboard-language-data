@@ -1,0 +1,10 @@
+{
+  "id": "st",
+  "name": "Southern Sotho",
+  "nativeName": "Sesotho",
+  "locale": "st",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1014,
+  "sha256": "f1758c10db2c32a20d2ba3b74535f8372518a8e3115f6292157b5f30bf298c18"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "te-Latn",
+  "name": "Telugu (Latin)",
+  "nativeName": "Telugu",
+  "locale": "te-Latn",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1027,
+  "sha256": "fbbafb56354d6206a0d5ebb96bea7d432d5d6b0d4593245ee9999bac6e45a24c"
+}

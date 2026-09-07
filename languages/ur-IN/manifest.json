@@ -1,0 +1,10 @@
+{
+  "id": "ur-IN",
+  "name": "Urdu (India)",
+  "nativeName": "اردو",
+  "locale": "ur-IN",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1241,
+  "sha256": "821b0826aed9ee9bb4f15d000b3164125a1d7f79e8e179bf3bd8b4dcd5315d5b"
+}

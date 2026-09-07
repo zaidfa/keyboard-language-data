@@ -1,0 +1,10 @@
+{
+  "id": "doi-Arab",
+  "name": "Dogri (Arabic)",
+  "nativeName": "ڈوگری",
+  "locale": "doi-Arab",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1243,
+  "sha256": "d4fd4ab97699ad7fce2de9f02a31ccb1a37c07c0b7c1b6c04d04855ed093b241"
+}

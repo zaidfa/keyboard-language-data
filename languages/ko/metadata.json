@@ -1,0 +1,9 @@
+{
+  "id": "ko",
+  "name": "Korean",
+  "nativeName": "한국어",
+  "locale": "ko",
+  "script": "Hangul",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

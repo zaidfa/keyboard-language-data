@@ -1,0 +1,9 @@
+{
+  "id": "km",
+  "name": "Khmer",
+  "nativeName": "ខ្មែរ",
+  "locale": "km",
+  "script": "Khmer",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "ty",
+  "name": "Tahitian",
+  "nativeName": "Reo Tahiti",
+  "locale": "ty",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1012,
+  "sha256": "4debe074f064c729704edbaadb515ec959c409b20e7f950cbcdbd875f7a6f1f2"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "nd",
+  "name": "North Ndebele",
+  "nativeName": "isiNdebele",
+  "locale": "nd",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1016,
+  "sha256": "f35c7d6e9933095da1ce5d1e9128b5315160b6b63484ee6a53c13a92e09327f6"
+}

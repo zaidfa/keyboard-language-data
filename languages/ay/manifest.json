@@ -1,0 +1,10 @@
+{
+  "id": "ay",
+  "name": "Aymara",
+  "nativeName": "Aymar aru",
+  "locale": "ay",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1010,
+  "sha256": "8b152a44207834c5fe93805d136c7ba494069400360bd6ed698748a9db34f00a"
+}

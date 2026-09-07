@@ -1,0 +1,10 @@
+{
+  "id": "ug-Latn",
+  "name": "Uyghur (Latin)",
+  "nativeName": "Uyghurche",
+  "locale": "ug-Latn",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1032,
+  "sha256": "4ffb0c17eb5aa1f7a303fa6a319066d26982099bcb8c649ba0667051e4d14907"
+}

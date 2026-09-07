@@ -1,0 +1,9 @@
+{
+  "id": "el",
+  "name": "Greek",
+  "nativeName": "Ελληνικά",
+  "locale": "el",
+  "script": "Greek",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

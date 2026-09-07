@@ -1,0 +1,12 @@
+{
+  "id": "sr",
+  "type": "main",
+  "rows": [
+    { "keys": [{"label": "а", "code": 1072}, {"label": "б", "code": 1073}, {"label": "в", "code": 1074}, {"label": "г", "code": 1075}, {"label": "д", "code": 1076}, {"label": "е", "code": 1077}, {"label": "ж", "code": 1078}, {"label": "з", "code": 1079}, {"label": "и", "code": 1080}, {"label": "й", "code": 1081}, {"label": "к", "code": 1082}, {"label": "л", "code": 1083}] },
+    { "keys": [{"label": "м", "code": 1084}, {"label": "н", "code": 1085}, {"label": "о", "code": 1086}, {"label": "п", "code": 1087}, {"label": "р", "code": 1088}, {"label": "с", "code": 1089}, {"label": "т", "code": 1090}, {"label": "у", "code": 1091}, {"label": "ф", "code": 1092}, {"label": "х", "code": 1093}, {"label": "ц", "code": 1094}, {"label": "ч", "code": 1095}] },
+    { "keys": [{"label": "ш", "code": 1096}, {"label": "щ", "code": 1097}, {"label": "ъ", "code": 1098}, {"label": "ы", "code": 1099}, {"label": "ь", "code": 1100}, {"label": "э", "code": 1101}, {"label": "ю", "code": 1102}, {"label": "я", "code": 1103}, {"label": "ё", "code": 1105}, {"label": "є", "code": 1108}, {"label": "і", "code": 1110}, {"label": "ї", "code": 1111}] },
+    { "keys": [{"label": "ґ", "code": 1169}, {"label": "ў", "code": 1118}, {"label": "ђ", "code": 1106}, {"label": "љ", "code": 1113}, {"label": "њ", "code": 1114}, {"label": "ћ", "code": 1115}, {"label": "џ", "code": 1119}, {"label": "ј", "code": 1112}, {"label": "ѕ", "code": 1109}, {"label": "ќ", "code": 1116}, {"label": "ѓ", "code": 1107}, {"label": "ә", "code": 1241}] },
+    { "keys": [{"type": "shift"}, {"label": "ғ", "code": 1171}, {"label": "қ", "code": 1179}, {"label": "ң", "code": 1187}, {"label": "ө", "code": 1257}, {"label": "ұ", "code": 1201}, {"label": "ү", "code": 1199}, {"label": "һ", "code": 1211}, {"type": "delete"}] },
+    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+  ]
+}

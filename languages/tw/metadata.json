@@ -1,0 +1,9 @@
+{
+  "id": "tw",
+  "name": "Twi",
+  "nativeName": "Twi",
+  "locale": "tw",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

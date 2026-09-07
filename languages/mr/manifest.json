@@ -1,0 +1,10 @@
+{
+  "id": "mr",
+  "name": "Marathi",
+  "nativeName": "मराठी",
+  "locale": "mr",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1355,
+  "sha256": "e458ac0113800ac1a7005bb56b88cd6a84b318d364e077ae0274c57c95a484ef"
+}

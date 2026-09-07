@@ -1,0 +1,9 @@
+{
+  "id": "ru",
+  "name": "Russian",
+  "nativeName": "Русский",
+  "locale": "ru",
+  "script": "Cyrillic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

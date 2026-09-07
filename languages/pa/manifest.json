@@ -1,0 +1,10 @@
+{
+  "id": "pa",
+  "name": "Punjabi",
+  "nativeName": "ਪੰਜਾਬੀ",
+  "locale": "pa",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1273,
+  "sha256": "e672176d499714f395e85defab9fbf3ff63f39f375f0cca7e20a96623316468a"
+}

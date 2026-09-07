@@ -1,0 +1,9 @@
+{
+  "id": "ha",
+  "name": "Hausa",
+  "nativeName": "Hausa",
+  "locale": "ha",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

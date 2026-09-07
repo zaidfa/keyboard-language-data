@@ -1,0 +1,10 @@
+{
+  "id": "kok-Deva",
+  "name": "Konkani Devanagari",
+  "nativeName": "कोंकणी",
+  "locale": "kok-Deva",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1375,
+  "sha256": "b75657cc85d550b93e3539a29a8e2500eb38699dc8fa190cfb535a08d3e2c3a4"
+}

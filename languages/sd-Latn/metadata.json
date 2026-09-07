@@ -1,0 +1,9 @@
+{
+  "id": "sd-Latn",
+  "name": "Sindhi (Latin)",
+  "nativeName": "Sindhi",
+  "locale": "sd-Latn",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

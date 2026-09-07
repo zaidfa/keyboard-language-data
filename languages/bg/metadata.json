@@ -1,0 +1,9 @@
+{
+  "id": "bg",
+  "name": "Bulgarian",
+  "nativeName": "Български",
+  "locale": "bg",
+  "script": "Cyrillic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

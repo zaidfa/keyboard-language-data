@@ -1,0 +1,9 @@
+{
+  "id": "ia",
+  "name": "Interlingua",
+  "nativeName": "Interlingua",
+  "locale": "ia",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

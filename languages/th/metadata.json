@@ -1,0 +1,9 @@
+{
+  "id": "th",
+  "name": "Thai",
+  "nativeName": "ไทย",
+  "locale": "th",
+  "script": "Thai",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

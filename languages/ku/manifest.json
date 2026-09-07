@@ -1,0 +1,10 @@
+{
+  "id": "ku",
+  "name": "Kurdish",
+  "nativeName": "Kurdî",
+  "locale": "ku",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1009,
+  "sha256": "ce56449b081518f67e5837fe116a61a287ba7f29eaf8dfe566b3677035fd11d2"
+}

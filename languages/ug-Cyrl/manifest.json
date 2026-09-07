@@ -1,0 +1,10 @@
+{
+  "id": "ug-Cyrl",
+  "name": "Uyghur (Cyrillic)",
+  "nativeName": "уйғурчә",
+  "locale": "ug-Cyrl",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1215,
+  "sha256": "08d506b1e86b7a6252c790a798acb2ba038f6151ef1c2eb2fd0fdb9bf448f7f0"
+}

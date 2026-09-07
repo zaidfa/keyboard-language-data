@@ -1,0 +1,9 @@
+{
+  "id": "doi",
+  "name": "Dogri",
+  "nativeName": "डोगरी",
+  "locale": "doi",
+  "script": "Devanagari",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

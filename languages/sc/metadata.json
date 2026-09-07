@@ -1,0 +1,9 @@
+{
+  "id": "sc",
+  "name": "Sardinian",
+  "nativeName": "Sardu",
+  "locale": "sc",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

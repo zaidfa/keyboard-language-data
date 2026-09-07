@@ -1,0 +1,10 @@
+{
+  "id": "lo",
+  "name": "Lao",
+  "nativeName": "ລາວ",
+  "locale": "lo",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1278,
+  "sha256": "6892cee245e3296c0169e3899069e217f6e1eadad2af5f5cc101f16c49677833"
+}

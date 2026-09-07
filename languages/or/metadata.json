@@ -1,0 +1,9 @@
+{
+  "id": "or",
+  "name": "Odia",
+  "nativeName": "ଓଡ଼ିଆ",
+  "locale": "or",
+  "script": "Odia",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cv",
+  "name": "Chuvash",
+  "nativeName": "Чӑвашла",
+  "locale": "cv",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1195,
+  "sha256": "5595008615fb831b45c9b9f60e7c85dc53f0847f76524bb0185fd09c399a3abd"
+}

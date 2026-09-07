@@ -1,0 +1,10 @@
+{
+  "id": "an",
+  "name": "Aragonese",
+  "nativeName": "Aragonés",
+  "locale": "an",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1011,
+  "sha256": "7490d1c4a09688ed3b6089296a145d48dae4a88e4dd5d6a13449ae9ccaca645b"
+}

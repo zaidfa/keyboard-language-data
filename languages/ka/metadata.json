@@ -1,0 +1,9 @@
+{
+  "id": "ka",
+  "name": "Georgian",
+  "nativeName": "ქართული",
+  "locale": "ka",
+  "script": "Georgian",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

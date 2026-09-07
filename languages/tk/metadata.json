@@ -1,0 +1,9 @@
+{
+  "id": "tk",
+  "name": "Turkmen",
+  "nativeName": "Türkmen",
+  "locale": "tk",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "doi-Latn",
+  "name": "Dogri (Latin)",
+  "nativeName": "Dogri",
+  "locale": "doi-Latn",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1030,
+  "sha256": "73e4081ab228efbc412582a0ff30d4ac824ff29ab1de3d9df4034cc31e5907c9"
+}

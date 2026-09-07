@@ -1,0 +1,9 @@
+{
+  "id": "ml",
+  "name": "Malayalam",
+  "nativeName": "മലയാളം",
+  "locale": "ml",
+  "script": "Malayalam",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

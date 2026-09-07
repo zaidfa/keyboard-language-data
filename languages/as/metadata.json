@@ -1,0 +1,9 @@
+{
+  "id": "as",
+  "name": "Assamese",
+  "nativeName": "অসমীয়া",
+  "locale": "as",
+  "script": "Bengali",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

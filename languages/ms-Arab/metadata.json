@@ -1,0 +1,9 @@
+{
+  "id": "ms-Arab",
+  "name": "Malay (Arabic)",
+  "nativeName": "ملايو",
+  "locale": "ms-Arab",
+  "script": "Arabic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

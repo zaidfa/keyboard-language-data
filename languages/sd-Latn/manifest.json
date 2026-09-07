@@ -1,0 +1,10 @@
+{
+  "id": "sd-Latn",
+  "name": "Sindhi (Latin)",
+  "nativeName": "Sindhi",
+  "locale": "sd-Latn",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1027,
+  "sha256": "9b32e71c6026711da62cc76af735043c575f3f7a483cfd217e969f99928bf25e"
+}

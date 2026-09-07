@@ -1,0 +1,9 @@
+{
+  "id": "mr-Latn",
+  "name": "Marathi (Latin)",
+  "nativeName": "Marathi",
+  "locale": "mr-Latn",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mni",
+  "name": "Manipuri",
+  "nativeName": "ꯃꯤꯇꯩꯂꯣꯟ",
+  "locale": "mni",
+  "script": "Meetei Mayek",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

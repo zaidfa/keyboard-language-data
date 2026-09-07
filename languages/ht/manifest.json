@@ -1,0 +1,10 @@
+{
+  "id": "ht",
+  "name": "Haitian Creole",
+  "nativeName": "Kreyòl ayisyen",
+  "locale": "ht",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1027,
+  "sha256": "60a090eb806e669eabb33827dbe7b170f8ca6af6243a3c026c22550cc5475c45"
+}

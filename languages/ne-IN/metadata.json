@@ -1,0 +1,9 @@
+{
+  "id": "ne-IN",
+  "name": "Nepali (India)",
+  "nativeName": "नेपाली",
+  "locale": "ne-IN",
+  "script": "Devanagari",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "si",
+  "type": "main",
+  "rows": [
+    { "keys": [{"label": "අ", "code": 3461}, {"label": "ආ", "code": 3462}, {"label": "ඇ", "code": 3463}, {"label": "ඈ", "code": 3464}, {"label": "ඉ", "code": 3465}, {"label": "ඊ", "code": 3466}, {"label": "උ", "code": 3467}, {"label": "ඌ", "code": 3468}, {"label": "ඍ", "code": 3469}, {"label": "ඎ", "code": 3470}, {"label": "ඏ", "code": 3471}, {"label": "ඐ", "code": 3472}] },
+    { "keys": [{"label": "එ", "code": 3473}, {"label": "ඒ", "code": 3474}, {"label": "ඓ", "code": 3475}, {"label": "ඔ", "code": 3476}, {"label": "ඕ", "code": 3477}, {"label": "ඖ", "code": 3478}, {"label": "ක", "code": 3482}, {"label": "ඛ", "code": 3483}, {"label": "ග", "code": 3484}, {"label": "ඝ", "code": 3485}, {"label": "ඞ", "code": 3486}, {"label": "ඟ", "code": 3487}] },
+    { "keys": [{"label": "ච", "code": 3488}, {"label": "ඡ", "code": 3489}, {"label": "ජ", "code": 3490}, {"label": "ඣ", "code": 3491}, {"label": "ඤ", "code": 3492}, {"label": "ඥ", "code": 3493}, {"label": "ඦ", "code": 3494}, {"label": "ට", "code": 3495}, {"label": "ඨ", "code": 3496}, {"label": "ඩ", "code": 3497}, {"label": "ඪ", "code": 3498}, {"label": "ණ", "code": 3499}] },
+    { "keys": [{"label": "ඬ", "code": 3500}, {"label": "ත", "code": 3501}, {"label": "ථ", "code": 3502}, {"label": "ද", "code": 3503}, {"label": "ධ", "code": 3504}, {"label": "න", "code": 3505}, {"label": "ඳ", "code": 3507}, {"label": "ප", "code": 3508}, {"label": "ඵ", "code": 3509}, {"label": "බ", "code": 3510}, {"label": "භ", "code": 3511}, {"label": "ම", "code": 3512}] },
+    { "keys": [{"label": "ඹ", "code": 3513}, {"label": "ය", "code": 3514}, {"label": "ර", "code": 3515}, {"label": "ව", "code": 3520}, {"label": "ශ", "code": 3521}, {"label": "ෂ", "code": 3522}, {"label": "ස", "code": 3523}, {"label": "හ", "code": 3524}, {"label": "ළ", "code": 3525}, {"label": "ෆ", "code": 3526}, {"label": "ා", "code": 3535}, {"label": "ැ", "code": 3536}] },
+    { "keys": [{"label": "ෑ", "code": 3537}, {"label": "ි", "code": 3538}, {"label": "ී", "code": 3539}, {"label": "ු", "code": 3540}, {"label": "෕", "code": 3541}, {"label": "ූ", "code": 3542}, {"label": "෗", "code": 3543}, {"label": "ෘ", "code": 3544}, {"label": "ෙ", "code": 3545}, {"label": "ේ", "code": 3546}, {"label": "ෛ", "code": 3547}, {"label": "ො", "code": 3548}] },
+    { "keys": [{"label": "ෝ", "code": 3549}, {"label": "ෞ", "code": 3550}, {"label": "ෟ", "code": 3551}, {"type": "delete"}] },
+    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+  ]
+}

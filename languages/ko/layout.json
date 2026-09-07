@@ -1,0 +1,12 @@
+{
+  "id": "ko",
+  "type": "main",
+  "rows": [
+    { "keys": [{"label": "ㄱ", "code": 12593}, {"label": "ㄲ", "code": 12594}, {"label": "ㄳ", "code": 12595}, {"label": "ㄴ", "code": 12596}, {"label": "ㄵ", "code": 12597}, {"label": "ㄶ", "code": 12598}, {"label": "ㄷ", "code": 12599}, {"label": "ㄸ", "code": 12600}, {"label": "ㄹ", "code": 12601}, {"label": "ㄺ", "code": 12602}, {"label": "ㄻ", "code": 12603}, {"label": "ㄼ", "code": 12604}] },
+    { "keys": [{"label": "ㄽ", "code": 12605}, {"label": "ㄾ", "code": 12606}, {"label": "ㄿ", "code": 12607}, {"label": "ㅀ", "code": 12608}, {"label": "ㅁ", "code": 12609}, {"label": "ㅂ", "code": 12610}, {"label": "ㅃ", "code": 12611}, {"label": "ㅄ", "code": 12612}, {"label": "ㅅ", "code": 12613}, {"label": "ㅆ", "code": 12614}, {"label": "ㅇ", "code": 12615}, {"label": "ㅈ", "code": 12616}] },
+    { "keys": [{"label": "ㅉ", "code": 12617}, {"label": "ㅊ", "code": 12618}, {"label": "ㅋ", "code": 12619}, {"label": "ㅌ", "code": 12620}, {"label": "ㅍ", "code": 12621}, {"label": "ㅎ", "code": 12622}, {"label": "ㅏ", "code": 12623}, {"label": "ㅐ", "code": 12624}, {"label": "ㅑ", "code": 12625}, {"label": "ㅒ", "code": 12626}, {"label": "ㅓ", "code": 12627}, {"label": "ㅔ", "code": 12628}] },
+    { "keys": [{"label": "ㅕ", "code": 12629}, {"label": "ㅖ", "code": 12630}, {"label": "ㅗ", "code": 12631}, {"label": "ㅘ", "code": 12632}, {"label": "ㅙ", "code": 12633}, {"label": "ㅚ", "code": 12634}, {"label": "ㅛ", "code": 12635}, {"label": "ㅜ", "code": 12636}, {"label": "ㅝ", "code": 12637}, {"label": "ㅞ", "code": 12638}, {"label": "ㅟ", "code": 12639}, {"label": "ㅠ", "code": 12640}] },
+    { "keys": [{"label": "ㅡ", "code": 12641}, {"label": "ㅢ", "code": 12642}, {"label": "ㅣ", "code": 12643}, {"type": "delete"}] },
+    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+  ]
+}

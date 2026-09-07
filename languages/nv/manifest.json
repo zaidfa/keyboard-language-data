@@ -1,0 +1,10 @@
+{
+  "id": "nv",
+  "name": "Navajo",
+  "nativeName": "Diné bizaad",
+  "locale": "nv",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1018,
+  "sha256": "e99736e036649311dd537a1c64224eb53ff7b588fcb1edb60a43c52a0a8726c4"
+}

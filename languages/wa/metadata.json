@@ -1,0 +1,9 @@
+{
+  "id": "wa",
+  "name": "Walloon",
+  "nativeName": "Walon",
+  "locale": "wa",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

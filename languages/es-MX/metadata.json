@@ -1,0 +1,9 @@
+{
+  "id": "es-MX",
+  "name": "Spanish (Mexico)",
+  "nativeName": "Español (México)",
+  "locale": "es-MX",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "jv",
+  "name": "Javanese",
+  "nativeName": "Basa Jawa",
+  "locale": "jv",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

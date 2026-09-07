@@ -1,0 +1,10 @@
+{
+  "id": "sr",
+  "name": "Serbian",
+  "nativeName": "Српски",
+  "locale": "sr",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1192,
+  "sha256": "0866384524ea90f4045c9c962d577987a881db669113edc7822f8b17d6a9a542"
+}

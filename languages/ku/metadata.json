@@ -1,0 +1,9 @@
+{
+  "id": "ku",
+  "name": "Kurdish",
+  "nativeName": "Kurdî",
+  "locale": "ku",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "to",
+  "name": "Tongan",
+  "nativeName": "Lea faka-Tonga",
+  "locale": "to",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1014,
+  "sha256": "eca9c8e3275d12458fd29b352525bd25d68b821fbdf5af02d20605d666d950db"
+}

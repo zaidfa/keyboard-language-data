@@ -1,0 +1,9 @@
+{
+  "id": "be",
+  "name": "Belarusian",
+  "nativeName": "Беларуская",
+  "locale": "be",
+  "script": "Cyrillic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

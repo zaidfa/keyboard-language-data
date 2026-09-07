@@ -1,0 +1,9 @@
+{
+  "id": "my",
+  "name": "Burmese (Unicode)",
+  "nativeName": "မြန်မာ",
+  "locale": "my",
+  "script": "Myanmar",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

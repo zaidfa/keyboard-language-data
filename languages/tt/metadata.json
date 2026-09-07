@@ -1,0 +1,9 @@
+{
+  "id": "tt",
+  "name": "Tatar",
+  "nativeName": "Татарча",
+  "locale": "tt",
+  "script": "Cyrillic",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

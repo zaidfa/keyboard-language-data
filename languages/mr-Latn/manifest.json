@@ -1,0 +1,10 @@
+{
+  "id": "mr-Latn",
+  "name": "Marathi (Latin)",
+  "nativeName": "Marathi",
+  "locale": "mr-Latn",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1029,
+  "sha256": "bcdf68a15bfbcc2eb1fc65bb97a95c987429c64e128c3ffe3a3dcf1ef9b6dab6"
+}

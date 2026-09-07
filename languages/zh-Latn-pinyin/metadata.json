@@ -1,0 +1,9 @@
+{
+  "id": "zh-Latn-pinyin",
+  "name": "Chinese (Pinyin)",
+  "nativeName": "拼音",
+  "locale": "zh-Latn-pinyin",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

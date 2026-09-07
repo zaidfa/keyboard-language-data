@@ -1,0 +1,9 @@
+{
+  "id": "sat",
+  "name": "Santali (Ol Chiki)",
+  "nativeName": "ᱥᱟᱱᱛᱟᱲᱤ",
+  "locale": "sat",
+  "script": "Ol Chiki",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

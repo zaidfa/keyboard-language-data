@@ -1,0 +1,10 @@
+{
+  "id": "bn-Latn",
+  "name": "Bengali (Latin)",
+  "nativeName": "Bangla",
+  "locale": "bn-Latn",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1034,
+  "sha256": "bf7b9df08aa49f9c293159702750c01cd56690c7463029c150e1ed85ece8ef42"
+}

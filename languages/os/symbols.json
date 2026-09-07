@@ -1,0 +1,10 @@
+{
+  "id": "os",
+  "type": "symbols",
+  "rows": [
+    { "keys": [{"label": "1", "code": 49}, {"label": "2", "code": 50}, {"label": "3", "code": 51}, {"label": "4", "code": 52}, {"label": "5", "code": 53}, {"label": "6", "code": 54}, {"label": "7", "code": 55}, {"label": "8", "code": 56}, {"label": "9", "code": 57}, {"label": "0", "code": 48}] },
+    { "keys": [{"label": "@", "code": 64}, {"label": "#", "code": 35}, {"label": "$", "code": 36}, {"label": "_", "code": 95}, {"label": "&", "code": 38}, {"label": "-", "code": 45}, {"label": "+", "code": 43}, {"label": "(", "code": 40}, {"label": ")", "code": 41}, {"label": "/", "code": 47}] },
+    { "keys": [{"type": "symbols"}, {"label": "*", "code": 42}, {"label": "\"", "code": 34}, {"label": "'", "code": 39}, {"label": ":", "code": 58}, {"label": ";", "code": 59}, {"label": "!", "code": 33}, {"label": "?", "code": 63}, {"type": "delete"}] },
+    { "keys": [{"type": "language"}, {"label": ",", "code": 44}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+  ]
+}

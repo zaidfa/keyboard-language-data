@@ -1,0 +1,10 @@
+{
+  "id": "ks-Latn",
+  "name": "Kashmiri (Latin)",
+  "nativeName": "Kashmiri",
+  "locale": "ks-Latn",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1029,
+  "sha256": "8e3c7acc082195450e85dda85e731eb533c77e9e0f72e9bdd2282893da346d6d"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "en-GB",
+  "name": "English (United Kingdom)",
+  "nativeName": "English (UK)",
+  "locale": "en-GB",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1039,
+  "sha256": "899952a13087745a8c0a3cb38fcaa6efe5fc7e7b8e84357b388e692876073dd8"
+}

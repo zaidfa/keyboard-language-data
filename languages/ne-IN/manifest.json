@@ -1,0 +1,10 @@
+{
+  "id": "ne-IN",
+  "name": "Nepali (India)",
+  "nativeName": "नेपाली",
+  "locale": "ne-IN",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1383,
+  "sha256": "d1858211c39e1dca85798bb3548837fada4df2f95e779c5dfd8268ee526f110f"
+}

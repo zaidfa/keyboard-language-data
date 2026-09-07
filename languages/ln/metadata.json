@@ -1,0 +1,9 @@
+{
+  "id": "ln",
+  "name": "Lingala",
+  "nativeName": "Lingála",
+  "locale": "ln",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

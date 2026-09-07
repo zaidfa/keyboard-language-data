@@ -1,0 +1,10 @@
+{
+  "id": "war",
+  "name": "Waray",
+  "nativeName": "Winaray",
+  "locale": "war",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1010,
+  "sha256": "c48e31a418c3cc82b264ab86a94ee22e4baa08959f8da578f6c03105c2d4b5a8"
+}

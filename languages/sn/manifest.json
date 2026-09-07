@@ -1,0 +1,10 @@
+{
+  "id": "sn",
+  "name": "Shona",
+  "nativeName": "ChiShona",
+  "locale": "sn",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1007,
+  "sha256": "18cea7adc5a5892b36bcf1bff22a1db1086ecdcc4b67e8107fcd19119ba251c0"
+}

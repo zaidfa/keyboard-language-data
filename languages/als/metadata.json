@@ -1,0 +1,9 @@
+{
+  "id": "als",
+  "name": "Tosk Albanian",
+  "nativeName": "Toskë",
+  "locale": "als",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

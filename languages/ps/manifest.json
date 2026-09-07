@@ -1,0 +1,10 @@
+{
+  "id": "ps",
+  "name": "Pashto",
+  "nativeName": "پښتو",
+  "locale": "ps",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1218,
+  "sha256": "9fa6c09c206efbfa88a96195eaa745cde6a266c35a70e1d4db93a42cb1ff7a93"
+}

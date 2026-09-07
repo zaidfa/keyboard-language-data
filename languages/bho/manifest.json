@@ -1,0 +1,10 @@
+{
+  "id": "bho",
+  "name": "Bhojpuri",
+  "nativeName": "भोजपुरी",
+  "locale": "bho",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1365,
+  "sha256": "446825ee04340fc78ba946b5d3fdaff48d0c12f7309b0f5208bb667a99222487"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "pa-Latn",
+  "name": "Punjabi (Latin)",
+  "nativeName": "Punjabi",
+  "locale": "pa-Latn",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

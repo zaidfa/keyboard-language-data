@@ -1,0 +1,10 @@
+{
+  "id": "fo",
+  "name": "Faroese",
+  "nativeName": "Føroyskt",
+  "locale": "fo",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1014,
+  "sha256": "a5fe1d9c035628223d90eea1c45854337973f8e720fd8fe1e81190a6dc3d148f"
+}

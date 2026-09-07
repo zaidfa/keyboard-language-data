@@ -1,0 +1,10 @@
+{
+  "id": "fa",
+  "name": "Persian",
+  "nativeName": "فارسی",
+  "locale": "fa",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1221,
+  "sha256": "8f31213e1f73e12d6b3d5e5f6f4ab85e96648a936ba38d303b1ffddae129b431"
+}

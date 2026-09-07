@@ -1,0 +1,9 @@
+{
+  "id": "st",
+  "name": "Southern Sotho",
+  "nativeName": "Sesotho",
+  "locale": "st",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

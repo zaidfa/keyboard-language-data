@@ -1,0 +1,10 @@
+{
+  "id": "ug-Arab",
+  "name": "Uyghur (Arabic)",
+  "nativeName": "ئۇيغۇرچە",
+  "locale": "ug-Arab",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1249,
+  "sha256": "722c980d25847f3f16d8d77ce3bd7b24b19b0338ae305f50f043062ab24e4bad"
+}

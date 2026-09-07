@@ -1,0 +1,10 @@
+{
+  "id": "ki",
+  "name": "Kikuyu",
+  "nativeName": "Gĩkũyũ",
+  "locale": "ki",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1015,
+  "sha256": "df3249ff5c1240cfb0cfb3fb649cfc17f0f23677c84707435e5a3dcf4ac44ad4"
+}

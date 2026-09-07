@@ -1,0 +1,10 @@
+{
+  "id": "si",
+  "name": "Sinhala",
+  "nativeName": "සිංහල",
+  "locale": "si",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1267,
+  "sha256": "1b1d028338d58a7350ca640ae65658056af8d717945ce0d66d82712541670371"
+}

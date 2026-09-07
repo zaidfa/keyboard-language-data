@@ -1,0 +1,9 @@
+{
+  "id": "bn-Latn",
+  "name": "Bengali (Latin)",
+  "nativeName": "Bangla",
+  "locale": "bn-Latn",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "uk",
+  "name": "Ukrainian",
+  "nativeName": "Українська",
+  "locale": "uk",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1203,
+  "sha256": "f5f22d7e87065872a8cf22c2c943d912647740578d56a41105b3194f393ab1f9"
+}

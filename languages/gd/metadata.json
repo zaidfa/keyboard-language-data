@@ -1,0 +1,9 @@
+{
+  "id": "gd",
+  "name": "Scottish Gaelic",
+  "nativeName": "Gàidhlig",
+  "locale": "gd",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

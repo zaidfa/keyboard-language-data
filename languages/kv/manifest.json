@@ -1,0 +1,10 @@
+{
+  "id": "kv",
+  "name": "Komi",
+  "nativeName": "Коми",
+  "locale": "kv",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1186,
+  "sha256": "01de57db76df0cddcb809b18e07c80ad7f913d51c092ed3c6c81b2e8b70206d4"
+}

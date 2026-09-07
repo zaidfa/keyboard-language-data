@@ -1,0 +1,10 @@
+{
+  "id": "el",
+  "name": "Greek",
+  "nativeName": "Ελληνικά",
+  "locale": "el",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1030,
+  "sha256": "82feaca9da4505b65c3f26188bc8ddc4c6c3e1f9c15f6a2a60306db24ef4dad2"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "es-US",
+  "name": "Spanish (United States)",
+  "nativeName": "Español (EE. UU.)",
+  "locale": "es-US",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1053,
+  "sha256": "bb487736c7a0ae7cb60b2d520163cd06ca968a7afeb2914ff30f93440ca77924"
+}

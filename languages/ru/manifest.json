@@ -1,0 +1,10 @@
+{
+  "id": "ru",
+  "name": "Russian",
+  "nativeName": "Русский",
+  "locale": "ru",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1194,
+  "sha256": "86656b70f5c6fbd2fe98107b195268891e8e12a1c2956ab2ca41791ea1914939"
+}

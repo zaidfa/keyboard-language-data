@@ -1,0 +1,9 @@
+{
+  "id": "ki",
+  "name": "Kikuyu",
+  "nativeName": "Gĩkũyũ",
+  "locale": "ki",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

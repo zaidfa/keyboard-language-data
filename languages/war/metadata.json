@@ -1,0 +1,9 @@
+{
+  "id": "war",
+  "name": "Waray",
+  "nativeName": "Winaray",
+  "locale": "war",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

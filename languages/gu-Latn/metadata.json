@@ -1,0 +1,9 @@
+{
+  "id": "gu-Latn",
+  "name": "Gujarati (Latin)",
+  "nativeName": "Gujarati",
+  "locale": "gu-Latn",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

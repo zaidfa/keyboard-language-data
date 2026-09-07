@@ -1,0 +1,10 @@
+{
+  "id": "tn",
+  "name": "Tswana",
+  "nativeName": "Setswana",
+  "locale": "tn",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1007,
+  "sha256": "112016be97846b8ec27d6a582b5fcbc4e37e688aaad2119b729b3c34097c3d64"
+}

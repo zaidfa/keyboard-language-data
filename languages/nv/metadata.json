@@ -1,0 +1,9 @@
+{
+  "id": "nv",
+  "name": "Navajo",
+  "nativeName": "Diné bizaad",
+  "locale": "nv",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "os",
+  "name": "Ossetian",
+  "nativeName": "Ирон",
+  "locale": "os",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1189,
+  "sha256": "5689947c4f4ed3251bf71ec5c80ffb0064f64b27f9ad946e2433c47196130fa9"
+}

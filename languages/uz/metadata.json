@@ -1,0 +1,9 @@
+{
+  "id": "uz",
+  "name": "Uzbek",
+  "nativeName": "Oʻzbek",
+  "locale": "uz",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

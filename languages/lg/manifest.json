@@ -1,0 +1,10 @@
+{
+  "id": "lg",
+  "name": "Luganda",
+  "nativeName": "Luganda",
+  "locale": "lg",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1004,
+  "sha256": "1cab4736acba45f3af751595c7da51530693c9e47e8e32a4d99db720965c8d31"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "my-Qaag",
+  "name": "Burmese (Zawgyi)",
+  "nativeName": "မြန်မာ (Zawgyi)",
+  "locale": "my-Qaag",
+  "script": "Myanmar",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

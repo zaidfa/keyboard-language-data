@@ -1,0 +1,9 @@
+{
+  "id": "su",
+  "name": "Sundanese",
+  "nativeName": "Basa Sunda",
+  "locale": "su",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}
