@@ -1,0 +1,9 @@
+{
+  "id": "nb",
+  "name": "Norwegian Bokmål",
+  "nativeName": "Norsk bokmål",
+  "locale": "nb",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ms-MY",
+  "name": "Malay (Malaysia)",
+  "nativeName": "Bahasa Melayu",
+  "locale": "ms-MY",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

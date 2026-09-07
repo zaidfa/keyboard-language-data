@@ -1,0 +1,9 @@
+{
+  "id": "tl",
+  "name": "Tagalog",
+  "nativeName": "Tagalog",
+  "locale": "tl",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "it",
+  "name": "Italian",
+  "nativeName": "Italiano",
+  "locale": "it",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

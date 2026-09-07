@@ -1,0 +1,10 @@
+{
+  "id": "ms-MY",
+  "name": "Malay (Malaysia)",
+  "nativeName": "Bahasa Melayu",
+  "locale": "ms-MY",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1039,
+  "sha256": "28042052bcb66fe57f04c9c5906a91e25e9c89706c877e6fe68fa5ce5a19f95e"
+}

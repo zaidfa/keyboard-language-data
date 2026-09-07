@@ -1,0 +1,10 @@
+{
+  "id": "pt-BR",
+  "name": "Portuguese (Brazil)",
+  "nativeName": "Português (Brasil)",
+  "locale": "pt-BR",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1052,
+  "sha256": "f32ac9c227f5c41364c3fb7ccce93965322be5f956208b04d5adb6a5b663cd71"
+}

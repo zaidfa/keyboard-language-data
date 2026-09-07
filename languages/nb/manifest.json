@@ -1,0 +1,10 @@
+{
+  "id": "nb",
+  "name": "Norwegian Bokmål",
+  "nativeName": "Norsk bokmål",
+  "locale": "nb",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1047,
+  "sha256": "f664bf1c828132564b292cae973e1e98794dff1529295de661220087fe4722f1"
+}

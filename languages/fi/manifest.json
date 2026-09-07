@@ -1,0 +1,10 @@
+{
+  "id": "fi",
+  "name": "Finnish",
+  "nativeName": "Suomi",
+  "locale": "fi",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1038,
+  "sha256": "effc9eaa5dcdd609f7f543f31846ec4d66b7426ff5f9c47ee0efdcc00dd850a9"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "da",
+  "name": "Danish",
+  "nativeName": "Dansk",
+  "locale": "da",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

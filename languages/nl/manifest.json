@@ -1,0 +1,10 @@
+{
+  "id": "nl",
+  "name": "Dutch",
+  "nativeName": "Nederlands",
+  "locale": "nl",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1014,
+  "sha256": "4fc26d6c9865366d70919302c39bcac2a80405b299ce3f0069780586cf9b9e69"
+}

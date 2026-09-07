@@ -1,0 +1,9 @@
+{
+  "id": "tr",
+  "name": "Turkish",
+  "nativeName": "Türkçe",
+  "locale": "tr",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

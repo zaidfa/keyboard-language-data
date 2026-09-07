@@ -1,0 +1,10 @@
+{
+  "id": "sq",
+  "name": "Albanian",
+  "nativeName": "Shqip",
+  "locale": "sq",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1031,
+  "sha256": "ceec636cb7485f7afaff45b1a4445484f9b77fc4685df4aaf0f328fff60d66e4"
+}

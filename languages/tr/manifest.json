@@ -1,0 +1,10 @@
+{
+  "id": "tr",
+  "name": "Turkish",
+  "nativeName": "Türkçe",
+  "locale": "tr",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1062,
+  "sha256": "81e49f666069a27af19e6d7de135d7b6a365d57d0cbd08103edf04234644a684"
+}

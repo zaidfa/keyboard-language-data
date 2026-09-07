@@ -1,0 +1,10 @@
+{
+  "id": "af",
+  "name": "Afrikaans",
+  "nativeName": "Afrikaans",
+  "locale": "af",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1007,
+  "sha256": "7d7dce734ad8d492587ef9dc30071f10ed2ae41025cb64e5fdad54b179c19dc3"
+}

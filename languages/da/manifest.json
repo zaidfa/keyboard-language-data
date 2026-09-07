@@ -1,0 +1,10 @@
+{
+  "id": "da",
+  "name": "Danish",
+  "nativeName": "Dansk",
+  "locale": "da",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1034,
+  "sha256": "953f16d7ad80b61faf3feba37978fe8178ca7d49ec65bf019d0e59a0597d3ac1"
+}

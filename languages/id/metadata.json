@@ -1,0 +1,9 @@
+{
+  "id": "id",
+  "name": "Indonesian",
+  "nativeName": "Bahasa Indonesia",
+  "locale": "id",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

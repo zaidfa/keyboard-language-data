@@ -1,0 +1,10 @@
+{
+  "id": "pl",
+  "name": "Polish",
+  "nativeName": "Polski",
+  "locale": "pl",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1008,
+  "sha256": "8049c99c0e00134fecb2be95082e8a03bf1e01106851cae2e9ec6e44f33906e9"
+}

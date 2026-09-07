@@ -1,0 +1,9 @@
+{
+  "id": "pt-BR",
+  "name": "Portuguese (Brazil)",
+  "nativeName": "Português (Brasil)",
+  "locale": "pt-BR",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

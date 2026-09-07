@@ -1,0 +1,9 @@
+{
+  "id": "sw",
+  "name": "Swahili",
+  "nativeName": "Kiswahili",
+  "locale": "sw",
+  "script": "Latin",
+  "version": 1,
+  "layouts": ["layout.json", "symbols.json"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "id",
+  "name": "Indonesian",
+  "nativeName": "Bahasa Indonesia",
+  "locale": "id",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1013,
+  "sha256": "57c59719292b4487b4e92f1be49e9ce0d17cf56efab0ccc73b5818695ddeba0a"
+}

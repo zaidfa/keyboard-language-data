@@ -1,0 +1,10 @@
+{
+  "id": "sv",
+  "name": "Swedish",
+  "nativeName": "Svenska",
+  "locale": "sv",
+  "version": 1,
+  "package": "language.zip",
+  "sizeBytes": 1041,
+  "sha256": "c2f7ba0a04adc7f9a7599846f39c44634c495177225bbf268ee7b90b7c2139b5"
+}
