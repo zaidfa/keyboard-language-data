@@ -3,8 +3,8 @@
   "name": "Macedonian",
   "nativeName": "Македонски",
   "locale": "mk",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1213,
-  "sha256": "831b8286b60f28649f9ac39837cfa0d3afcacc27de6ace756b403ccc3879abba"
+  "sizeBytes": 1357,
+  "sha256": "d0a8c98f5e0d517703b47db95a58bfaf4a1a88157c6f06d8abee7d6b8870f380"
 }

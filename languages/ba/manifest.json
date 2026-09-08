@@ -3,8 +3,8 @@
   "name": "Bashkir",
   "nativeName": "Башҡортса",
   "locale": "ba",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1209,
-  "sha256": "9fd1279f5772030e0fa5d0e39f62aeae1d3660f692003580a61a9ad917504ae2"
+  "sizeBytes": 1353,
+  "sha256": "36a9384fe411e20921728e8b7a3ffc9ec58453273d1a35fb96e865c27426180d"
 }

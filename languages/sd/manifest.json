@@ -3,8 +3,8 @@
   "name": "Sindhi",
   "nativeName": "سنڌي",
   "locale": "sd",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1230,
-  "sha256": "df71cf73ac074e7e719fc0d43b5936142e547c85a6e9faa840e8f307ed0b35ea"
+  "sizeBytes": 1389,
+  "sha256": "20d86963a84cae29968e8ef97570c730906d371119e17ae6a7a3c93139a072dd"
 }

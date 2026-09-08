@@ -3,8 +3,8 @@
   "name": "Tajik",
   "nativeName": "Тоҷикӣ",
   "locale": "tg",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1201,
-  "sha256": "2b1c48927a81c19e5eeedc2fc2b378cdc41833fd753038bfbd797d4c80a7a324"
+  "sizeBytes": 1345,
+  "sha256": "6290ba93d34554a70eb6c6603c113ea8a2f18d26454123b65e77f73a96095e54"
 }

@@ -3,8 +3,8 @@
   "name": "Kannada",
   "nativeName": "ಕನ್ನಡ",
   "locale": "kn",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1279,
-  "sha256": "ecbc63ba0c039cc47d94658222e8ceed7588d84b072dd7b14e713ed149c8582c"
+  "sizeBytes": 1444,
+  "sha256": "d26902efb79f7e27da908b6d6450393afa94869c15686c56a9368b49b6289746"
 }

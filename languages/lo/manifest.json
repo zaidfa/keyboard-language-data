@@ -3,8 +3,8 @@
   "name": "Lao",
   "nativeName": "ລາວ",
   "locale": "lo",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1290,
-  "sha256": "f3aee3062809786074be2d04cb7d5a76d0f487db233942151e0aa13182b7fcfe"
+  "sizeBytes": 1453,
+  "sha256": "48e5677db42c535c45c544c87ea0ff0644d0634603b364fc18a830b18414d365"
 }

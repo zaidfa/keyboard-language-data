@@ -3,8 +3,8 @@
   "name": "Bodo",
   "nativeName": "बड़ो",
   "locale": "brx",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1363,
-  "sha256": "f945c58502ad26caf20635da5f1de03c211aad4ba88794d89214802efc5971ff"
+  "sizeBytes": 1537,
+  "sha256": "10fe31191b206b241ba246f740768d4642cd74d06edf92579cbd936e1084cb0a"
 }

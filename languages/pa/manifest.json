@@ -3,8 +3,8 @@
   "name": "Punjabi",
   "nativeName": "ਪੰਜਾਬੀ",
   "locale": "pa",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1282,
-  "sha256": "be5ab291252d6cff372aa60efb18496da4449389e2e7c6f215550be073734cfe"
+  "sizeBytes": 1438,
+  "sha256": "515cfc89e5687acd868a422673e28c7e9308eb987e8679570739202acb372b4d"
 }

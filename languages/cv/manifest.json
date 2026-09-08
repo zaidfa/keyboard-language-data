@@ -3,8 +3,8 @@
   "name": "Chuvash",
   "nativeName": "Чӑвашла",
   "locale": "cv",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1207,
-  "sha256": "b585ed6c0fa83b41bea48ea73b14608a1c7c2c5057a4c7614c2d098a04b36609"
+  "sizeBytes": 1350,
+  "sha256": "f858d0859aaab5b4d89db757dbe4d6a274d6c865e5c29d77f02117edfe2af823"
 }

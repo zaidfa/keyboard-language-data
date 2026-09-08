@@ -3,8 +3,8 @@
   "name": "Ukrainian",
   "nativeName": "Українська",
   "locale": "uk",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1214,
-  "sha256": "3c2df22dc73c22b3ff4f9f69a7f252c2e733d4843db8cee31a8545e6a708de1e"
+  "sizeBytes": 1358,
+  "sha256": "977bb29489a0f5ba7db1f0bf6c855de4819995c8b1efba13ab68722cb6f7216a"
 }

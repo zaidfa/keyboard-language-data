@@ -3,8 +3,8 @@
   "name": "Tibetan",
   "nativeName": "བོད་ཡིག",
   "locale": "bo",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1280,
-  "sha256": "656771612bf55681e0d753912c7dc9501c2de9a35033326b59a83b7d3f130e2d"
+  "sizeBytes": 1438,
+  "sha256": "d9f6ad9208eee0d534ce60b2355c5526aa5f9e60bc9003f9f6cb85df7ba58469"
 }

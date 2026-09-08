@@ -3,8 +3,8 @@
   "name": "Tamil",
   "nativeName": "தமிழ்",
   "locale": "ta",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1280,
-  "sha256": "d7e7f067e3445796a95c2866eb4389058c9df0908f01ca9d09a0a771214ed428"
+  "sizeBytes": 1472,
+  "sha256": "864531ccd30d9cfd29626de700c6e254c24d8d213e7729e44a53dc56a80a7593"
 }

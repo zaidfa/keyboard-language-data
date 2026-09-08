@@ -3,8 +3,8 @@
   "name": "Bodo (Devanagari)",
   "nativeName": "बड़ो",
   "locale": "brx-Deva",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1384,
-  "sha256": "2d7d8af794775ae93e0929c739c866895d1da9c41ff621e151857e0918148baf"
+  "sizeBytes": 1556,
+  "sha256": "ed7822f073d8b24106fa33368b025a79109ed755e294bf31f8f87d6a93161811"
 }

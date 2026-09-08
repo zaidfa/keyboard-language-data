@@ -3,8 +3,8 @@
   "name": "Russian",
   "nativeName": "Русский",
   "locale": "ru",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1206,
-  "sha256": "89058d8624ab86f2a2a1488266d5b000a98e42d7910b2f32be40146465cf4b3a"
+  "sizeBytes": 1349,
+  "sha256": "a1de5811daf28bb01603708a8f42c7d8beb83044e4bcbeb1fcdf3f68b30450d0"
 }

@@ -3,8 +3,8 @@
   "name": "Dogri",
   "nativeName": "डोगरी",
   "locale": "doi",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1363,
-  "sha256": "701f73a218085eb0b13cf473f207b28b33ac4256c29336379854a2e8ad7392b5"
+  "sizeBytes": 1536,
+  "sha256": "190c680a4ae417599c6d6f5fb7c254d87aaf1aa04b1ff6fc63afd79d34628b45"
 }

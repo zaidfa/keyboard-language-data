@@ -1,14 +1,412 @@
 {
   "id": "bn-BD",
   "type": "main",
-  "rows": [
-    { "keys": [{"label": "অ", "code": 2437}, {"label": "আ", "code": 2438}, {"label": "ই", "code": 2439}, {"label": "ঈ", "code": 2440}, {"label": "উ", "code": 2441}, {"label": "ঊ", "code": 2442}, {"label": "ঋ", "code": 2443}, {"label": "ঌ", "code": 2444}, {"label": "এ", "code": 2447}, {"label": "ঐ", "code": 2448}, {"label": "ও", "code": 2451}, {"label": "ঔ", "code": 2452}] },
-    { "keys": [{"label": "ক", "code": 2453}, {"label": "খ", "code": 2454}, {"label": "গ", "code": 2455}, {"label": "ঘ", "code": 2456}, {"label": "ঙ", "code": 2457}, {"label": "চ", "code": 2458}, {"label": "ছ", "code": 2459}, {"label": "জ", "code": 2460}, {"label": "ঝ", "code": 2461}, {"label": "ঞ", "code": 2462}, {"label": "ট", "code": 2463}, {"label": "ঠ", "code": 2464}] },
-    { "keys": [{"label": "ড", "code": 2465}, {"label": "ঢ", "code": 2466}, {"label": "ণ", "code": 2467}, {"label": "ত", "code": 2468}, {"label": "থ", "code": 2469}, {"label": "দ", "code": 2470}, {"label": "ধ", "code": 2471}, {"label": "ন", "code": 2472}, {"label": "঩", "code": 2473}, {"label": "প", "code": 2474}, {"label": "ফ", "code": 2475}, {"label": "ব", "code": 2476}] },
-    { "keys": [{"label": "ভ", "code": 2477}, {"label": "ম", "code": 2478}, {"label": "য", "code": 2479}, {"label": "র", "code": 2480}, {"label": "঱", "code": 2481}, {"label": "ল", "code": 2482}, {"label": "঳", "code": 2483}, {"label": "঴", "code": 2484}, {"label": "঵", "code": 2485}, {"label": "শ", "code": 2486}, {"label": "ষ", "code": 2487}, {"label": "স", "code": 2488}] },
-    { "keys": [{"label": "হ", "code": 2489}, {"label": "া", "code": 2494}, {"label": "ি", "code": 2495}, {"label": "ী", "code": 2496}, {"label": "ু", "code": 2497}, {"label": "ূ", "code": 2498}, {"label": "ৃ", "code": 2499}, {"label": "ৄ", "code": 2500}, {"label": "৅", "code": 2501}, {"label": "৆", "code": 2502}, {"label": "ে", "code": 2503}, {"label": "ৈ", "code": 2504}] },
-    { "keys": [{"label": "৉", "code": 2505}, {"label": "৊", "code": 2506}, {"label": "ো", "code": 2507}, {"label": "ৌ", "code": 2508}, {"label": "ঁ", "code": 2433}, {"label": "ং", "code": 2434}, {"label": "ঃ", "code": 2435}, {"label": "০", "code": 2534}, {"label": "১", "code": 2535}, {"label": "২", "code": 2536}, {"label": "৩", "code": 2537}, {"label": "৪", "code": 2538}] },
-    { "keys": [{"label": "৫", "code": 2539}, {"label": "৬", "code": 2540}, {"label": "৭", "code": 2541}, {"label": "৮", "code": 2542}, {"label": "৯", "code": 2543}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+  "layers": [
+    {
+      "id": "primary",
+      "label": "primary",
+      "rows": [
+        {
+          "keys": [
+            {
+              "label": "অ",
+              "code": 2437
+            },
+            {
+              "label": "আ",
+              "code": 2438
+            },
+            {
+              "label": "ই",
+              "code": 2439
+            },
+            {
+              "label": "ঈ",
+              "code": 2440
+            },
+            {
+              "label": "উ",
+              "code": 2441
+            },
+            {
+              "label": "ঊ",
+              "code": 2442
+            },
+            {
+              "label": "ঋ",
+              "code": 2443
+            },
+            {
+              "label": "ঌ",
+              "code": 2444
+            },
+            {
+              "label": "এ",
+              "code": 2447
+            },
+            {
+              "label": "ঐ",
+              "code": 2448
+            },
+            {
+              "label": "ও",
+              "code": 2451
+            },
+            {
+              "label": "ঔ",
+              "code": 2452
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "ক",
+              "code": 2453
+            },
+            {
+              "label": "খ",
+              "code": 2454
+            },
+            {
+              "label": "গ",
+              "code": 2455
+            },
+            {
+              "label": "ঘ",
+              "code": 2456
+            },
+            {
+              "label": "ঙ",
+              "code": 2457
+            },
+            {
+              "label": "চ",
+              "code": 2458
+            },
+            {
+              "label": "ছ",
+              "code": 2459
+            },
+            {
+              "label": "জ",
+              "code": 2460
+            },
+            {
+              "label": "ঝ",
+              "code": 2461
+            },
+            {
+              "label": "ঞ",
+              "code": 2462
+            },
+            {
+              "label": "ট",
+              "code": 2463
+            },
+            {
+              "label": "ঠ",
+              "code": 2464
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "ড",
+              "code": 2465
+            },
+            {
+              "label": "ঢ",
+              "code": 2466
+            },
+            {
+              "label": "ণ",
+              "code": 2467
+            },
+            {
+              "label": "ত",
+              "code": 2468
+            },
+            {
+              "label": "থ",
+              "code": 2469
+            },
+            {
+              "label": "দ",
+              "code": 2470
+            },
+            {
+              "label": "ধ",
+              "code": 2471
+            },
+            {
+              "label": "ন",
+              "code": 2472
+            },
+            {
+              "label": "঩",
+              "code": 2473
+            },
+            {
+              "label": "প",
+              "code": 2474
+            },
+            {
+              "label": "ফ",
+              "code": 2475
+            },
+            {
+              "label": "ব",
+              "code": 2476
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "ভ",
+              "code": 2477
+            },
+            {
+              "label": "ম",
+              "code": 2478
+            },
+            {
+              "label": "য",
+              "code": 2479
+            },
+            {
+              "label": "র",
+              "code": 2480
+            },
+            {
+              "label": "঱",
+              "code": 2481
+            },
+            {
+              "label": "ল",
+              "code": 2482
+            },
+            {
+              "label": "঳",
+              "code": 2483
+            },
+            {
+              "label": "঴",
+              "code": 2484
+            },
+            {
+              "label": "঵",
+              "code": 2485
+            },
+            {
+              "label": "শ",
+              "code": 2486
+            },
+            {
+              "label": "ষ",
+              "code": 2487
+            },
+            {
+              "label": "স",
+              "code": 2488
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "type": "layer"
+            },
+            {
+              "type": "symbols"
+            },
+            {
+              "type": "language"
+            },
+            {
+              "type": "emoji"
+            },
+            {
+              "type": "space"
+            },
+            {
+              "label": ".",
+              "code": 46
+            },
+            {
+              "type": "delete"
+            },
+            {
+              "type": "enter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "layer2",
+      "label": "secondary",
+      "rows": [
+        {
+          "keys": [
+            {
+              "label": "হ",
+              "code": 2489
+            },
+            {
+              "label": "া",
+              "code": 2494
+            },
+            {
+              "label": "ি",
+              "code": 2495
+            },
+            {
+              "label": "ী",
+              "code": 2496
+            },
+            {
+              "label": "ু",
+              "code": 2497
+            },
+            {
+              "label": "ূ",
+              "code": 2498
+            },
+            {
+              "label": "ৃ",
+              "code": 2499
+            },
+            {
+              "label": "ৄ",
+              "code": 2500
+            },
+            {
+              "label": "৅",
+              "code": 2501
+            },
+            {
+              "label": "৆",
+              "code": 2502
+            },
+            {
+              "label": "ে",
+              "code": 2503
+            },
+            {
+              "label": "ৈ",
+              "code": 2504
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "৉",
+              "code": 2505
+            },
+            {
+              "label": "৊",
+              "code": 2506
+            },
+            {
+              "label": "ো",
+              "code": 2507
+            },
+            {
+              "label": "ৌ",
+              "code": 2508
+            },
+            {
+              "label": "ঁ",
+              "code": 2433
+            },
+            {
+              "label": "ং",
+              "code": 2434
+            },
+            {
+              "label": "ঃ",
+              "code": 2435
+            },
+            {
+              "label": "০",
+              "code": 2534
+            },
+            {
+              "label": "১",
+              "code": 2535
+            },
+            {
+              "label": "২",
+              "code": 2536
+            },
+            {
+              "label": "৩",
+              "code": 2537
+            },
+            {
+              "label": "৪",
+              "code": 2538
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "৫",
+              "code": 2539
+            },
+            {
+              "label": "৬",
+              "code": 2540
+            },
+            {
+              "label": "৭",
+              "code": 2541
+            },
+            {
+              "label": "৮",
+              "code": 2542
+            },
+            {
+              "label": "৯",
+              "code": 2543
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "type": "layer"
+            },
+            {
+              "type": "symbols"
+            },
+            {
+              "type": "language"
+            },
+            {
+              "type": "emoji"
+            },
+            {
+              "type": "space"
+            },
+            {
+              "label": ".",
+              "code": 46
+            },
+            {
+              "type": "delete"
+            },
+            {
+              "type": "enter"
+            }
+          ]
+        }
+      ]
+    }
   ]
 }

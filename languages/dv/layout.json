@@ -1,12 +1,292 @@
 {
   "id": "dv",
   "type": "main",
-  "rows": [
-    { "keys": [{"label": "ހ", "code": 1920}, {"label": "ށ", "code": 1921}, {"label": "ނ", "code": 1922}, {"label": "ރ", "code": 1923}, {"label": "ބ", "code": 1924}, {"label": "ޅ", "code": 1925}, {"label": "ކ", "code": 1926}, {"label": "އ", "code": 1927}, {"label": "ވ", "code": 1928}, {"label": "މ", "code": 1929}, {"label": "ފ", "code": 1930}, {"label": "ދ", "code": 1931}] },
-    { "keys": [{"label": "ތ", "code": 1932}, {"label": "ލ", "code": 1933}, {"label": "ގ", "code": 1934}, {"label": "ޏ", "code": 1935}, {"label": "ސ", "code": 1936}, {"label": "ޑ", "code": 1937}, {"label": "ޒ", "code": 1938}, {"label": "ޓ", "code": 1939}, {"label": "ޔ", "code": 1940}, {"label": "ޕ", "code": 1941}, {"label": "ޖ", "code": 1942}, {"label": "ޗ", "code": 1943}] },
-    { "keys": [{"label": "ޘ", "code": 1944}, {"label": "ޙ", "code": 1945}, {"label": "ޚ", "code": 1946}, {"label": "ޛ", "code": 1947}, {"label": "ޜ", "code": 1948}, {"label": "ޝ", "code": 1949}, {"label": "ޞ", "code": 1950}, {"label": "ޟ", "code": 1951}, {"label": "ޠ", "code": 1952}, {"label": "ޡ", "code": 1953}, {"label": "ޢ", "code": 1954}, {"label": "ޣ", "code": 1955}] },
-    { "keys": [{"label": "ޤ", "code": 1956}, {"label": "ޥ", "code": 1957}, {"label": "ަ", "code": 1958}, {"label": "ާ", "code": 1959}, {"label": "ި", "code": 1960}, {"label": "ީ", "code": 1961}, {"label": "ު", "code": 1962}, {"label": "ޫ", "code": 1963}, {"label": "ެ", "code": 1964}, {"label": "ޭ", "code": 1965}, {"label": "ޮ", "code": 1966}, {"label": "ޯ", "code": 1967}] },
-    { "keys": [{"label": "ް", "code": 1968}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+  "layers": [
+    {
+      "id": "primary",
+      "label": "primary",
+      "rows": [
+        {
+          "keys": [
+            {
+              "label": "ހ",
+              "code": 1920
+            },
+            {
+              "label": "ށ",
+              "code": 1921
+            },
+            {
+              "label": "ނ",
+              "code": 1922
+            },
+            {
+              "label": "ރ",
+              "code": 1923
+            },
+            {
+              "label": "ބ",
+              "code": 1924
+            },
+            {
+              "label": "ޅ",
+              "code": 1925
+            },
+            {
+              "label": "ކ",
+              "code": 1926
+            },
+            {
+              "label": "އ",
+              "code": 1927
+            },
+            {
+              "label": "ވ",
+              "code": 1928
+            },
+            {
+              "label": "މ",
+              "code": 1929
+            },
+            {
+              "label": "ފ",
+              "code": 1930
+            },
+            {
+              "label": "ދ",
+              "code": 1931
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "ތ",
+              "code": 1932
+            },
+            {
+              "label": "ލ",
+              "code": 1933
+            },
+            {
+              "label": "ގ",
+              "code": 1934
+            },
+            {
+              "label": "ޏ",
+              "code": 1935
+            },
+            {
+              "label": "ސ",
+              "code": 1936
+            },
+            {
+              "label": "ޑ",
+              "code": 1937
+            },
+            {
+              "label": "ޒ",
+              "code": 1938
+            },
+            {
+              "label": "ޓ",
+              "code": 1939
+            },
+            {
+              "label": "ޔ",
+              "code": 1940
+            },
+            {
+              "label": "ޕ",
+              "code": 1941
+            },
+            {
+              "label": "ޖ",
+              "code": 1942
+            },
+            {
+              "label": "ޗ",
+              "code": 1943
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "ޘ",
+              "code": 1944
+            },
+            {
+              "label": "ޙ",
+              "code": 1945
+            },
+            {
+              "label": "ޚ",
+              "code": 1946
+            },
+            {
+              "label": "ޛ",
+              "code": 1947
+            },
+            {
+              "label": "ޜ",
+              "code": 1948
+            },
+            {
+              "label": "ޝ",
+              "code": 1949
+            },
+            {
+              "label": "ޞ",
+              "code": 1950
+            },
+            {
+              "label": "ޟ",
+              "code": 1951
+            },
+            {
+              "label": "ޠ",
+              "code": 1952
+            },
+            {
+              "label": "ޡ",
+              "code": 1953
+            },
+            {
+              "label": "ޢ",
+              "code": 1954
+            },
+            {
+              "label": "ޣ",
+              "code": 1955
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "type": "layer"
+            },
+            {
+              "type": "symbols"
+            },
+            {
+              "type": "language"
+            },
+            {
+              "type": "emoji"
+            },
+            {
+              "type": "space"
+            },
+            {
+              "label": ".",
+              "code": 46
+            },
+            {
+              "type": "delete"
+            },
+            {
+              "type": "enter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "layer2",
+      "label": "secondary",
+      "rows": [
+        {
+          "keys": [
+            {
+              "label": "ޤ",
+              "code": 1956
+            },
+            {
+              "label": "ޥ",
+              "code": 1957
+            },
+            {
+              "label": "ަ",
+              "code": 1958
+            },
+            {
+              "label": "ާ",
+              "code": 1959
+            },
+            {
+              "label": "ި",
+              "code": 1960
+            },
+            {
+              "label": "ީ",
+              "code": 1961
+            },
+            {
+              "label": "ު",
+              "code": 1962
+            },
+            {
+              "label": "ޫ",
+              "code": 1963
+            },
+            {
+              "label": "ެ",
+              "code": 1964
+            },
+            {
+              "label": "ޭ",
+              "code": 1965
+            },
+            {
+              "label": "ޮ",
+              "code": 1966
+            },
+            {
+              "label": "ޯ",
+              "code": 1967
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "ް",
+              "code": 1968
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "type": "layer"
+            },
+            {
+              "type": "symbols"
+            },
+            {
+              "type": "language"
+            },
+            {
+              "type": "emoji"
+            },
+            {
+              "type": "space"
+            },
+            {
+              "label": ".",
+              "code": 46
+            },
+            {
+              "type": "delete"
+            },
+            {
+              "type": "enter"
+            }
+          ]
+        }
+      ]
+    }
   ]
 }

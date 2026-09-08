@@ -3,8 +3,8 @@
   "name": "Kyrgyz",
   "nativeName": "Кыргызча",
   "locale": "ky",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1207,
-  "sha256": "6ee8dfa4a96395b4897bc891b7a86bb7c32daf64366f83048d9efd0bcaebe321"
+  "sizeBytes": 1350,
+  "sha256": "7ff4bf4c96687cd3a8223875be0283acf2a852ba0a71f96435baa76965b8339b"
 }

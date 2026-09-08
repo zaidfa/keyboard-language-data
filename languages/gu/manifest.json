@@ -3,8 +3,8 @@
   "name": "Gujarati",
   "nativeName": "ગુજરાતી",
   "locale": "gu",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1304,
-  "sha256": "f926b825f4ef3d10485abe70715866dfd9ecd4e58b1389c6e9320769535fefab"
+  "sizeBytes": 1470,
+  "sha256": "b844b27e50f2e06c3f1145888fd43f05a14143d585669b56785a947d2de88ab1"
 }

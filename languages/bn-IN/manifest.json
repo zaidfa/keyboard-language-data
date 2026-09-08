@@ -3,8 +3,8 @@
   "name": "Bengali (India)",
   "nativeName": "বাংলা (ভারত)",
   "locale": "bn-IN",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1318,
-  "sha256": "1cc0a4882fea4a0435c97c18586d0573bcd8e17a9235bd69d75b463cf6b39402"
+  "sizeBytes": 1497,
+  "sha256": "b69e7aff32d65051f3113da27cdd6dc173b6f5d0a4fed8004d8ec3909c5b55e4"
 }

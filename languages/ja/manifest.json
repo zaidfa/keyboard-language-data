@@ -3,8 +3,8 @@
   "name": "Japanese",
   "nativeName": "日本語",
   "locale": "ja",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1307,
-  "sha256": "2cc937505b7a1e1a8b4293a0534b2c499e86831f6594c26dcfaaa31b8eedbc5a"
+  "sizeBytes": 1492,
+  "sha256": "4b7fb0b0c68092bd97ad954d0c2e286aec8624815678ddb7dc735b13a94d05f7"
 }

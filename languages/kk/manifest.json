@@ -3,8 +3,8 @@
   "name": "Kazakh",
   "nativeName": "Қазақша",
   "locale": "kk",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1206,
-  "sha256": "1de1df2f39f0ce21f0669571fc435c0ab9c74aa03b3259195171d4dc50f93bd9"
+  "sizeBytes": 1349,
+  "sha256": "775de1367ca0df7ccb6eff2b1985d166205507e8580520deb73c8edbe8370192"
 }

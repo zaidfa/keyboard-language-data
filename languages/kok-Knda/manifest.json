@@ -3,8 +3,8 @@
   "name": "Konkani Kannada",
   "nativeName": "ಕೊಂಕಣಿ",
   "locale": "kok-Knda",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1313,
-  "sha256": "5766ae91966d4c3b4a22247d34b409ef5a5cc5e04f81b2bd97f05597dc1de10e"
+  "sizeBytes": 1476,
+  "sha256": "fe5971f9a30a5a5e2d28d747534ad300d12175b329f2acfa03930e916aa07ddd"
 }

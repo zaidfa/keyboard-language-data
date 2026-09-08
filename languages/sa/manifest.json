@@ -3,8 +3,8 @@
   "name": "Sanskrit",
   "nativeName": "संस्कृतम्",
   "locale": "sa",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1376,
-  "sha256": "73027ae1de0515a520dadfde0f83495f72c269d53c3c44c77fa46290be8d75bb"
+  "sizeBytes": 1549,
+  "sha256": "ec72cfc624cbc67044790fdd3df200f0d1577520ca16340be52f6073d7fcb6c0"
 }

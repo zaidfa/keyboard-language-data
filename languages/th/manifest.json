@@ -3,8 +3,8 @@
   "name": "Thai",
   "nativeName": "ไทย",
   "locale": "th",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1290,
-  "sha256": "8496f527e8c4c22e61c5a7f8b97dc4f5c9a2b4a4771a2e91029a4dda68867294"
+  "sizeBytes": 1457,
+  "sha256": "84042d76e21b208ac98c82afabdf97343a106badb4c0a596ef51cfcf4e68fa54"
 }

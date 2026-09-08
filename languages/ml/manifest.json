@@ -3,8 +3,8 @@
   "name": "Malayalam",
   "nativeName": "മലയാളം",
   "locale": "ml",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1279,
-  "sha256": "5f5e5d2f0994833cf81c148a7dbb8be22110f03b716654c6fa8973a49d8d4f31"
+  "sizeBytes": 1455,
+  "sha256": "ebf49cfee29b49a82b98a6c15db4a7899c7de7e4342e11366607630f82f325d8"
 }

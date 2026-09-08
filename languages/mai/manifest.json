@@ -3,8 +3,8 @@
   "name": "Maithili",
   "nativeName": "मैथिली",
   "locale": "mai",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1371,
-  "sha256": "653c4c24ebd00207bf8b53ebabb5056bf8540135cb0dedf3037b4aad9fef2684"
+  "sizeBytes": 1542,
+  "sha256": "baee0eee0d86b17d67289e82771ee437cc88351bb699883637bda57865467a29"
 }

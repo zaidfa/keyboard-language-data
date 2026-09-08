@@ -3,8 +3,8 @@
   "name": "Hindi",
   "nativeName": "हिन्दी",
   "locale": "hi",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1366,
-  "sha256": "4b98b8d3ccdcf877c293062b2e6e32363ee7e7d9d351b82fef89d411dca6091c"
+  "sizeBytes": 1539,
+  "sha256": "9672f7f154f1006366ff957a480a863bc7e65fef9eac8e1043168dc6f4e84cc9"
 }

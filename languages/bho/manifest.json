@@ -3,8 +3,8 @@
   "name": "Bhojpuri",
   "nativeName": "भोजपुरी",
   "locale": "bho",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1377,
-  "sha256": "6aba9e958c7ede9d0281e84f779bbef52663ab8fa99d2c16ed14ae858d4b9e30"
+  "sizeBytes": 1550,
+  "sha256": "f12897f4b9de39eb7b826cd74916c0dc31b3284bfbf8108691c32293c227f060"
 }

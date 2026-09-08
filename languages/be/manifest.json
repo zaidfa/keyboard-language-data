@@ -3,8 +3,8 @@
   "name": "Belarusian",
   "nativeName": "Беларуская",
   "locale": "be",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1213,
-  "sha256": "292d1ea40bbf803c492095ac00d12ccf575a474b7e182ee031438976af2dc4cb"
+  "sizeBytes": 1356,
+  "sha256": "0815710d0e90eef71fa71ef08b6f6258b905fe955c7cb3af568528a47f71a5e7"
 }

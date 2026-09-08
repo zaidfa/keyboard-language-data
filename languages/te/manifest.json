@@ -3,8 +3,8 @@
   "name": "Telugu",
   "nativeName": "తెలుగు",
   "locale": "te",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1285,
-  "sha256": "a6b575a3cc054bbd0f7d054e6ba3cb1e08bd153fcc1f0aca2331556d62aecf15"
+  "sizeBytes": 1453,
+  "sha256": "1167fbaf08b00dc4ff2ebd4891717be67c4e8cf926cd03acba5513f2450c4f30"
 }

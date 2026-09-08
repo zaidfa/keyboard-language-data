@@ -3,8 +3,8 @@
   "name": "Komi",
   "nativeName": "Коми",
   "locale": "kv",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1197,
-  "sha256": "a383f6b8c2fae77a48e8f38c3c9167e06303c1d0b5a14cfc7fab19a64ee2ce18"
+  "sizeBytes": 1340,
+  "sha256": "a439a835e6177f3f8570e6d770898c708ce150aef6a7bdc0ab3fd72b4ba1d3a8"
 }

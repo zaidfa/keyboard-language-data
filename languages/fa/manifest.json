@@ -3,8 +3,8 @@
   "name": "Persian",
   "nativeName": "فارسی",
   "locale": "fa",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1232,
-  "sha256": "2c52b91458af66af98b3f87bb997a6afb815840d5e949c74efce36c6ff2abe08"
+  "sizeBytes": 1389,
+  "sha256": "7d1ffef06b6dfb2522856f934354004deb9f8894e81879241fc71dd9f58bc9d7"
 }

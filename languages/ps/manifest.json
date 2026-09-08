@@ -3,8 +3,8 @@
   "name": "Pashto",
   "nativeName": "پښتو",
   "locale": "ps",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1231,
-  "sha256": "d7e4ecb2167902ea1c919b669658a9eb8ee4e0287b4f4496912f78a957c88d08"
+  "sizeBytes": 1391,
+  "sha256": "8f74229d51c27667e312daaabb267ca33b65f64813676dba04a800b782824793"
 }

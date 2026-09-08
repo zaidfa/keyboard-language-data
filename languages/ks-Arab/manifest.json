@@ -3,8 +3,8 @@
   "name": "Kashmiri (Arabic)",
   "nativeName": "کٲشُر",
   "locale": "ks-Arab",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1254,
-  "sha256": "591de3ea19d23bb151248d29a2e56da6b68e72ab377a8cab8ac889f3e0d17ae2"
+  "sizeBytes": 1417,
+  "sha256": "eccb7863cd0e153abcb80125dd0d1d281008368af5cef752d45eab36625a8a30"
 }

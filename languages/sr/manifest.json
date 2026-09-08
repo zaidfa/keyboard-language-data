@@ -3,8 +3,8 @@
   "name": "Serbian",
   "nativeName": "Српски",
   "locale": "sr",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1202,
-  "sha256": "808f88d37428eb792514aefb17527c5cb21b7ff527ae77ad06b3426fada8ae41"
+  "sizeBytes": 1345,
+  "sha256": "c22568a2cea597108074edb229629ed35806a80e9edd75ca6c18187beacb4d8d"
 }

@@ -3,8 +3,8 @@
   "name": "Sinhala",
   "nativeName": "සිංහල",
   "locale": "si",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1276,
-  "sha256": "a556ee5b55a7515dca78720bd76a94eeb9e952a5a8fc981d757a086254b35133"
+  "sizeBytes": 1445,
+  "sha256": "e90def6f4341f77d1364492b3f40721ec8a83cd2fe96727c0d92a5aaf3e3ebe8"
 }

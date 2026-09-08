@@ -3,8 +3,8 @@
   "name": "Divehi",
   "nativeName": "ދިވެހި",
   "locale": "dv",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1136,
-  "sha256": "a0d68ea4afe93a62d744ef8c7342b7dd8f21f7520759e846ea657ad2f3bf87d1"
+  "sizeBytes": 1269,
+  "sha256": "0e9e65fee799b57e0e73d4e6f6b0219cd7c26f58d6d84ef1e01bdc0870d00208"
 }

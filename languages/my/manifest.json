@@ -3,8 +3,8 @@
   "name": "Burmese (Unicode)",
   "nativeName": "မြန်မာ",
   "locale": "my",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1235,
-  "sha256": "2af17704460c296506a1c50e1d64727562b6e24857d694ab0af0d561565201fc"
+  "sizeBytes": 1376,
+  "sha256": "2f9416139416300fb1d66390200d69c7e400846f7d5a54c3bfb38f25c2e01b85"
 }

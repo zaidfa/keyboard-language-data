@@ -3,8 +3,8 @@
   "name": "Tatar",
   "nativeName": "Татарча",
   "locale": "tt",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1202,
-  "sha256": "592b74bc723e56d846ee4e8e33da70d977b73c395ad4856293f60c891e527454"
+  "sizeBytes": 1346,
+  "sha256": "9d36014371c8e1153ba90ebcf74e1efeedaeb1a6a284f0d6c67ccd1b5541d5c3"
 }

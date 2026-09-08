@@ -3,8 +3,8 @@
   "name": "Marathi",
   "nativeName": "मराठी",
   "locale": "mr",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1366,
-  "sha256": "8fa3b2e3e52f061c7fb7eca225d98dcab7b146618aa8579f9aa785e6684315bd"
+  "sizeBytes": 1538,
+  "sha256": "d9decd7bd94bd9d58963aabafd65ac0fa6f77cfe1b675532bf8a9d74907a36f1"
 }

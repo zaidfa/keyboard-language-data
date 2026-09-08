@@ -1,0 +1,193 @@
+LANGUAGE LAYOUT REPORT  (policy: max 5 visible rows)
+
+id              script              rows(old->new)  layers      status
+------------------------------------------------------------------------------------------
+af              Latin               4->4            1 (case)    PASS
+ak              Latin               4->4            1 (case)    PASS
+aln             Latin               4->4            1 (case)    PASS
+als             Latin               4->4            1 (case)    PASS
+am              Ethiopic            5->5            1           PASS
+an              Latin               4->4            1 (case)    PASS
+ar              Arabic              layered->4      2           PASS
+as              Bengali             layered->5      2           PASS
+ay              Latin               4->4            1 (case)    PASS
+az              Latin               4->4            1 (case)    PASS
+ba              Cyrillic            layered->4      2 (case)    PASS
+be              Cyrillic            layered->4      2 (case)    PASS
+bg              Cyrillic            layered->4      2 (case)    PASS
+bho             Devanagari          layered->5      2           PASS
+bm              Latin               4->4            1 (case)    PASS
+bn-BD           Bengali             layered->5      2           PASS
+bn-IN           Bengali             layered->5      2           PASS
+bn-Latn         Latin               4->4            1 (case)    PASS
+bo              Tibetan             layered->5      2           PASS
+br              Latin               4->4            1 (case)    PASS
+brx             Devanagari          layered->5      2           PASS
+brx-Deva        Devanagari          layered->5      2           PASS
+brx-Latn        Latin               4->4            1 (case)    PASS
+bs              Latin               4->4            1 (case)    PASS
+ca              Latin               4->4            1 (case)    PASS
+ce              Cyrillic            layered->4      2 (case)    PASS
+cs              Latin               4->4            1 (case)    PASS
+cv              Cyrillic            layered->4      2 (case)    PASS
+da              Latin               4->4            1 (case)    PASS
+de              Latin               4->4            1 (case)    PASS
+doi             Devanagari          layered->5      2           PASS
+doi-Arab        Arabic              layered->4      2           PASS
+doi-Latn        Latin               4->4            1 (case)    PASS
+dv              Thaana              layered->4      2           PASS
+ee              Latin               4->4            1 (case)    PASS
+el              Greek               4->4            1 (case)    PASS
+en-GB           Latin               4->4            1 (case)    PASS
+en-US           Latin               4->4            1 (case)    PASS
+eo              Latin               4->4            1 (case)    PASS
+es              Latin               4->4            1 (case)    PASS
+es-MX           Latin               4->4            1 (case)    PASS
+es-SA           Latin               4->4            1 (case)    PASS
+es-US           Latin               4->4            1 (case)    PASS
+et              Latin               4->4            1 (case)    PASS
+eu              Latin               4->4            1 (case)    PASS
+fa              Arabic              layered->4      2           PASS
+fi              Latin               4->4            1 (case)    PASS
+fj              Latin               4->4            1 (case)    PASS
+fo              Latin               4->4            1 (case)    PASS
+fr              Latin               4->4            1 (case)    PASS
+fr-CA           Latin               4->4            1 (case)    PASS
+ga              Latin               4->4            1 (case)    PASS
+gd              Latin               4->4            1 (case)    PASS
+gl              Latin               4->4            1 (case)    PASS
+gn              Latin               4->4            1 (case)    PASS
+gu              Gujarati            layered->5      2           PASS
+gu-Latn         Latin               4->4            1 (case)    PASS
+ha              Latin               4->4            1 (case)    PASS
+he              Hebrew              4->4            1           PASS
+hi              Devanagari          layered->5      2           PASS
+hi-Latn         Latin               4->4            1 (case)    PASS
+hi-translit     Latin               4->4            1 (case)    PASS
+ho              Latin               4->4            1 (case)    PASS
+hr              Latin               4->4            1 (case)    PASS
+ht              Latin               4->4            1 (case)    PASS
+hu              Latin               4->4            1 (case)    PASS
+hy              Armenian            5->5            1 (case)    PASS
+ia              Latin               4->4            1 (case)    PASS
+id              Latin               4->4            1 (case)    PASS
+ig              Latin               4->4            1 (case)    PASS
+is              Latin               4->4            1 (case)    PASS
+it              Latin               4->4            1 (case)    PASS
+iu              Canadian Aboriginal 4->4            1           PASS
+ja              Japanese            layered->5      2           PASS
+jv              Latin               4->4            1 (case)    PASS
+ka              Georgian            4->4            1           PASS
+kg              Latin               4->4            1 (case)    PASS
+ki              Latin               4->4            1 (case)    PASS
+kj              Latin               4->4            1 (case)    PASS
+kk              Cyrillic            layered->4      2 (case)    PASS
+kl              Latin               4->4            1 (case)    PASS
+km              Khmer               layered->5      2           PASS
+kn              Kannada             layered->5      2           PASS
+kn-Latn         Latin               4->4            1 (case)    PASS
+ko              Hangul              5->5            1           PASS
+kok-Deva        Devanagari          layered->5      2           PASS
+kok-Knda        Kannada             layered->5      2           PASS
+ks-Arab         Arabic              layered->4      2           PASS
+ks-Latn         Latin               4->4            1 (case)    PASS
+ku              Latin               4->4            1 (case)    PASS
+kv              Cyrillic            layered->4      2 (case)    PASS
+ky              Cyrillic            layered->4      2 (case)    PASS
+lb              Latin               4->4            1 (case)    PASS
+lg              Latin               4->4            1 (case)    PASS
+li              Latin               4->4            1 (case)    PASS
+ln              Latin               4->4            1 (case)    PASS
+lo              Lao                 layered->5      2           PASS
+lt              Latin               4->4            1 (case)    PASS
+lu              Latin               4->4            1 (case)    PASS
+lv              Latin               4->4            1 (case)    PASS
+mai             Devanagari          layered->5      2           PASS
+mg              Latin               4->4            1 (case)    PASS
+mk              Cyrillic            layered->4      2 (case)    PASS
+ml              Malayalam           layered->5      2           PASS
+ml-Latn         Latin               4->4            1 (case)    PASS
+mn-MN           Cyrillic            layered->4      2 (case)    PASS
+mni             Meetei Mayek        5->5            1           PASS
+mni-Latn        Latin               4->4            1 (case)    PASS
+mr              Devanagari          layered->5      2           PASS
+mr-Latn         Latin               4->4            1 (case)    PASS
+ms-Arab         Arabic              layered->4      2           PASS
+ms-MY           Latin               4->4            1 (case)    PASS
+mt              Latin               4->4            1 (case)    PASS
+my              Myanmar             layered->4      2           PASS
+my-Qaag         Myanmar             layered->4      2           PASS
+nb              Latin               4->4            1 (case)    PASS
+nd              Latin               4->4            1 (case)    PASS
+ne-IN           Devanagari          layered->5      2           PASS
+nl              Latin               4->4            1 (case)    PASS
+nr              Latin               4->4            1 (case)    PASS
+nv              Latin               4->4            1 (case)    PASS
+ny              Latin               4->4            1 (case)    PASS
+om              Latin               4->4            1 (case)    PASS
+or              Odia                layered->5      2           PASS
+os              Cyrillic            layered->4      2 (case)    PASS
+pa              Gurmukhi            layered->4      2           PASS
+pa-Latn         Latin               4->4            1 (case)    PASS
+pl              Latin               4->4            1 (case)    PASS
+ps              Arabic              layered->4      2           PASS
+pt-BR           Latin               4->4            1 (case)    PASS
+pt-PT           Latin               4->4            1 (case)    PASS
+qu              Latin               4->4            1 (case)    PASS
+rn              Latin               4->4            1 (case)    PASS
+ro              Latin               4->4            1 (case)    PASS
+ru              Cyrillic            layered->4      2 (case)    PASS
+rw              Latin               4->4            1 (case)    PASS
+sa              Devanagari          layered->5      2           PASS
+sat             Ol Chiki            5->5            1           PASS
+sc              Latin               4->4            1 (case)    PASS
+sd              Arabic              layered->4      2           PASS
+sd-Latn         Latin               4->4            1 (case)    PASS
+se              Latin               4->4            1 (case)    PASS
+sg              Latin               4->4            1 (case)    PASS
+si              Sinhala             layered->5      2           PASS
+sk              Latin               4->4            1 (case)    PASS
+sl              Latin               4->4            1 (case)    PASS
+sn              Latin               4->4            1 (case)    PASS
+sq              Latin               4->4            1 (case)    PASS
+sr              Cyrillic            layered->4      2 (case)    PASS
+ss              Latin               4->4            1 (case)    PASS
+st              Latin               4->4            1 (case)    PASS
+su              Latin               4->4            1 (case)    PASS
+sv              Latin               4->4            1 (case)    PASS
+sw              Latin               4->4            1 (case)    PASS
+ta              Tamil               layered->5      2           PASS
+ta-Latn         Latin               4->4            1 (case)    PASS
+te              Telugu              layered->5      2           PASS
+te-Latn         Latin               4->4            1 (case)    PASS
+tg              Cyrillic            layered->4      2 (case)    PASS
+th              Thai                layered->5      2           PASS
+ti-ET           Ethiopic            5->5            1           PASS
+tk              Latin               4->4            1 (case)    PASS
+tl              Latin               4->4            1 (case)    PASS
+tn              Latin               4->4            1 (case)    PASS
+to              Latin               4->4            1 (case)    PASS
+tr              Latin               4->4            1 (case)    PASS
+ts              Latin               4->4            1 (case)    PASS
+tt              Cyrillic            layered->4      2 (case)    PASS
+tw              Latin               4->4            1 (case)    PASS
+ty              Latin               4->4            1 (case)    PASS
+ug-Arab         Arabic              layered->4      2           PASS
+ug-Cyrl         Cyrillic            layered->4      2 (case)    PASS
+ug-Latn         Latin               4->4            1 (case)    PASS
+uk              Cyrillic            layered->4      2 (case)    PASS
+ur-IN           Arabic              layered->4      2           PASS
+uz              Latin               4->4            1 (case)    PASS
+ve              Latin               4->4            1 (case)    PASS
+vi              Latin               5->5            1 (case)    PASS 1 dup codes
+wa              Latin               4->4            1 (case)    PASS
+war             Latin               4->4            1 (case)    PASS
+wo              Latin               4->4            1 (case)    PASS
+xh              Latin               4->4            1 (case)    PASS
+yi              Hebrew              4->4            1           PASS
+yo              Latin               4->4            1 (case)    PASS
+zh-Latn-pinyin  Latin               4->4            1 (case)    PASS
+zu              Latin               4->4            1 (case)    PASS
+------------------------------------------------------------------------------------------
+Total: 186   PASS: 186   FAIL: 0   (dup-code warnings: 1)
+Tallest keyboard after split: 5 rows (was up to 9).

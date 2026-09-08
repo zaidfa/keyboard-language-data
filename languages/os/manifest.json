@@ -3,8 +3,8 @@
   "name": "Ossetian",
   "nativeName": "Ирон",
   "locale": "os",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1199,
-  "sha256": "d82ad19e6849ec043ed91c73f9cf8dff8362cd6cb1df3a83d5dd07a3e83f3018"
+  "sizeBytes": 1343,
+  "sha256": "57f32011c432690faecb6f610f56532eeed3a5d54729d8662800fc21376d098f"
 }

@@ -1,15 +1,452 @@
 {
   "id": "ja",
   "type": "main",
-  "rows": [
-    { "keys": [{"label": "ぁ", "code": 12353}, {"label": "あ", "code": 12354}, {"label": "ぃ", "code": 12355}, {"label": "い", "code": 12356}, {"label": "ぅ", "code": 12357}, {"label": "う", "code": 12358}, {"label": "ぇ", "code": 12359}, {"label": "え", "code": 12360}, {"label": "ぉ", "code": 12361}, {"label": "お", "code": 12362}, {"label": "か", "code": 12363}, {"label": "が", "code": 12364}] },
-    { "keys": [{"label": "き", "code": 12365}, {"label": "ぎ", "code": 12366}, {"label": "く", "code": 12367}, {"label": "ぐ", "code": 12368}, {"label": "け", "code": 12369}, {"label": "げ", "code": 12370}, {"label": "こ", "code": 12371}, {"label": "ご", "code": 12372}, {"label": "さ", "code": 12373}, {"label": "ざ", "code": 12374}, {"label": "し", "code": 12375}, {"label": "じ", "code": 12376}] },
-    { "keys": [{"label": "す", "code": 12377}, {"label": "ず", "code": 12378}, {"label": "せ", "code": 12379}, {"label": "ぜ", "code": 12380}, {"label": "そ", "code": 12381}, {"label": "ぞ", "code": 12382}, {"label": "た", "code": 12383}, {"label": "だ", "code": 12384}, {"label": "ち", "code": 12385}, {"label": "ぢ", "code": 12386}, {"label": "っ", "code": 12387}, {"label": "つ", "code": 12388}] },
-    { "keys": [{"label": "づ", "code": 12389}, {"label": "て", "code": 12390}, {"label": "で", "code": 12391}, {"label": "と", "code": 12392}, {"label": "ど", "code": 12393}, {"label": "な", "code": 12394}, {"label": "に", "code": 12395}, {"label": "ぬ", "code": 12396}, {"label": "ね", "code": 12397}, {"label": "の", "code": 12398}, {"label": "は", "code": 12399}, {"label": "ば", "code": 12400}] },
-    { "keys": [{"label": "ぱ", "code": 12401}, {"label": "ひ", "code": 12402}, {"label": "び", "code": 12403}, {"label": "ぴ", "code": 12404}, {"label": "ふ", "code": 12405}, {"label": "ぶ", "code": 12406}, {"label": "ぷ", "code": 12407}, {"label": "へ", "code": 12408}, {"label": "べ", "code": 12409}, {"label": "ぺ", "code": 12410}, {"label": "ほ", "code": 12411}, {"label": "ぼ", "code": 12412}] },
-    { "keys": [{"label": "ぽ", "code": 12413}, {"label": "ま", "code": 12414}, {"label": "み", "code": 12415}, {"label": "む", "code": 12416}, {"label": "め", "code": 12417}, {"label": "も", "code": 12418}, {"label": "ゃ", "code": 12419}, {"label": "や", "code": 12420}, {"label": "ゅ", "code": 12421}, {"label": "ゆ", "code": 12422}, {"label": "ょ", "code": 12423}, {"label": "よ", "code": 12424}] },
-    { "keys": [{"label": "ら", "code": 12425}, {"label": "り", "code": 12426}, {"label": "る", "code": 12427}, {"label": "れ", "code": 12428}, {"label": "ろ", "code": 12429}, {"label": "ゎ", "code": 12430}, {"label": "わ", "code": 12431}, {"label": "ゐ", "code": 12432}, {"label": "ゑ", "code": 12433}, {"label": "を", "code": 12434}, {"label": "ん", "code": 12435}, {"label": "ゔ", "code": 12436}] },
-    { "keys": [{"label": "ゕ", "code": 12437}, {"label": "ゖ", "code": 12438}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+  "layers": [
+    {
+      "id": "primary",
+      "label": "primary",
+      "rows": [
+        {
+          "keys": [
+            {
+              "label": "ぁ",
+              "code": 12353
+            },
+            {
+              "label": "あ",
+              "code": 12354
+            },
+            {
+              "label": "ぃ",
+              "code": 12355
+            },
+            {
+              "label": "い",
+              "code": 12356
+            },
+            {
+              "label": "ぅ",
+              "code": 12357
+            },
+            {
+              "label": "う",
+              "code": 12358
+            },
+            {
+              "label": "ぇ",
+              "code": 12359
+            },
+            {
+              "label": "え",
+              "code": 12360
+            },
+            {
+              "label": "ぉ",
+              "code": 12361
+            },
+            {
+              "label": "お",
+              "code": 12362
+            },
+            {
+              "label": "か",
+              "code": 12363
+            },
+            {
+              "label": "が",
+              "code": 12364
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "き",
+              "code": 12365
+            },
+            {
+              "label": "ぎ",
+              "code": 12366
+            },
+            {
+              "label": "く",
+              "code": 12367
+            },
+            {
+              "label": "ぐ",
+              "code": 12368
+            },
+            {
+              "label": "け",
+              "code": 12369
+            },
+            {
+              "label": "げ",
+              "code": 12370
+            },
+            {
+              "label": "こ",
+              "code": 12371
+            },
+            {
+              "label": "ご",
+              "code": 12372
+            },
+            {
+              "label": "さ",
+              "code": 12373
+            },
+            {
+              "label": "ざ",
+              "code": 12374
+            },
+            {
+              "label": "し",
+              "code": 12375
+            },
+            {
+              "label": "じ",
+              "code": 12376
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "す",
+              "code": 12377
+            },
+            {
+              "label": "ず",
+              "code": 12378
+            },
+            {
+              "label": "せ",
+              "code": 12379
+            },
+            {
+              "label": "ぜ",
+              "code": 12380
+            },
+            {
+              "label": "そ",
+              "code": 12381
+            },
+            {
+              "label": "ぞ",
+              "code": 12382
+            },
+            {
+              "label": "た",
+              "code": 12383
+            },
+            {
+              "label": "だ",
+              "code": 12384
+            },
+            {
+              "label": "ち",
+              "code": 12385
+            },
+            {
+              "label": "ぢ",
+              "code": 12386
+            },
+            {
+              "label": "っ",
+              "code": 12387
+            },
+            {
+              "label": "つ",
+              "code": 12388
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "づ",
+              "code": 12389
+            },
+            {
+              "label": "て",
+              "code": 12390
+            },
+            {
+              "label": "で",
+              "code": 12391
+            },
+            {
+              "label": "と",
+              "code": 12392
+            },
+            {
+              "label": "ど",
+              "code": 12393
+            },
+            {
+              "label": "な",
+              "code": 12394
+            },
+            {
+              "label": "に",
+              "code": 12395
+            },
+            {
+              "label": "ぬ",
+              "code": 12396
+            },
+            {
+              "label": "ね",
+              "code": 12397
+            },
+            {
+              "label": "の",
+              "code": 12398
+            },
+            {
+              "label": "は",
+              "code": 12399
+            },
+            {
+              "label": "ば",
+              "code": 12400
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "type": "layer"
+            },
+            {
+              "type": "symbols"
+            },
+            {
+              "type": "language"
+            },
+            {
+              "type": "emoji"
+            },
+            {
+              "type": "space"
+            },
+            {
+              "label": ".",
+              "code": 46
+            },
+            {
+              "type": "delete"
+            },
+            {
+              "type": "enter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "layer2",
+      "label": "secondary",
+      "rows": [
+        {
+          "keys": [
+            {
+              "label": "ぱ",
+              "code": 12401
+            },
+            {
+              "label": "ひ",
+              "code": 12402
+            },
+            {
+              "label": "び",
+              "code": 12403
+            },
+            {
+              "label": "ぴ",
+              "code": 12404
+            },
+            {
+              "label": "ふ",
+              "code": 12405
+            },
+            {
+              "label": "ぶ",
+              "code": 12406
+            },
+            {
+              "label": "ぷ",
+              "code": 12407
+            },
+            {
+              "label": "へ",
+              "code": 12408
+            },
+            {
+              "label": "べ",
+              "code": 12409
+            },
+            {
+              "label": "ぺ",
+              "code": 12410
+            },
+            {
+              "label": "ほ",
+              "code": 12411
+            },
+            {
+              "label": "ぼ",
+              "code": 12412
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "ぽ",
+              "code": 12413
+            },
+            {
+              "label": "ま",
+              "code": 12414
+            },
+            {
+              "label": "み",
+              "code": 12415
+            },
+            {
+              "label": "む",
+              "code": 12416
+            },
+            {
+              "label": "め",
+              "code": 12417
+            },
+            {
+              "label": "も",
+              "code": 12418
+            },
+            {
+              "label": "ゃ",
+              "code": 12419
+            },
+            {
+              "label": "や",
+              "code": 12420
+            },
+            {
+              "label": "ゅ",
+              "code": 12421
+            },
+            {
+              "label": "ゆ",
+              "code": 12422
+            },
+            {
+              "label": "ょ",
+              "code": 12423
+            },
+            {
+              "label": "よ",
+              "code": 12424
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "ら",
+              "code": 12425
+            },
+            {
+              "label": "り",
+              "code": 12426
+            },
+            {
+              "label": "る",
+              "code": 12427
+            },
+            {
+              "label": "れ",
+              "code": 12428
+            },
+            {
+              "label": "ろ",
+              "code": 12429
+            },
+            {
+              "label": "ゎ",
+              "code": 12430
+            },
+            {
+              "label": "わ",
+              "code": 12431
+            },
+            {
+              "label": "ゐ",
+              "code": 12432
+            },
+            {
+              "label": "ゑ",
+              "code": 12433
+            },
+            {
+              "label": "を",
+              "code": 12434
+            },
+            {
+              "label": "ん",
+              "code": 12435
+            },
+            {
+              "label": "ゔ",
+              "code": 12436
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "ゕ",
+              "code": 12437
+            },
+            {
+              "label": "ゖ",
+              "code": 12438
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "type": "layer"
+            },
+            {
+              "type": "symbols"
+            },
+            {
+              "type": "language"
+            },
+            {
+              "type": "emoji"
+            },
+            {
+              "type": "space"
+            },
+            {
+              "label": ".",
+              "code": 46
+            },
+            {
+              "type": "delete"
+            },
+            {
+              "type": "enter"
+            }
+          ]
+        }
+      ]
+    }
   ]
 }

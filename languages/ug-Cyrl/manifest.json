@@ -3,8 +3,8 @@
   "name": "Uyghur (Cyrillic)",
   "nativeName": "уйғурчә",
   "locale": "ug-Cyrl",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1225,
-  "sha256": "02a4f4d6e048028036481a3cf0b8dab57e167c76be4d017adee66e4eb9a6e40e"
+  "sizeBytes": 1368,
+  "sha256": "ace23b6d55ef9c6fa34fd980fa8118f74ee5b982b4ae585bd84534dde756acc4"
 }

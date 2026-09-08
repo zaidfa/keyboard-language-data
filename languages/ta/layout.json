@@ -1,14 +1,408 @@
 {
   "id": "ta",
   "type": "main",
-  "rows": [
-    { "keys": [{"label": "அ", "code": 2949}, {"label": "ஆ", "code": 2950}, {"label": "இ", "code": 2951}, {"label": "ஈ", "code": 2952}, {"label": "உ", "code": 2953}, {"label": "ஊ", "code": 2954}, {"label": "எ", "code": 2958}, {"label": "ஏ", "code": 2959}, {"label": "ஐ", "code": 2960}, {"label": "ஒ", "code": 2962}, {"label": "ஓ", "code": 2963}, {"label": "ஔ", "code": 2964}] },
-    { "keys": [{"label": "க", "code": 2965}, {"label": "஖", "code": 2966}, {"label": "஗", "code": 2967}, {"label": "஘", "code": 2968}, {"label": "ங", "code": 2969}, {"label": "ச", "code": 2970}, {"label": "஛", "code": 2971}, {"label": "ஜ", "code": 2972}, {"label": "஝", "code": 2973}, {"label": "ஞ", "code": 2974}, {"label": "ட", "code": 2975}, {"label": "஠", "code": 2976}] },
-    { "keys": [{"label": "஡", "code": 2977}, {"label": "஢", "code": 2978}, {"label": "ண", "code": 2979}, {"label": "த", "code": 2980}, {"label": "஥", "code": 2981}, {"label": "஦", "code": 2982}, {"label": "஧", "code": 2983}, {"label": "ந", "code": 2984}, {"label": "ன", "code": 2985}, {"label": "ப", "code": 2986}, {"label": "஫", "code": 2987}, {"label": "஬", "code": 2988}] },
-    { "keys": [{"label": "஭", "code": 2989}, {"label": "ம", "code": 2990}, {"label": "ய", "code": 2991}, {"label": "ர", "code": 2992}, {"label": "ற", "code": 2993}, {"label": "ல", "code": 2994}, {"label": "ள", "code": 2995}, {"label": "ழ", "code": 2996}, {"label": "வ", "code": 2997}, {"label": "ஶ", "code": 2998}, {"label": "ஷ", "code": 2999}, {"label": "ஸ", "code": 3000}] },
-    { "keys": [{"label": "ஹ", "code": 3001}, {"label": "ா", "code": 3006}, {"label": "ி", "code": 3007}, {"label": "ீ", "code": 3008}, {"label": "ு", "code": 3009}, {"label": "ூ", "code": 3010}, {"label": "௃", "code": 3011}, {"label": "௄", "code": 3012}, {"label": "௅", "code": 3013}, {"label": "ெ", "code": 3014}, {"label": "ே", "code": 3015}, {"label": "ை", "code": 3016}] },
-    { "keys": [{"label": "௉", "code": 3017}, {"label": "ொ", "code": 3018}, {"label": "ோ", "code": 3019}, {"label": "ௌ", "code": 3020}, {"label": "ஂ", "code": 2946}, {"label": "ஃ", "code": 2947}, {"label": "௦", "code": 3046}, {"label": "௧", "code": 3047}, {"label": "௨", "code": 3048}, {"label": "௩", "code": 3049}, {"label": "௪", "code": 3050}, {"label": "௫", "code": 3051}] },
-    { "keys": [{"label": "௬", "code": 3052}, {"label": "௭", "code": 3053}, {"label": "௮", "code": 3054}, {"label": "௯", "code": 3055}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+  "layers": [
+    {
+      "id": "primary",
+      "label": "primary",
+      "rows": [
+        {
+          "keys": [
+            {
+              "label": "அ",
+              "code": 2949
+            },
+            {
+              "label": "ஆ",
+              "code": 2950
+            },
+            {
+              "label": "இ",
+              "code": 2951
+            },
+            {
+              "label": "ஈ",
+              "code": 2952
+            },
+            {
+              "label": "உ",
+              "code": 2953
+            },
+            {
+              "label": "ஊ",
+              "code": 2954
+            },
+            {
+              "label": "எ",
+              "code": 2958
+            },
+            {
+              "label": "ஏ",
+              "code": 2959
+            },
+            {
+              "label": "ஐ",
+              "code": 2960
+            },
+            {
+              "label": "ஒ",
+              "code": 2962
+            },
+            {
+              "label": "ஓ",
+              "code": 2963
+            },
+            {
+              "label": "ஔ",
+              "code": 2964
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "க",
+              "code": 2965
+            },
+            {
+              "label": "஖",
+              "code": 2966
+            },
+            {
+              "label": "஗",
+              "code": 2967
+            },
+            {
+              "label": "஘",
+              "code": 2968
+            },
+            {
+              "label": "ங",
+              "code": 2969
+            },
+            {
+              "label": "ச",
+              "code": 2970
+            },
+            {
+              "label": "஛",
+              "code": 2971
+            },
+            {
+              "label": "ஜ",
+              "code": 2972
+            },
+            {
+              "label": "஝",
+              "code": 2973
+            },
+            {
+              "label": "ஞ",
+              "code": 2974
+            },
+            {
+              "label": "ட",
+              "code": 2975
+            },
+            {
+              "label": "஠",
+              "code": 2976
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "஡",
+              "code": 2977
+            },
+            {
+              "label": "஢",
+              "code": 2978
+            },
+            {
+              "label": "ண",
+              "code": 2979
+            },
+            {
+              "label": "த",
+              "code": 2980
+            },
+            {
+              "label": "஥",
+              "code": 2981
+            },
+            {
+              "label": "஦",
+              "code": 2982
+            },
+            {
+              "label": "஧",
+              "code": 2983
+            },
+            {
+              "label": "ந",
+              "code": 2984
+            },
+            {
+              "label": "ன",
+              "code": 2985
+            },
+            {
+              "label": "ப",
+              "code": 2986
+            },
+            {
+              "label": "஫",
+              "code": 2987
+            },
+            {
+              "label": "஬",
+              "code": 2988
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "஭",
+              "code": 2989
+            },
+            {
+              "label": "ம",
+              "code": 2990
+            },
+            {
+              "label": "ய",
+              "code": 2991
+            },
+            {
+              "label": "ர",
+              "code": 2992
+            },
+            {
+              "label": "ற",
+              "code": 2993
+            },
+            {
+              "label": "ல",
+              "code": 2994
+            },
+            {
+              "label": "ள",
+              "code": 2995
+            },
+            {
+              "label": "ழ",
+              "code": 2996
+            },
+            {
+              "label": "வ",
+              "code": 2997
+            },
+            {
+              "label": "ஶ",
+              "code": 2998
+            },
+            {
+              "label": "ஷ",
+              "code": 2999
+            },
+            {
+              "label": "ஸ",
+              "code": 3000
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "type": "layer"
+            },
+            {
+              "type": "symbols"
+            },
+            {
+              "type": "language"
+            },
+            {
+              "type": "emoji"
+            },
+            {
+              "type": "space"
+            },
+            {
+              "label": ".",
+              "code": 46
+            },
+            {
+              "type": "delete"
+            },
+            {
+              "type": "enter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "layer2",
+      "label": "secondary",
+      "rows": [
+        {
+          "keys": [
+            {
+              "label": "ஹ",
+              "code": 3001
+            },
+            {
+              "label": "ா",
+              "code": 3006
+            },
+            {
+              "label": "ி",
+              "code": 3007
+            },
+            {
+              "label": "ீ",
+              "code": 3008
+            },
+            {
+              "label": "ு",
+              "code": 3009
+            },
+            {
+              "label": "ூ",
+              "code": 3010
+            },
+            {
+              "label": "௃",
+              "code": 3011
+            },
+            {
+              "label": "௄",
+              "code": 3012
+            },
+            {
+              "label": "௅",
+              "code": 3013
+            },
+            {
+              "label": "ெ",
+              "code": 3014
+            },
+            {
+              "label": "ே",
+              "code": 3015
+            },
+            {
+              "label": "ை",
+              "code": 3016
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "௉",
+              "code": 3017
+            },
+            {
+              "label": "ொ",
+              "code": 3018
+            },
+            {
+              "label": "ோ",
+              "code": 3019
+            },
+            {
+              "label": "ௌ",
+              "code": 3020
+            },
+            {
+              "label": "ஂ",
+              "code": 2946
+            },
+            {
+              "label": "ஃ",
+              "code": 2947
+            },
+            {
+              "label": "௦",
+              "code": 3046
+            },
+            {
+              "label": "௧",
+              "code": 3047
+            },
+            {
+              "label": "௨",
+              "code": 3048
+            },
+            {
+              "label": "௩",
+              "code": 3049
+            },
+            {
+              "label": "௪",
+              "code": 3050
+            },
+            {
+              "label": "௫",
+              "code": 3051
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "label": "௬",
+              "code": 3052
+            },
+            {
+              "label": "௭",
+              "code": 3053
+            },
+            {
+              "label": "௮",
+              "code": 3054
+            },
+            {
+              "label": "௯",
+              "code": 3055
+            }
+          ]
+        },
+        {
+          "keys": [
+            {
+              "type": "layer"
+            },
+            {
+              "type": "symbols"
+            },
+            {
+              "type": "language"
+            },
+            {
+              "type": "emoji"
+            },
+            {
+              "type": "space"
+            },
+            {
+              "label": ".",
+              "code": 46
+            },
+            {
+              "type": "delete"
+            },
+            {
+              "type": "enter"
+            }
+          ]
+        }
+      ]
+    }
   ]
 }

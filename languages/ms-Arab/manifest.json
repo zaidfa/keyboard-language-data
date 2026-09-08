@@ -3,8 +3,8 @@
   "name": "Malay (Arabic)",
   "nativeName": "ملايو",
   "locale": "ms-Arab",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1249,
-  "sha256": "c2b821cb26c75301112962735a9a6892e0ee8a2ad8995598925947f04a95eb08"
+  "sizeBytes": 1409,
+  "sha256": "fc42e2118da94d1e2b2eb3faed0276982f752d9e784831cfbc05341a34de3b7a"
 }

@@ -3,8 +3,8 @@
   "name": "Chechen",
   "nativeName": "Нохчийн",
   "locale": "ce",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1205,
-  "sha256": "999c473c6158563556f6958c4fb8c5e71cee391421410c32de86f0265c2ca9ba"
+  "sizeBytes": 1348,
+  "sha256": "b0d1cce3c1a2fd4f04e1044ced0e6c3143b8b1e9f8ea564c262f96849c667be9"
 }

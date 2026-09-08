@@ -3,8 +3,8 @@
   "name": "Nepali (India)",
   "nativeName": "नेपाली",
   "locale": "ne-IN",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1393,
-  "sha256": "3d880d68c1742c2616e96479e63b60d81ff8cef2ac7f8507b178a3551eb07d3d"
+  "sizeBytes": 1567,
+  "sha256": "c1bdfa16a3b74d7378fc8708d6bc47c256204355f6ca467be3f2d57f1c758ab3"
 }

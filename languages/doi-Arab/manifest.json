@@ -3,8 +3,8 @@
   "name": "Dogri (Arabic)",
   "nativeName": "ڈوگری",
   "locale": "doi-Arab",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1254,
-  "sha256": "de60ded3f62118fa7d517641c9b31ebe012a04ee1a479da85b23d1cdbd62d427"
+  "sizeBytes": 1413,
+  "sha256": "68a98577e3dbe44ea9eea6be69a8a3b06e1e5436db3bbe49a26177771279790a"
 }

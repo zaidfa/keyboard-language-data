@@ -3,8 +3,8 @@
   "name": "Bulgarian",
   "nativeName": "Български",
   "locale": "bg",
-  "version": 1,
+  "version": 2,
   "package": "language.zip",
-  "sizeBytes": 1212,
-  "sha256": "2bf977451b2ae42b49bbed86f766c175db0f1c397c83ca9799ec16371bedc410"
+  "sizeBytes": 1356,
+  "sha256": "1bed18034b0f2e72b33a0434b69a1f19549fb5376ac274e4ca17131d48501f97"
 }
