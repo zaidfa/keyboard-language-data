@@ -9,6 +9,6 @@
     { "keys": [{"label": "າ", "code": 3762}, {"label": "ຳ", "code": 3763}, {"label": "ິ", "code": 3764}, {"label": "ີ", "code": 3765}, {"label": "ຶ", "code": 3766}, {"label": "ື", "code": 3767}, {"label": "ຸ", "code": 3768}, {"label": "ູ", "code": 3769}, {"label": "຺", "code": 3770}, {"label": "ົ", "code": 3771}, {"label": "ຼ", "code": 3772}, {"label": "ຽ", "code": 3773}] },
     { "keys": [{"label": "ເ", "code": 3776}, {"label": "ແ", "code": 3777}, {"label": "ໂ", "code": 3778}, {"label": "ໃ", "code": 3779}, {"label": "ໄ", "code": 3780}, {"label": "່", "code": 3784}, {"label": "້", "code": 3785}, {"label": "໊", "code": 3786}, {"label": "໋", "code": 3787}, {"label": "໌", "code": 3788}, {"label": "ໍ", "code": 3789}, {"label": "໐", "code": 3792}] },
     { "keys": [{"label": "໑", "code": 3793}, {"label": "໒", "code": 3794}, {"label": "໓", "code": 3795}, {"label": "໔", "code": 3796}, {"label": "໕", "code": 3797}, {"label": "໖", "code": 3798}, {"label": "໗", "code": 3799}, {"label": "໘", "code": 3800}, {"label": "໙", "code": 3801}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
   ]
 }

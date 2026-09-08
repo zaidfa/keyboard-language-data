@@ -6,6 +6,6 @@
     { "keys": [{"label": "լ", "code": 1388}, {"label": "խ", "code": 1389}, {"label": "ծ", "code": 1390}, {"label": "կ", "code": 1391}, {"label": "հ", "code": 1392}, {"label": "ձ", "code": 1393}, {"label": "ղ", "code": 1394}, {"label": "ճ", "code": 1395}, {"label": "մ", "code": 1396}, {"label": "յ", "code": 1397}, {"label": "ն", "code": 1398}] },
     { "keys": [{"label": "շ", "code": 1399}, {"label": "ո", "code": 1400}, {"label": "չ", "code": 1401}, {"label": "պ", "code": 1402}, {"label": "ջ", "code": 1403}, {"label": "ռ", "code": 1404}, {"label": "ս", "code": 1405}, {"label": "վ", "code": 1406}, {"label": "տ", "code": 1407}, {"label": "ր", "code": 1408}, {"label": "ց", "code": 1409}] },
     { "keys": [{"type": "shift"}, {"label": "ւ", "code": 1410}, {"label": "փ", "code": 1411}, {"label": "ք", "code": 1412}, {"label": "օ", "code": 1413}, {"label": "ֆ", "code": 1414}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
   ]
 }

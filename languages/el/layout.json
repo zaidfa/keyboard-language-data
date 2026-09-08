@@ -5,6 +5,6 @@
     { "keys": [{"label": "α", "code": 945}, {"label": "β", "code": 946}, {"label": "γ", "code": 947}, {"label": "δ", "code": 948}, {"label": "ε", "code": 949}, {"label": "ζ", "code": 950}, {"label": "η", "code": 951}, {"label": "θ", "code": 952}, {"label": "ι", "code": 953}, {"label": "κ", "code": 954}] },
     { "keys": [{"label": "λ", "code": 955}, {"label": "μ", "code": 956}, {"label": "ν", "code": 957}, {"label": "ξ", "code": 958}, {"label": "ο", "code": 959}, {"label": "π", "code": 960}, {"label": "ρ", "code": 961}, {"label": "ς", "code": 962}, {"label": "σ", "code": 963}, {"label": "τ", "code": 964}] },
     { "keys": [{"type": "shift"}, {"label": "υ", "code": 965}, {"label": "φ", "code": 966}, {"label": "χ", "code": 967}, {"label": "ψ", "code": 968}, {"label": "ω", "code": 969}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
   ]
 }

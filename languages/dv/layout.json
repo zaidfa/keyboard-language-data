@@ -7,6 +7,6 @@
     { "keys": [{"label": "ޘ", "code": 1944}, {"label": "ޙ", "code": 1945}, {"label": "ޚ", "code": 1946}, {"label": "ޛ", "code": 1947}, {"label": "ޜ", "code": 1948}, {"label": "ޝ", "code": 1949}, {"label": "ޞ", "code": 1950}, {"label": "ޟ", "code": 1951}, {"label": "ޠ", "code": 1952}, {"label": "ޡ", "code": 1953}, {"label": "ޢ", "code": 1954}, {"label": "ޣ", "code": 1955}] },
     { "keys": [{"label": "ޤ", "code": 1956}, {"label": "ޥ", "code": 1957}, {"label": "ަ", "code": 1958}, {"label": "ާ", "code": 1959}, {"label": "ި", "code": 1960}, {"label": "ީ", "code": 1961}, {"label": "ު", "code": 1962}, {"label": "ޫ", "code": 1963}, {"label": "ެ", "code": 1964}, {"label": "ޭ", "code": 1965}, {"label": "ޮ", "code": 1966}, {"label": "ޯ", "code": 1967}] },
     { "keys": [{"label": "ް", "code": 1968}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
   ]
 }

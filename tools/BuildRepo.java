@@ -30,10 +30,10 @@ public class BuildRepo {
         File seedFile = new File(repoDir, "tools/languages_seed.json");
         List<Lang> seed = parseSeed(seedFile);
 
-        // Built-in languages we have real data for -> package id : {mainXml, symbolsXml}
+        // Built-in XML export is no longer used: en-US and vi already exist as
+        // authored language folders (packaged by the scan below). The Vietnamese
+        // source XML was removed from the app (vi is cloud-only now).
         Map<String, String[]> builtin = new LinkedHashMap<>();
-        builtin.put("en-US", new String[]{"z6.xml", "z10.xml"});
-        builtin.put("vi", new String[]{"qwerty_khmer.xml", "symbols_khmer.xml"});
 
         Map<String, PkgResult> built = new HashMap<>();
 

@@ -9,6 +9,6 @@
     { "keys": [{"label": "ಷ", "code": 3255}, {"label": "ಸ", "code": 3256}, {"label": "ಹ", "code": 3257}, {"label": "ಾ", "code": 3262}, {"label": "ಿ", "code": 3263}, {"label": "ೀ", "code": 3264}, {"label": "ು", "code": 3265}, {"label": "ೂ", "code": 3266}, {"label": "ೃ", "code": 3267}, {"label": "ೄ", "code": 3268}, {"label": "೅", "code": 3269}, {"label": "ೆ", "code": 3270}] },
     { "keys": [{"label": "ೇ", "code": 3271}, {"label": "ೈ", "code": 3272}, {"label": "೉", "code": 3273}, {"label": "ೊ", "code": 3274}, {"label": "ೋ", "code": 3275}, {"label": "ೌ", "code": 3276}, {"label": "೦", "code": 3302}, {"label": "೧", "code": 3303}, {"label": "೨", "code": 3304}, {"label": "೩", "code": 3305}, {"label": "೪", "code": 3306}, {"label": "೫", "code": 3307}] },
     { "keys": [{"label": "೬", "code": 3308}, {"label": "೭", "code": 3309}, {"label": "೮", "code": 3310}, {"label": "೯", "code": 3311}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
   ]
 }

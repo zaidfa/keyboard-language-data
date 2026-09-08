@@ -6,6 +6,6 @@
     { "keys": [{"label": "ꯋ", "code": 43979}, {"label": "ꯌ", "code": 43980}, {"label": "ꯍ", "code": 43981}, {"label": "ꯎ", "code": 43982}, {"label": "ꯏ", "code": 43983}, {"label": "ꯐ", "code": 43984}, {"label": "ꯑ", "code": 43985}, {"label": "ꯒ", "code": 43986}, {"label": "ꯓ", "code": 43987}, {"label": "ꯔ", "code": 43988}, {"label": "ꯕ", "code": 43989}] },
     { "keys": [{"label": "ꯖ", "code": 43990}, {"label": "ꯗ", "code": 43991}, {"label": "ꯘ", "code": 43992}, {"label": "ꯙ", "code": 43993}, {"label": "ꯚ", "code": 43994}, {"label": "ꯛ", "code": 43995}, {"label": "ꯜ", "code": 43996}, {"label": "ꯝ", "code": 43997}, {"label": "ꯞ", "code": 43998}, {"label": "ꯟ", "code": 43999}, {"label": "ꯠ", "code": 44000}] },
     { "keys": [{"label": "ꯡ", "code": 44001}, {"label": "ꯢ", "code": 44002}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
   ]
 }

@@ -10,6 +10,6 @@
     { "keys": [{"label": "ॅ", "code": 2373}, {"label": "ॆ", "code": 2374}, {"label": "े", "code": 2375}, {"label": "ै", "code": 2376}, {"label": "ॉ", "code": 2377}, {"label": "ॊ", "code": 2378}, {"label": "ो", "code": 2379}, {"label": "ौ", "code": 2380}, {"label": "्", "code": 2381}, {"label": "ँ", "code": 2305}, {"label": "ं", "code": 2306}, {"label": "ः", "code": 2307}] },
     { "keys": [{"label": "०", "code": 2406}, {"label": "१", "code": 2407}, {"label": "२", "code": 2408}, {"label": "३", "code": 2409}, {"label": "४", "code": 2410}, {"label": "५", "code": 2411}, {"label": "६", "code": 2412}, {"label": "७", "code": 2413}, {"label": "८", "code": 2414}, {"label": "९", "code": 2415}, {"label": "ॐ", "code": 2384}, {"label": "क़", "code": 2392}] },
     { "keys": [{"label": "ख़", "code": 2393}, {"label": "ग़", "code": 2394}, {"label": "ज़", "code": 2395}, {"label": "ड़", "code": 2396}, {"label": "ढ़", "code": 2397}, {"label": "फ़", "code": 2398}, {"label": "य़", "code": 2399}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
   ]
 }

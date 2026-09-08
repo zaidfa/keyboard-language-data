@@ -10,6 +10,6 @@
     { "keys": [{"label": "ぽ", "code": 12413}, {"label": "ま", "code": 12414}, {"label": "み", "code": 12415}, {"label": "む", "code": 12416}, {"label": "め", "code": 12417}, {"label": "も", "code": 12418}, {"label": "ゃ", "code": 12419}, {"label": "や", "code": 12420}, {"label": "ゅ", "code": 12421}, {"label": "ゆ", "code": 12422}, {"label": "ょ", "code": 12423}, {"label": "よ", "code": 12424}] },
     { "keys": [{"label": "ら", "code": 12425}, {"label": "り", "code": 12426}, {"label": "る", "code": 12427}, {"label": "れ", "code": 12428}, {"label": "ろ", "code": 12429}, {"label": "ゎ", "code": 12430}, {"label": "わ", "code": 12431}, {"label": "ゐ", "code": 12432}, {"label": "ゑ", "code": 12433}, {"label": "を", "code": 12434}, {"label": "ん", "code": 12435}, {"label": "ゔ", "code": 12436}] },
     { "keys": [{"label": "ゕ", "code": 12437}, {"label": "ゖ", "code": 12438}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
   ]
 }

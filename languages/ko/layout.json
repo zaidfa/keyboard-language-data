@@ -6,6 +6,6 @@
     { "keys": [{"label": "ㅁ", "code": 12609}, {"label": "ㄴ", "code": 12596}, {"label": "ㅇ", "code": 12615}, {"label": "ㄹ", "code": 12601}, {"label": "ㅎ", "code": 12622}, {"label": "ㅗ", "code": 12631}, {"label": "ㅓ", "code": 12627}, {"label": "ㅏ", "code": 12623}, {"label": "ㅣ", "code": 12643}] },
     { "keys": [{"label": "ㅋ", "code": 12619}, {"label": "ㅌ", "code": 12620}, {"label": "ㅊ", "code": 12618}, {"label": "ㅍ", "code": 12621}, {"label": "ㅠ", "code": 12640}, {"label": "ㅜ", "code": 12636}, {"label": "ㅡ", "code": 12641}, {"type": "delete"}] },
     { "keys": [{"label": "ㄲ", "code": 12594}, {"label": "ㄸ", "code": 12600}, {"label": "ㅃ", "code": 12611}, {"label": "ㅆ", "code": 12614}, {"label": "ㅉ", "code": 12617}, {"label": "ㅒ", "code": 12626}, {"label": "ㅖ", "code": 12630}] },
-    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
   ]
 }

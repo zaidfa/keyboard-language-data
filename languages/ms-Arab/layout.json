@@ -8,6 +8,6 @@
     { "keys": [{"label": "م", "code": 1605}, {"label": "ن", "code": 1606}, {"label": "ه", "code": 1607}, {"label": "و", "code": 1608}, {"label": "ى", "code": 1609}, {"label": "ي", "code": 1610}, {"label": "ٱ", "code": 1649}, {"label": "پ", "code": 1662}, {"label": "چ", "code": 1670}, {"label": "ژ", "code": 1688}, {"label": "ک", "code": 1705}, {"label": "گ", "code": 1711}] },
     { "keys": [{"label": "ھ", "code": 1726}, {"label": "ہ", "code": 1729}, {"label": "ی", "code": 1740}, {"label": "ے", "code": 1746}, {"label": "ٹ", "code": 1657}, {"label": "ڈ", "code": 1672}, {"label": "ڑ", "code": 1681}, {"label": "ں", "code": 1722}, {"label": "ۓ", "code": 1747}, {"label": "ڭ", "code": 1709}, {"label": "ۇ", "code": 1735}, {"label": "ۆ", "code": 1734}] },
     { "keys": [{"label": "ۈ", "code": 1736}, {"label": "ە", "code": 1749}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
   ]
 }

@@ -9,6 +9,6 @@
     { "keys": [{"label": "า", "code": 3634}, {"label": "ำ", "code": 3635}, {"label": "ิ", "code": 3636}, {"label": "ี", "code": 3637}, {"label": "ึ", "code": 3638}, {"label": "ื", "code": 3639}, {"label": "ุ", "code": 3640}, {"label": "ู", "code": 3641}, {"label": "ฺ", "code": 3642}, {"label": "เ", "code": 3648}, {"label": "แ", "code": 3649}, {"label": "โ", "code": 3650}] },
     { "keys": [{"label": "ใ", "code": 3651}, {"label": "ไ", "code": 3652}, {"label": "ๅ", "code": 3653}, {"label": "ๆ", "code": 3654}, {"label": "็", "code": 3655}, {"label": "่", "code": 3656}, {"label": "้", "code": 3657}, {"label": "๊", "code": 3658}, {"label": "๋", "code": 3659}, {"label": "์", "code": 3660}, {"label": "ํ", "code": 3661}, {"label": "๎", "code": 3662}] },
     { "keys": [{"label": "๐", "code": 3664}, {"label": "๑", "code": 3665}, {"label": "๒", "code": 3666}, {"label": "๓", "code": 3667}, {"label": "๔", "code": 3668}, {"label": "๕", "code": 3669}, {"label": "๖", "code": 3670}, {"label": "๗", "code": 3671}, {"label": "๘", "code": 3672}, {"label": "๙", "code": 3673}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
   ]
 }

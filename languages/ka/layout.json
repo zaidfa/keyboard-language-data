@@ -5,6 +5,6 @@
     { "keys": [{"label": "ა", "code": 4304}, {"label": "ბ", "code": 4305}, {"label": "გ", "code": 4306}, {"label": "დ", "code": 4307}, {"label": "ე", "code": 4308}, {"label": "ვ", "code": 4309}, {"label": "ზ", "code": 4310}, {"label": "თ", "code": 4311}, {"label": "ი", "code": 4312}, {"label": "კ", "code": 4313}, {"label": "ლ", "code": 4314}] },
     { "keys": [{"label": "მ", "code": 4315}, {"label": "ნ", "code": 4316}, {"label": "ო", "code": 4317}, {"label": "პ", "code": 4318}, {"label": "ჟ", "code": 4319}, {"label": "რ", "code": 4320}, {"label": "ს", "code": 4321}, {"label": "ტ", "code": 4322}, {"label": "უ", "code": 4323}, {"label": "ფ", "code": 4324}, {"label": "ქ", "code": 4325}] },
     { "keys": [{"label": "ღ", "code": 4326}, {"label": "ყ", "code": 4327}, {"label": "შ", "code": 4328}, {"label": "ჩ", "code": 4329}, {"label": "ც", "code": 4330}, {"label": "ძ", "code": 4331}, {"label": "წ", "code": 4332}, {"label": "ჭ", "code": 4333}, {"label": "ხ", "code": 4334}, {"label": "ჯ", "code": 4335}, {"label": "ჰ", "code": 4336}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
   ]
 }

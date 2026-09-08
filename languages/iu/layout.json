@@ -5,6 +5,6 @@
     { "keys": [{"label": "ᐃ", "code": 5123}, {"label": "ᐅ", "code": 5125}, {"label": "ᐊ", "code": 5130}, {"label": "ᐱ", "code": 5169}, {"label": "ᐲ", "code": 5170}, {"label": "ᐳ", "code": 5171}, {"label": "ᑦ", "code": 5222}, {"label": "ᑧ", "code": 5223}, {"label": "ᑨ", "code": 5224}, {"label": "ᒡ", "code": 5281}] },
     { "keys": [{"label": "ᒣ", "code": 5283}, {"label": "ᒥ", "code": 5285}, {"label": "ᒻ", "code": 5307}, {"label": "ᒼ", "code": 5308}, {"label": "ᓀ", "code": 5312}, {"label": "ᓯ", "code": 5359}, {"label": "ᓱ", "code": 5361}, {"label": "ᓳ", "code": 5363}, {"label": "ᕐ", "code": 5456}, {"label": "ᕒ", "code": 5458}] },
     { "keys": [{"label": "ᕔ", "code": 5460}, {"label": "ᖏ", "code": 5519}, {"label": "ᖐ", "code": 5520}, {"label": "ᖑ", "code": 5521}, {"label": "ᖠ", "code": 5536}, {"label": "ᖡ", "code": 5537}, {"label": "ᖢ", "code": 5538}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
   ]
 }

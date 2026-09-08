@@ -6,6 +6,6 @@
     { "keys": [{"label": "ቘ", "code": 4696}, {"label": "በ", "code": 4704}, {"label": "ቨ", "code": 4712}, {"label": "ተ", "code": 4720}, {"label": "ቸ", "code": 4728}, {"label": "ኀ", "code": 4736}, {"label": "ኈ", "code": 4744}, {"label": "ነ", "code": 4752}, {"label": "ኘ", "code": 4760}, {"label": "አ", "code": 4768}, {"label": "ከ", "code": 4776}] },
     { "keys": [{"label": "ኰ", "code": 4784}, {"label": "ኸ", "code": 4792}, {"label": "ዀ", "code": 4800}, {"label": "ወ", "code": 4808}, {"label": "ዐ", "code": 4816}, {"label": "ዘ", "code": 4824}, {"label": "ዠ", "code": 4832}, {"label": "የ", "code": 4840}, {"label": "ደ", "code": 4848}, {"label": "ዸ", "code": 4856}, {"label": "ጀ", "code": 4864}] },
     { "keys": [{"label": "ገ", "code": 4872}, {"label": "ጐ", "code": 4880}, {"label": "ጘ", "code": 4888}, {"label": "ጠ", "code": 4896}, {"label": "ጨ", "code": 4904}, {"label": "ጰ", "code": 4912}, {"label": "ጸ", "code": 4920}, {"label": "ፀ", "code": 4928}, {"label": "ፈ", "code": 4936}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
   ]
 }

@@ -8,6 +8,6 @@
     { "keys": [{"label": "ိ", "code": 4141}, {"label": "ီ", "code": 4142}, {"label": "ု", "code": 4143}, {"label": "ူ", "code": 4144}, {"label": "ေ", "code": 4145}, {"label": "ဲ", "code": 4146}, {"label": "ဳ", "code": 4147}, {"label": "ဴ", "code": 4148}, {"label": "ဵ", "code": 4149}, {"label": "ံ", "code": 4150}, {"label": "့", "code": 4151}, {"label": "း", "code": 4152}] },
     { "keys": [{"label": "ျ", "code": 4155}, {"label": "ြ", "code": 4156}, {"label": "ွ", "code": 4157}, {"label": "ှ", "code": 4158}, {"label": "၀", "code": 4160}, {"label": "၁", "code": 4161}, {"label": "၂", "code": 4162}, {"label": "၃", "code": 4163}, {"label": "၄", "code": 4164}, {"label": "၅", "code": 4165}, {"label": "၆", "code": 4166}, {"label": "၇", "code": 4167}] },
     { "keys": [{"label": "၈", "code": 4168}, {"label": "၉", "code": 4169}, {"type": "delete"}] },
-    { "keys": [{"type": "symbols"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
+    { "keys": [{"type": "symbols"}, {"type": "emoji"}, {"type": "language"}, {"type": "space"}, {"label": ".", "code": 46}, {"type": "enter"}] }
   ]
 }
